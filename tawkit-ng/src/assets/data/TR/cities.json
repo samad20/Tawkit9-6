@@ -1,0 +1,1566 @@
+[
+  {
+    "code": "ADANA",
+    "name": "Adana"
+  },
+  {
+    "code": "ADAPAZARI",
+    "name": "Adapazari"
+  },
+  {
+    "code": "ADILCEVAZ",
+    "name": "Adilcevaz"
+  },
+  {
+    "code": "ADIYAMAN",
+    "name": "Adiyaman"
+  },
+  {
+    "code": "AFSIN",
+    "name": "Afsin"
+  },
+  {
+    "code": "AFYONKARAHISAR",
+    "name": "Afyonkarahisar"
+  },
+  {
+    "code": "AGRI",
+    "name": "Agri"
+  },
+  {
+    "code": "AHLAT",
+    "name": "Ahlat"
+  },
+  {
+    "code": "AKCAABAT",
+    "name": "Akcaabat"
+  },
+  {
+    "code": "AKCAKALE",
+    "name": "Akcakale"
+  },
+  {
+    "code": "AKCAKOCA",
+    "name": "Akcakoca"
+  },
+  {
+    "code": "AKDAGMADENI",
+    "name": "Akdagmadeni"
+  },
+  {
+    "code": "AKHISAR",
+    "name": "Akhisar"
+  },
+  {
+    "code": "AKSARAY",
+    "name": "Aksaray"
+  },
+  {
+    "code": "AKSEHIR",
+    "name": "Aksehir"
+  },
+  {
+    "code": "AKYAZI",
+    "name": "Akyazi"
+  },
+  {
+    "code": "AKYURT",
+    "name": "Akyurt"
+  },
+  {
+    "code": "ALACA",
+    "name": "Alaca"
+  },
+  {
+    "code": "ALANYA",
+    "name": "Alanya"
+  },
+  {
+    "code": "ALAPLI",
+    "name": "Alapli"
+  },
+  {
+    "code": "ALASEHIR",
+    "name": "Alasehir"
+  },
+  {
+    "code": "ALIAGA",
+    "name": "Aliaga"
+  },
+  {
+    "code": "AMASYA",
+    "name": "Amasya"
+  },
+  {
+    "code": "ANAMUR",
+    "name": "Anamur"
+  },
+  {
+    "code": "ANKARA",
+    "name": "Ankara"
+  },
+  {
+    "code": "ANTAKYA",
+    "name": "Antakya"
+  },
+  {
+    "code": "ANTALYA",
+    "name": "Antalya"
+  },
+  {
+    "code": "ARAKLI",
+    "name": "Arakli"
+  },
+  {
+    "code": "ARDAHAN",
+    "name": "Ardahan"
+  },
+  {
+    "code": "ARDESEN",
+    "name": "Ardesen"
+  },
+  {
+    "code": "ARHAVI",
+    "name": "Arhavi"
+  },
+  {
+    "code": "ARNAVUTKOEY",
+    "name": "Arnavutkoey"
+  },
+  {
+    "code": "ARSIN",
+    "name": "Arsin"
+  },
+  {
+    "code": "ARTVIN",
+    "name": "Artvin"
+  },
+  {
+    "code": "ASKALE",
+    "name": "Askale"
+  },
+  {
+    "code": "ATASEHIR",
+    "name": "Atasehir"
+  },
+  {
+    "code": "AYDIN",
+    "name": "Aydin"
+  },
+  {
+    "code": "AYVALIK",
+    "name": "Ayvalik"
+  },
+  {
+    "code": "BABAESKI",
+    "name": "Babaeski"
+  },
+  {
+    "code": "BAFRA",
+    "name": "Bafra"
+  },
+  {
+    "code": "BAGCILAR",
+    "name": "Bagcilar"
+  },
+  {
+    "code": "BAHCELIEVLER",
+    "name": "Bahcelievler"
+  },
+  {
+    "code": "BALIKESIR",
+    "name": "Balikesir"
+  },
+  {
+    "code": "BANAZ",
+    "name": "Banaz"
+  },
+  {
+    "code": "BANDIRMA",
+    "name": "Bandirma"
+  },
+  {
+    "code": "BARTIN",
+    "name": "Bartin"
+  },
+  {
+    "code": "BASAKSEHIR",
+    "name": "Basaksehir"
+  },
+  {
+    "code": "BASKIL",
+    "name": "Baskil"
+  },
+  {
+    "code": "BATIKENT",
+    "name": "Batikent"
+  },
+  {
+    "code": "BATMAN",
+    "name": "Batman"
+  },
+  {
+    "code": "BAYBURT",
+    "name": "Bayburt"
+  },
+  {
+    "code": "BAYINDIR",
+    "name": "Bayindir"
+  },
+  {
+    "code": "BELEK",
+    "name": "Belek"
+  },
+  {
+    "code": "BELEN",
+    "name": "Belen"
+  },
+  {
+    "code": "BERGAMA",
+    "name": "Bergama"
+  },
+  {
+    "code": "BESIKDUZU",
+    "name": "Besikduzu"
+  },
+  {
+    "code": "BESNI",
+    "name": "Besni"
+  },
+  {
+    "code": "BEYKONAK",
+    "name": "Beykonak"
+  },
+  {
+    "code": "BEYLIKDUEZUE",
+    "name": "Beylikduezue"
+  },
+  {
+    "code": "BEYPAZARI",
+    "name": "Beypazari"
+  },
+  {
+    "code": "BEYSEHIR",
+    "name": "Beysehir"
+  },
+  {
+    "code": "BIGA",
+    "name": "Biga"
+  },
+  {
+    "code": "BIGADIC",
+    "name": "Bigadic"
+  },
+  {
+    "code": "BILECIK",
+    "name": "Bilecik"
+  },
+  {
+    "code": "BINGOL",
+    "name": "Bingol"
+  },
+  {
+    "code": "BIRECIK",
+    "name": "Birecik"
+  },
+  {
+    "code": "BISMIL",
+    "name": "Bismil"
+  },
+  {
+    "code": "BITLIS",
+    "name": "Bitlis"
+  },
+  {
+    "code": "BODRUM",
+    "name": "Bodrum"
+  },
+  {
+    "code": "BOLU",
+    "name": "Bolu"
+  },
+  {
+    "code": "BOLVADIN",
+    "name": "Bolvadin"
+  },
+  {
+    "code": "BOR",
+    "name": "Bor"
+  },
+  {
+    "code": "BOYABAT",
+    "name": "Boyabat"
+  },
+  {
+    "code": "BOZOVA",
+    "name": "Bozova"
+  },
+  {
+    "code": "BOZUYUK",
+    "name": "Bozuyuk"
+  },
+  {
+    "code": "BOZYAZI",
+    "name": "Bozyazi"
+  },
+  {
+    "code": "BUCAK",
+    "name": "Bucak"
+  },
+  {
+    "code": "BUEYUEKCEKMECE",
+    "name": "Bueyuekcekmece"
+  },
+  {
+    "code": "BULANCAK",
+    "name": "Bulancak"
+  },
+  {
+    "code": "BULANIK",
+    "name": "Bulanik"
+  },
+  {
+    "code": "BURDUR",
+    "name": "Burdur"
+  },
+  {
+    "code": "BURHANIYE",
+    "name": "Burhaniye"
+  },
+  {
+    "code": "BURSA",
+    "name": "Bursa"
+  },
+  {
+    "code": "CAGLAYANCERIT",
+    "name": "Caglayancerit"
+  },
+  {
+    "code": "CAN",
+    "name": "Can"
+  },
+  {
+    "code": "CANAKKALE",
+    "name": "Canakkale"
+  },
+  {
+    "code": "CANKAYA",
+    "name": "Cankaya"
+  },
+  {
+    "code": "CANKIRI",
+    "name": "Cankiri"
+  },
+  {
+    "code": "CARSAMBA",
+    "name": "Carsamba"
+  },
+  {
+    "code": "CATALCA",
+    "name": "Catalca"
+  },
+  {
+    "code": "CAY",
+    "name": "Cay"
+  },
+  {
+    "code": "CAYCUMA",
+    "name": "Caycuma"
+  },
+  {
+    "code": "CAYELI",
+    "name": "Cayeli"
+  },
+  {
+    "code": "CERKES",
+    "name": "Cerkes"
+  },
+  {
+    "code": "CERKEZKOEY",
+    "name": "Cerkezkoey"
+  },
+  {
+    "code": "CERMIK",
+    "name": "Cermik"
+  },
+  {
+    "code": "CESME",
+    "name": "Cesme"
+  },
+  {
+    "code": "CEYHAN",
+    "name": "Ceyhan"
+  },
+  {
+    "code": "CEYLANPINAR",
+    "name": "Ceylanpinar"
+  },
+  {
+    "code": "CIMIN",
+    "name": "Cimin"
+  },
+  {
+    "code": "CINE",
+    "name": "Cine"
+  },
+  {
+    "code": "CIZRE",
+    "name": "Cizre"
+  },
+  {
+    "code": "CORLU",
+    "name": "Corlu"
+  },
+  {
+    "code": "CORUM",
+    "name": "Corum"
+  },
+  {
+    "code": "CUBUK",
+    "name": "Cubuk"
+  },
+  {
+    "code": "CUMRA",
+    "name": "Cumra"
+  },
+  {
+    "code": "DALAMAN",
+    "name": "Dalaman"
+  },
+  {
+    "code": "DARENDE",
+    "name": "Darende"
+  },
+  {
+    "code": "DARGECIT",
+    "name": "Dargecit"
+  },
+  {
+    "code": "DEMIRCI",
+    "name": "Demirci"
+  },
+  {
+    "code": "DENIZCILER",
+    "name": "Denizciler"
+  },
+  {
+    "code": "DENIZLI",
+    "name": "Denizli"
+  },
+  {
+    "code": "DERINCE",
+    "name": "Derince"
+  },
+  {
+    "code": "DEVELI",
+    "name": "Develi"
+  },
+  {
+    "code": "DEVREK",
+    "name": "Devrek"
+  },
+  {
+    "code": "DIDIM",
+    "name": "Didim"
+  },
+  {
+    "code": "DINAR",
+    "name": "Dinar"
+  },
+  {
+    "code": "DIYADIN",
+    "name": "Diyadin"
+  },
+  {
+    "code": "DIYARBAKIR",
+    "name": "Diyarbakir"
+  },
+  {
+    "code": "DOERTYOL",
+    "name": "Doertyol"
+  },
+  {
+    "code": "DOGUBAYAZIT",
+    "name": "Dogubayazit"
+  },
+  {
+    "code": "DUEZCE",
+    "name": "Duezce"
+  },
+  {
+    "code": "DURSUNBEY",
+    "name": "Dursunbey"
+  },
+  {
+    "code": "EDIRNE",
+    "name": "Edirne"
+  },
+  {
+    "code": "EDREMIT",
+    "name": "Edremit"
+  },
+  {
+    "code": "EGIRDIR",
+    "name": "Egirdir"
+  },
+  {
+    "code": "ELAZIG",
+    "name": "Elazig"
+  },
+  {
+    "code": "ELBISTAN",
+    "name": "Elbistan"
+  },
+  {
+    "code": "ELESKIRT",
+    "name": "Eleskirt"
+  },
+  {
+    "code": "ELMADAG",
+    "name": "Elmadag"
+  },
+  {
+    "code": "ELMALI",
+    "name": "Elmali"
+  },
+  {
+    "code": "EMET",
+    "name": "Emet"
+  },
+  {
+    "code": "EMINOENUE",
+    "name": "Eminoenue"
+  },
+  {
+    "code": "EMIRDAG",
+    "name": "Emirdag"
+  },
+  {
+    "code": "ERBAA",
+    "name": "Erbaa"
+  },
+  {
+    "code": "ERCIS",
+    "name": "Ercis"
+  },
+  {
+    "code": "ERDEK",
+    "name": "Erdek"
+  },
+  {
+    "code": "ERDEMLI",
+    "name": "Erdemli"
+  },
+  {
+    "code": "EREGLI",
+    "name": "Eregli"
+  },
+  {
+    "code": "ERGANI",
+    "name": "Ergani"
+  },
+  {
+    "code": "ERMENEK",
+    "name": "Ermenek"
+  },
+  {
+    "code": "ERZIN",
+    "name": "Erzin"
+  },
+  {
+    "code": "ERZINCAN",
+    "name": "Erzincan"
+  },
+  {
+    "code": "ERZURUM",
+    "name": "Erzurum"
+  },
+  {
+    "code": "ESENLER",
+    "name": "Esenler"
+  },
+  {
+    "code": "ESENYURT",
+    "name": "Esenyurt"
+  },
+  {
+    "code": "ESKISEHIR",
+    "name": "Eskisehir"
+  },
+  {
+    "code": "ESPIYE",
+    "name": "Espiye"
+  },
+  {
+    "code": "EZINE",
+    "name": "Ezine"
+  },
+  {
+    "code": "FATSA",
+    "name": "Fatsa"
+  },
+  {
+    "code": "FERIZLI",
+    "name": "Ferizli"
+  },
+  {
+    "code": "FETHIYE",
+    "name": "Fethiye"
+  },
+  {
+    "code": "FOCA",
+    "name": "Foca"
+  },
+  {
+    "code": "GAZIANTEP",
+    "name": "Gaziantep"
+  },
+  {
+    "code": "GAZIPASA",
+    "name": "Gazipasa"
+  },
+  {
+    "code": "GEBZE",
+    "name": "Gebze"
+  },
+  {
+    "code": "GEDIZ",
+    "name": "Gediz"
+  },
+  {
+    "code": "GELIBOLU",
+    "name": "Gelibolu"
+  },
+  {
+    "code": "GEMEREK",
+    "name": "Gemerek"
+  },
+  {
+    "code": "GEMLIK",
+    "name": "Gemlik"
+  },
+  {
+    "code": "GENC",
+    "name": "Genc"
+  },
+  {
+    "code": "GEREDE",
+    "name": "Gerede"
+  },
+  {
+    "code": "GEYVE",
+    "name": "Geyve"
+  },
+  {
+    "code": "GIRESUN",
+    "name": "Giresun"
+  },
+  {
+    "code": "GOELCUEK",
+    "name": "Goelcuek"
+  },
+  {
+    "code": "GOKSUN",
+    "name": "Goksun"
+  },
+  {
+    "code": "GOLBASI",
+    "name": "Golbasi"
+  },
+  {
+    "code": "GONEN",
+    "name": "Gonen"
+  },
+  {
+    "code": "GORELE",
+    "name": "Gorele"
+  },
+  {
+    "code": "GUENGOEREN-MERTER",
+    "name": "Guengoeren Merter"
+  },
+  {
+    "code": "GUMUSHANE",
+    "name": "Gumushane"
+  },
+  {
+    "code": "GURGENTEPE",
+    "name": "Gurgentepe"
+  },
+  {
+    "code": "GUROYMAK",
+    "name": "Guroymak"
+  },
+  {
+    "code": "GURPINAR",
+    "name": "Gurpinar"
+  },
+  {
+    "code": "GURSU",
+    "name": "Gursu"
+  },
+  {
+    "code": "HACILAR",
+    "name": "Hacilar"
+  },
+  {
+    "code": "HADIM",
+    "name": "Hadim"
+  },
+  {
+    "code": "HAKKARI",
+    "name": "Hakkari"
+  },
+  {
+    "code": "HAVZA",
+    "name": "Havza"
+  },
+  {
+    "code": "HAYRABOLU",
+    "name": "Hayrabolu"
+  },
+  {
+    "code": "HENDEK",
+    "name": "Hendek"
+  },
+  {
+    "code": "HILVAN",
+    "name": "Hilvan"
+  },
+  {
+    "code": "HINIS",
+    "name": "Hinis"
+  },
+  {
+    "code": "HIZAN",
+    "name": "Hizan"
+  },
+  {
+    "code": "HOPA",
+    "name": "Hopa"
+  },
+  {
+    "code": "HORASAN",
+    "name": "Horasan"
+  },
+  {
+    "code": "IDIL",
+    "name": "Idil"
+  },
+  {
+    "code": "IGDIR",
+    "name": "Igdir"
+  },
+  {
+    "code": "ILGIN",
+    "name": "Ilgin"
+  },
+  {
+    "code": "IMAMOGLU",
+    "name": "Imamoglu"
+  },
+  {
+    "code": "INCIRLIOVA",
+    "name": "Incirliova"
+  },
+  {
+    "code": "INEGOL",
+    "name": "Inegol"
+  },
+  {
+    "code": "ISKENDERUN",
+    "name": "Iskenderun"
+  },
+  {
+    "code": "ISKILIP",
+    "name": "Iskilip"
+  },
+  {
+    "code": "ISPARTA",
+    "name": "Isparta"
+  },
+  {
+    "code": "ISTANBUL",
+    "name": "Istanbul"
+  },
+  {
+    "code": "IZMIR",
+    "name": "Izmir"
+  },
+  {
+    "code": "IZMIT",
+    "name": "Izmit"
+  },
+  {
+    "code": "IZNIK",
+    "name": "Iznik"
+  },
+  {
+    "code": "KADINHANI",
+    "name": "Kadinhani"
+  },
+  {
+    "code": "KADIRLI",
+    "name": "Kadirli"
+  },
+  {
+    "code": "KAGIZMAN",
+    "name": "Kagizman"
+  },
+  {
+    "code": "KAHRAMANMARAS",
+    "name": "Kahramanmaras"
+  },
+  {
+    "code": "KAHTA",
+    "name": "Kahta"
+  },
+  {
+    "code": "KAMAN",
+    "name": "Kaman"
+  },
+  {
+    "code": "KARABAGLAR",
+    "name": "Karabaglar"
+  },
+  {
+    "code": "KARABUK",
+    "name": "Karabuk"
+  },
+  {
+    "code": "KARACABEY",
+    "name": "Karacabey"
+  },
+  {
+    "code": "KARACOBAN",
+    "name": "Karacoban"
+  },
+  {
+    "code": "KARAKOCAN",
+    "name": "Karakocan"
+  },
+  {
+    "code": "KARAMAN",
+    "name": "Karaman"
+  },
+  {
+    "code": "KARAMURSEL",
+    "name": "Karamursel"
+  },
+  {
+    "code": "KARAPINAR",
+    "name": "Karapinar"
+  },
+  {
+    "code": "KARASU-MAHALLESI",
+    "name": "Karasu Mahallesi"
+  },
+  {
+    "code": "KARASU",
+    "name": "Karasu"
+  },
+  {
+    "code": "KARS",
+    "name": "Kars"
+  },
+  {
+    "code": "KASTAMONU",
+    "name": "Kastamonu"
+  },
+  {
+    "code": "KAVAKLI",
+    "name": "Kavakli"
+  },
+  {
+    "code": "KAYSERI",
+    "name": "Kayseri"
+  },
+  {
+    "code": "KAZAN",
+    "name": "Kazan"
+  },
+  {
+    "code": "KELKIT",
+    "name": "Kelkit"
+  },
+  {
+    "code": "KEMALPASA",
+    "name": "Kemalpasa"
+  },
+  {
+    "code": "KEMER",
+    "name": "Kemer"
+  },
+  {
+    "code": "KESAN",
+    "name": "Kesan"
+  },
+  {
+    "code": "KESKIN",
+    "name": "Keskin"
+  },
+  {
+    "code": "KESTEL",
+    "name": "Kestel"
+  },
+  {
+    "code": "KILIS",
+    "name": "Kilis"
+  },
+  {
+    "code": "KIRIKHAN",
+    "name": "Kirikhan"
+  },
+  {
+    "code": "KIRIKKALE",
+    "name": "Kirikkale"
+  },
+  {
+    "code": "KIRKAGAC",
+    "name": "Kirkagac"
+  },
+  {
+    "code": "KIRKLARELI",
+    "name": "Kirklareli"
+  },
+  {
+    "code": "KIRSEHIR",
+    "name": "Kirsehir"
+  },
+  {
+    "code": "KIZILCAHAMAM",
+    "name": "Kizilcahamam"
+  },
+  {
+    "code": "KIZILTEPE",
+    "name": "Kiziltepe"
+  },
+  {
+    "code": "KOCAALI",
+    "name": "Kocaali"
+  },
+  {
+    "code": "KONYA",
+    "name": "Konya"
+  },
+  {
+    "code": "KORFEZ",
+    "name": "Korfez"
+  },
+  {
+    "code": "KORGAN",
+    "name": "Korgan"
+  },
+  {
+    "code": "KORKUTELI",
+    "name": "Korkuteli"
+  },
+  {
+    "code": "KOVANCILAR",
+    "name": "Kovancilar"
+  },
+  {
+    "code": "KOZAN",
+    "name": "Kozan"
+  },
+  {
+    "code": "KOZLUK",
+    "name": "Kozluk"
+  },
+  {
+    "code": "KULA",
+    "name": "Kula"
+  },
+  {
+    "code": "KULP",
+    "name": "Kulp"
+  },
+  {
+    "code": "KULU",
+    "name": "Kulu"
+  },
+  {
+    "code": "KUMRU",
+    "name": "Kumru"
+  },
+  {
+    "code": "KURTALAN",
+    "name": "Kurtalan"
+  },
+  {
+    "code": "KUSADASI",
+    "name": "Kusadasi"
+  },
+  {
+    "code": "KUTAHYA",
+    "name": "Kutahya"
+  },
+  {
+    "code": "LICE",
+    "name": "Lice"
+  },
+  {
+    "code": "LULEBURGAZ",
+    "name": "Luleburgaz"
+  },
+  {
+    "code": "MAHMUTLAR",
+    "name": "Mahmutlar"
+  },
+  {
+    "code": "MALATYA",
+    "name": "Malatya"
+  },
+  {
+    "code": "MALAZGIRT",
+    "name": "Malazgirt"
+  },
+  {
+    "code": "MALKARA",
+    "name": "Malkara"
+  },
+  {
+    "code": "MALTEPE",
+    "name": "Maltepe"
+  },
+  {
+    "code": "MANAVGAT",
+    "name": "Manavgat"
+  },
+  {
+    "code": "MANISA",
+    "name": "Manisa"
+  },
+  {
+    "code": "MARDIN",
+    "name": "Mardin"
+  },
+  {
+    "code": "MARMARIS",
+    "name": "Marmaris"
+  },
+  {
+    "code": "MENDERES",
+    "name": "Menderes"
+  },
+  {
+    "code": "MENEMEN",
+    "name": "Menemen"
+  },
+  {
+    "code": "MERKEZEFENDI",
+    "name": "Merkezefendi"
+  },
+  {
+    "code": "MERSIN",
+    "name": "Mersin"
+  },
+  {
+    "code": "MERTER-KERESTECILER",
+    "name": "Merter Keresteciler"
+  },
+  {
+    "code": "MERZIFON",
+    "name": "Merzifon"
+  },
+  {
+    "code": "MIDYAT",
+    "name": "Midyat"
+  },
+  {
+    "code": "MILAS",
+    "name": "Milas"
+  },
+  {
+    "code": "MIMARSINAN",
+    "name": "Mimarsinan"
+  },
+  {
+    "code": "MUCUR",
+    "name": "Mucur"
+  },
+  {
+    "code": "MUDANYA",
+    "name": "Mudanya"
+  },
+  {
+    "code": "MUGLA",
+    "name": "Mugla"
+  },
+  {
+    "code": "MURATPASA",
+    "name": "Muratpasa"
+  },
+  {
+    "code": "MUS",
+    "name": "Mus"
+  },
+  {
+    "code": "MUSTAFAKEMALPASA",
+    "name": "Mustafakemalpasa"
+  },
+  {
+    "code": "MUT",
+    "name": "Mut"
+  },
+  {
+    "code": "NALLIHAN",
+    "name": "Nallihan"
+  },
+  {
+    "code": "NAZILLI",
+    "name": "Nazilli"
+  },
+  {
+    "code": "NEVSEHIR",
+    "name": "Nevsehir"
+  },
+  {
+    "code": "NIGDE",
+    "name": "Nigde"
+  },
+  {
+    "code": "NIKSAR",
+    "name": "Niksar"
+  },
+  {
+    "code": "NIZIP",
+    "name": "Nizip"
+  },
+  {
+    "code": "NUSAYBIN",
+    "name": "Nusaybin"
+  },
+  {
+    "code": "OEDEMIS",
+    "name": "Oedemis"
+  },
+  {
+    "code": "OF",
+    "name": "Of"
+  },
+  {
+    "code": "OLTU",
+    "name": "Oltu"
+  },
+  {
+    "code": "ORDU",
+    "name": "Ordu"
+  },
+  {
+    "code": "ORHANGAZI",
+    "name": "Orhangazi"
+  },
+  {
+    "code": "ORTACA",
+    "name": "Ortaca"
+  },
+  {
+    "code": "ORTAKOY",
+    "name": "Ortakoy"
+  },
+  {
+    "code": "OSMANCIK",
+    "name": "Osmancik"
+  },
+  {
+    "code": "OSMANELI",
+    "name": "Osmaneli"
+  },
+  {
+    "code": "OSMANIYE",
+    "name": "Osmaniye"
+  },
+  {
+    "code": "PASINLER",
+    "name": "Pasinler"
+  },
+  {
+    "code": "PATNOS",
+    "name": "Patnos"
+  },
+  {
+    "code": "PAZARCIK",
+    "name": "Pazarcik"
+  },
+  {
+    "code": "POLATLI",
+    "name": "Polatli"
+  },
+  {
+    "code": "REYHANLI",
+    "name": "Reyhanli"
+  },
+  {
+    "code": "RIZE",
+    "name": "Rize"
+  },
+  {
+    "code": "SAFRANBOLU",
+    "name": "Safranbolu"
+  },
+  {
+    "code": "SALIHLI",
+    "name": "Salihli"
+  },
+  {
+    "code": "SAMSUN",
+    "name": "Samsun"
+  },
+  {
+    "code": "SANCAKTEPE",
+    "name": "Sancaktepe"
+  },
+  {
+    "code": "SANDIKLI",
+    "name": "Sandikli"
+  },
+  {
+    "code": "SANLIURFA",
+    "name": "Sanliurfa"
+  },
+  {
+    "code": "SAPANCA",
+    "name": "Sapanca"
+  },
+  {
+    "code": "SARAYKOY",
+    "name": "Saraykoy"
+  },
+  {
+    "code": "SARIGERME",
+    "name": "Sarigerme"
+  },
+  {
+    "code": "SARIKAMIS",
+    "name": "Sarikamis"
+  },
+  {
+    "code": "SARKIKARAAGAC",
+    "name": "Sarkikaraagac"
+  },
+  {
+    "code": "SARKISLA",
+    "name": "Sarkisla"
+  },
+  {
+    "code": "SEBIN-KARAHISAR",
+    "name": "Sebin Karahisar"
+  },
+  {
+    "code": "SEFERIHISAR",
+    "name": "Seferihisar"
+  },
+  {
+    "code": "SELCUK",
+    "name": "Selcuk"
+  },
+  {
+    "code": "SEMDINLI",
+    "name": "Semdinli"
+  },
+  {
+    "code": "SENIRKENT",
+    "name": "Senirkent"
+  },
+  {
+    "code": "SEREFLIKOCHISAR",
+    "name": "Sereflikochisar"
+  },
+  {
+    "code": "SERIK",
+    "name": "Serik"
+  },
+  {
+    "code": "SERINHISAR",
+    "name": "Serinhisar"
+  },
+  {
+    "code": "SERINYOL",
+    "name": "Serinyol"
+  },
+  {
+    "code": "SEYDISEHIR",
+    "name": "Seydisehir"
+  },
+  {
+    "code": "SIIRT",
+    "name": "Siirt"
+  },
+  {
+    "code": "SILIFKE",
+    "name": "Silifke"
+  },
+  {
+    "code": "SILIVRI",
+    "name": "Silivri"
+  },
+  {
+    "code": "SILOPI",
+    "name": "Silopi"
+  },
+  {
+    "code": "SILVAN",
+    "name": "Silvan"
+  },
+  {
+    "code": "SIMAV",
+    "name": "Simav"
+  },
+  {
+    "code": "SINOP",
+    "name": "Sinop"
+  },
+  {
+    "code": "SIRNAK",
+    "name": "Sirnak"
+  },
+  {
+    "code": "SISLI",
+    "name": "Sisli"
+  },
+  {
+    "code": "SIVAS",
+    "name": "Sivas"
+  },
+  {
+    "code": "SIVEREK",
+    "name": "Siverek"
+  },
+  {
+    "code": "SOEKE",
+    "name": "Soeke"
+  },
+  {
+    "code": "SOLHAN",
+    "name": "Solhan"
+  },
+  {
+    "code": "SOMA",
+    "name": "Soma"
+  },
+  {
+    "code": "SORGUN",
+    "name": "Sorgun"
+  },
+  {
+    "code": "SULTANBEYLI",
+    "name": "Sultanbeyli"
+  },
+  {
+    "code": "SULTANGAZI",
+    "name": "Sultangazi"
+  },
+  {
+    "code": "SULUOVA",
+    "name": "Suluova"
+  },
+  {
+    "code": "SUNGURLU",
+    "name": "Sungurlu"
+  },
+  {
+    "code": "SURMENE",
+    "name": "Surmene"
+  },
+  {
+    "code": "SURUC",
+    "name": "Suruc"
+  },
+  {
+    "code": "SUSEHRI",
+    "name": "Susehri"
+  },
+  {
+    "code": "SUSURLUK",
+    "name": "Susurluk"
+  },
+  {
+    "code": "TALAS",
+    "name": "Talas"
+  },
+  {
+    "code": "TARSUS",
+    "name": "Tarsus"
+  },
+  {
+    "code": "TASKOPRU",
+    "name": "Taskopru"
+  },
+  {
+    "code": "TASOVA",
+    "name": "Tasova"
+  },
+  {
+    "code": "TATVAN",
+    "name": "Tatvan"
+  },
+  {
+    "code": "TAVSANLI",
+    "name": "Tavsanli"
+  },
+  {
+    "code": "TEKIRDAG",
+    "name": "Tekirdag"
+  },
+  {
+    "code": "TEKIROVA",
+    "name": "Tekirova"
+  },
+  {
+    "code": "TEKKEKOY",
+    "name": "Tekkekoy"
+  },
+  {
+    "code": "TEPECIK",
+    "name": "Tepecik"
+  },
+  {
+    "code": "TERME",
+    "name": "Terme"
+  },
+  {
+    "code": "TIRE",
+    "name": "Tire"
+  },
+  {
+    "code": "TIREBOLU",
+    "name": "Tirebolu"
+  },
+  {
+    "code": "TOKAT",
+    "name": "Tokat"
+  },
+  {
+    "code": "TORBALI",
+    "name": "Torbali"
+  },
+  {
+    "code": "TOSYA",
+    "name": "Tosya"
+  },
+  {
+    "code": "TRABZON",
+    "name": "Trabzon"
+  },
+  {
+    "code": "TUNCELI",
+    "name": "Tunceli"
+  },
+  {
+    "code": "TURGUTLU",
+    "name": "Turgutlu"
+  },
+  {
+    "code": "TURGUTREIS",
+    "name": "Turgutreis"
+  },
+  {
+    "code": "TURHAL",
+    "name": "Turhal"
+  },
+  {
+    "code": "UENYE",
+    "name": "Uenye"
+  },
+  {
+    "code": "UERGUEP",
+    "name": "Uerguep"
+  },
+  {
+    "code": "UESKUEDAR",
+    "name": "Ueskuedar"
+  },
+  {
+    "code": "UMRANIYE",
+    "name": "Umraniye"
+  },
+  {
+    "code": "URLA",
+    "name": "Urla"
+  },
+  {
+    "code": "USAK",
+    "name": "Usak"
+  },
+  {
+    "code": "UZUNKOEPRUE",
+    "name": "Uzunkoeprue"
+  },
+  {
+    "code": "VAKFIKEBIR",
+    "name": "Vakfikebir"
+  },
+  {
+    "code": "VAN",
+    "name": "Van"
+  },
+  {
+    "code": "VARTO",
+    "name": "Varto"
+  },
+  {
+    "code": "VEZIRKOPRU",
+    "name": "Vezirkopru"
+  },
+  {
+    "code": "VIRANSEHIR",
+    "name": "Viransehir"
+  },
+  {
+    "code": "YAHYALI",
+    "name": "Yahyali"
+  },
+  {
+    "code": "YAKUPLU",
+    "name": "Yakuplu"
+  },
+  {
+    "code": "YALOVA",
+    "name": "Yalova"
+  },
+  {
+    "code": "YALVAC",
+    "name": "Yalvac"
+  },
+  {
+    "code": "YATAGAN",
+    "name": "Yatagan"
+  },
+  {
+    "code": "YENISEHIR",
+    "name": "Yenisehir"
+  },
+  {
+    "code": "YERKOY",
+    "name": "Yerkoy"
+  },
+  {
+    "code": "YESILLI",
+    "name": "Yesilli"
+  },
+  {
+    "code": "YOMRA",
+    "name": "Yomra"
+  },
+  {
+    "code": "YOZGAT",
+    "name": "Yozgat"
+  },
+  {
+    "code": "YUKSEKOVA",
+    "name": "Yuksekova"
+  },
+  {
+    "code": "ZEYTINBURNU",
+    "name": "Zeytinburnu"
+  },
+  {
+    "code": "ZILE",
+    "name": "Zile"
+  },
+  {
+    "code": "ZONGULDAK",
+    "name": "Zonguldak"
+  }
+]

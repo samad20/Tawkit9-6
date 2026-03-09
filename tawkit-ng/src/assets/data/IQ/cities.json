@@ -1,0 +1,582 @@
+[
+  {
+    "code": "ABI-AL-KHASIB",
+    "name": "Abi Al Khasib"
+  },
+  {
+    "code": "ABU-GHURAYB",
+    "name": "Abu Ghurayb"
+  },
+  {
+    "code": "AD-DAWR",
+    "name": "Ad Dawr"
+  },
+  {
+    "code": "AD-DIWANIYAH",
+    "name": "Ad Diwaniyah"
+  },
+  {
+    "code": "AD-DUJAYL",
+    "name": "Ad Dujayl"
+  },
+  {
+    "code": "AFAK",
+    "name": "Afak"
+  },
+  {
+    "code": "AL-ABBASI",
+    "name": "Al Abbasi"
+  },
+  {
+    "code": "AL-AMADIYAH",
+    "name": "Al Amadiyah"
+  },
+  {
+    "code": "AL-AMARAH",
+    "name": "Al Amarah"
+  },
+  {
+    "code": "AL-ANBAR",
+    "name": "Al Anbar"
+  },
+  {
+    "code": "AL-AWJAH",
+    "name": "Al Awjah"
+  },
+  {
+    "code": "AL-AZIZIYAH",
+    "name": "Al Aziziyah"
+  },
+  {
+    "code": "AL-BAAJ",
+    "name": "Al Baaj"
+  },
+  {
+    "code": "AL-BASRAH-AL-QADIMAH",
+    "name": "Al Basrah Al Qadimah"
+  },
+  {
+    "code": "AL-FALLUJAH",
+    "name": "Al Fallujah"
+  },
+  {
+    "code": "AL-FAW",
+    "name": "Al Faw"
+  },
+  {
+    "code": "AL-HADAR",
+    "name": "Al Hadar"
+  },
+  {
+    "code": "AL-HAMDANIYA",
+    "name": "Al Hamdaniya"
+  },
+  {
+    "code": "AL-HAMZAH",
+    "name": "Al Hamzah"
+  },
+  {
+    "code": "AL-HAQLANIYAH",
+    "name": "Al Haqlaniyah"
+  },
+  {
+    "code": "AL-HARITHAH",
+    "name": "Al Harithah"
+  },
+  {
+    "code": "AL-HASHIMIYAH",
+    "name": "Al Hashimiyah"
+  },
+  {
+    "code": "AL-HAWIJAH",
+    "name": "Al Hawijah"
+  },
+  {
+    "code": "AL-HAYY",
+    "name": "Al Hayy"
+  },
+  {
+    "code": "AL-HILLAH",
+    "name": "Al Hillah"
+  },
+  {
+    "code": "AL-HINDIYAH",
+    "name": "Al Hindiyah"
+  },
+  {
+    "code": "AL-JABAYISH",
+    "name": "Al Jabayish"
+  },
+  {
+    "code": "AL-KAHLA",
+    "name": "Al Kahla"
+  },
+  {
+    "code": "AL-KHALIS",
+    "name": "Al Khalis"
+  },
+  {
+    "code": "AL-KUT",
+    "name": "Al Kut"
+  },
+  {
+    "code": "AL-MADINAH",
+    "name": "Al Madinah"
+  },
+  {
+    "code": "AL-MAHAWIL",
+    "name": "Al Mahawil"
+  },
+  {
+    "code": "AL-MAHMUDIYAH",
+    "name": "Al Mahmudiyah"
+  },
+  {
+    "code": "AL-MANADHIRAH",
+    "name": "Al Manadhirah"
+  },
+  {
+    "code": "AL-MAWSIL-AL-JADIDAH",
+    "name": "Al Mawsil Al Jadidah"
+  },
+  {
+    "code": "AL-MAYMUNAH",
+    "name": "Al Maymunah"
+  },
+  {
+    "code": "AL-MIQDADIYAH",
+    "name": "Al Miqdadiyah"
+  },
+  {
+    "code": "AL-MISHKHAB",
+    "name": "Al Mishkhab"
+  },
+  {
+    "code": "AL-MUSAYYIB",
+    "name": "Al Musayyib"
+  },
+  {
+    "code": "AL-QAIM",
+    "name": "Al Qaim"
+  },
+  {
+    "code": "AL-QAYYARAH",
+    "name": "Al Qayyarah"
+  },
+  {
+    "code": "AL-QURNAH",
+    "name": "Al Qurnah"
+  },
+  {
+    "code": "ALI-AL-GHARBI",
+    "name": "Ali Al Gharbi"
+  },
+  {
+    "code": "AN-NUMANIYAH",
+    "name": "An Numaniyah"
+  },
+  {
+    "code": "ANAH",
+    "name": "Anah"
+  },
+  {
+    "code": "ANAT-AL-QADIMAH",
+    "name": "Anat Al Qadimah"
+  },
+  {
+    "code": "AQRAH",
+    "name": "Aqrah"
+  },
+  {
+    "code": "AR-RIFAI",
+    "name": "Ar Rifai"
+  },
+  {
+    "code": "AR-RIYAD",
+    "name": "Ar Riyad"
+  },
+  {
+    "code": "AR-RUMAYTHAH",
+    "name": "Ar Rumaythah"
+  },
+  {
+    "code": "AR-RUTBAH",
+    "name": "Ar Rutbah"
+  },
+  {
+    "code": "AS-SALMAN",
+    "name": "As Salman"
+  },
+  {
+    "code": "AS-SAMAWAH",
+    "name": "As Samawah"
+  },
+  {
+    "code": "AS-SULAYMANIYAH",
+    "name": "As Sulaymaniyah"
+  },
+  {
+    "code": "AS-SUWAYRAH",
+    "name": "As Suwayrah"
+  },
+  {
+    "code": "ASH-SHAMIYAH",
+    "name": "Ash Shamiyah"
+  },
+  {
+    "code": "ASH-SHARQAT",
+    "name": "Ash Sharqat"
+  },
+  {
+    "code": "ASH-SHATRAH",
+    "name": "Ash Shatrah"
+  },
+  {
+    "code": "ASH-SHAYKHAN",
+    "name": "Ash Shaykhan"
+  },
+  {
+    "code": "ASULAYMANIYA",
+    "name": "Asulaymaniya"
+  },
+  {
+    "code": "AT-TARMIYAH",
+    "name": "At Tarmiyah"
+  },
+  {
+    "code": "AYN-TAMR",
+    "name": "Ayn Tamr"
+  },
+  {
+    "code": "AYNKAWAH",
+    "name": "Aynkawah"
+  },
+  {
+    "code": "AZ-ZUBAYR",
+    "name": "Az Zubayr"
+  },
+  {
+    "code": "BADRAH",
+    "name": "Badrah"
+  },
+  {
+    "code": "BAGHDAD",
+    "name": "Baghdad"
+  },
+  {
+    "code": "BALAD",
+    "name": "Balad"
+  },
+  {
+    "code": "BALADRUZ",
+    "name": "Baladruz"
+  },
+  {
+    "code": "BAMARNI",
+    "name": "Bamarni"
+  },
+  {
+    "code": "BAQUBAH",
+    "name": "Baqubah"
+  },
+  {
+    "code": "BASRAH",
+    "name": "Basrah"
+  },
+  {
+    "code": "BATIFA",
+    "name": "Batifa"
+  },
+  {
+    "code": "BAYJI",
+    "name": "Bayji"
+  },
+  {
+    "code": "BAYNJIWAYN",
+    "name": "Baynjiwayn"
+  },
+  {
+    "code": "BEHIRKE",
+    "name": "Behirke"
+  },
+  {
+    "code": "CHOMAN",
+    "name": "Choman"
+  },
+  {
+    "code": "CHWARTA",
+    "name": "Chwarta"
+  },
+  {
+    "code": "DAQUQ",
+    "name": "Daquq"
+  },
+  {
+    "code": "DARE-TU",
+    "name": "Dare Tu"
+  },
+  {
+    "code": "DERBENDIXAN",
+    "name": "Derbendixan"
+  },
+  {
+    "code": "DERKAR",
+    "name": "Derkar"
+  },
+  {
+    "code": "DIBIS",
+    "name": "Dibis"
+  },
+  {
+    "code": "DIHOK",
+    "name": "Dihok"
+  },
+  {
+    "code": "DUKAN",
+    "name": "Dukan"
+  },
+  {
+    "code": "ERBIL",
+    "name": "Erbil"
+  },
+  {
+    "code": "HADITHAH",
+    "name": "Hadithah"
+  },
+  {
+    "code": "HALABJA",
+    "name": "Halabja"
+  },
+  {
+    "code": "HALABJAH-AL-JADIDAH",
+    "name": "Halabjah Al Jadidah"
+  },
+  {
+    "code": "HALSHAW",
+    "name": "Halshaw"
+  },
+  {
+    "code": "HAYRAW",
+    "name": "Hayraw"
+  },
+  {
+    "code": "HIRAN",
+    "name": "Hiran"
+  },
+  {
+    "code": "HIT",
+    "name": "Hit"
+  },
+  {
+    "code": "IBRAHIM-AL-KHALIL",
+    "name": "Ibrahim Al Khalil"
+  },
+  {
+    "code": "IMAM-QASIM",
+    "name": "Imam Qasim"
+  },
+  {
+    "code": "JAMJAMAL",
+    "name": "Jamjamal"
+  },
+  {
+    "code": "KANI-MASI",
+    "name": "Kani Masi"
+  },
+  {
+    "code": "KARBALA",
+    "name": "Karbala"
+  },
+  {
+    "code": "KASNAZAN",
+    "name": "Kasnazan"
+  },
+  {
+    "code": "KELAR",
+    "name": "Kelar"
+  },
+  {
+    "code": "KHALIS",
+    "name": "Khalis"
+  },
+  {
+    "code": "KHANAQIN",
+    "name": "Khanaqin"
+  },
+  {
+    "code": "KIFRI",
+    "name": "Kifri"
+  },
+  {
+    "code": "KIRKUK",
+    "name": "Kirkuk"
+  },
+  {
+    "code": "KOYSINCEQ",
+    "name": "Koysinceq"
+  },
+  {
+    "code": "KUFA",
+    "name": "Kufa"
+  },
+  {
+    "code": "MANDALI",
+    "name": "Mandali"
+  },
+  {
+    "code": "MAWET",
+    "name": "Mawet"
+  },
+  {
+    "code": "MERGASUR",
+    "name": "Mergasur"
+  },
+  {
+    "code": "MEXMUR",
+    "name": "Mexmur"
+  },
+  {
+    "code": "MOSUL",
+    "name": "Mosul"
+  },
+  {
+    "code": "NAHIYAT-AL-FUHUD",
+    "name": "Nahiyat Al Fuhud"
+  },
+  {
+    "code": "NAHIYAT-ALI-ASH-SHARQI",
+    "name": "Nahiyat Ali Ash Sharqi"
+  },
+  {
+    "code": "NAHIYAT-ASH-SHINAFIYAH",
+    "name": "Nahiyat Ash Shinafiyah"
+  },
+  {
+    "code": "NAHIYAT-ATBAH",
+    "name": "Nahiyat Atbah"
+  },
+  {
+    "code": "NAHIYAT-BAHAR",
+    "name": "Nahiyat Bahar"
+  },
+  {
+    "code": "NAHIYAT-GHAMMAS",
+    "name": "Nahiyat Ghammas"
+  },
+  {
+    "code": "NAHIYAT-HIRAN",
+    "name": "Nahiyat Hiran"
+  },
+  {
+    "code": "NAHIYAT-SADDAT-AL-HINDIYAH",
+    "name": "Nahiyat Saddat Al Hindiyah"
+  },
+  {
+    "code": "NAJAF",
+    "name": "Najaf"
+  },
+  {
+    "code": "NASIRIYAH",
+    "name": "Nasiriyah"
+  },
+  {
+    "code": "QALAT-SALIH",
+    "name": "Qalat Salih"
+  },
+  {
+    "code": "QELADIZE",
+    "name": "Qeladize"
+  },
+  {
+    "code": "QEREDAGH",
+    "name": "Qeredagh"
+  },
+  {
+    "code": "QUSHTEPE",
+    "name": "Qushtepe"
+  },
+  {
+    "code": "RAMADI",
+    "name": "Ramadi"
+  },
+  {
+    "code": "RANIYE",
+    "name": "Raniye"
+  },
+  {
+    "code": "RAWAH",
+    "name": "Rawah"
+  },
+  {
+    "code": "RUWANDIZ",
+    "name": "Ruwandiz"
+  },
+  {
+    "code": "SAMARRA",
+    "name": "Samarra"
+  },
+  {
+    "code": "SAYMAYL",
+    "name": "Saymayl"
+  },
+  {
+    "code": "SEYID-SADIQ",
+    "name": "Seyid Sadiq"
+  },
+  {
+    "code": "SHAQLAWAH",
+    "name": "Shaqlawah"
+  },
+  {
+    "code": "SINAH",
+    "name": "Sinah"
+  },
+  {
+    "code": "SINJAR",
+    "name": "Sinjar"
+  },
+  {
+    "code": "SORAN",
+    "name": "Soran"
+  },
+  {
+    "code": "SUQ-ASH-SHUYUKH",
+    "name": "Suq Ash Shuyukh"
+  },
+  {
+    "code": "TALL-AFAR",
+    "name": "Tall Afar"
+  },
+  {
+    "code": "TALLKAYF",
+    "name": "Tallkayf"
+  },
+  {
+    "code": "TIKRIT",
+    "name": "Tikrit"
+  },
+  {
+    "code": "TUZ-KHURMATU",
+    "name": "Tuz Khurmatu"
+  },
+  {
+    "code": "UMM-QASR",
+    "name": "Umm Qasr"
+  },
+  {
+    "code": "XEBAT",
+    "name": "Xebat"
+  },
+  {
+    "code": "ZAWITAH",
+    "name": "Zawitah"
+  },
+  {
+    "code": "ZAXO",
+    "name": "Zaxo"
+  },
+  {
+    "code": "ZAXU",
+    "name": "Zaxu"
+  }
+]
