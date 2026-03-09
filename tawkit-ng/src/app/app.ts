@@ -1,0 +1,18 @@
+import { Component, inject, OnInit } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+import { LanguageService } from './core/services/language.service';
+
+@Component({
+  selector: 'app-root',
+  standalone: true,
+  imports: [RouterOutlet],
+  template: `<router-outlet></router-outlet>`,
+  styles: [`:host { display: block; height: 100vh; overflow: hidden; }`],
+})
+export class App implements OnInit {
+  private readonly languageService = inject(LanguageService);
+
+  ngOnInit(): void {
+    // Services initialized via inject — effects start automatically
+  }
+}

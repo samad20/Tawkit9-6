@@ -1,0 +1,121 @@
+@use '@angular/material' as mat;
+
+// ─── Tawkit Material Theme (Dark Islamic) ───────────────────────────────────
+html {
+  height: 100%;
+
+  @include mat.theme((
+    color: (
+      primary: mat.$green-palette,
+      tertiary: mat.$orange-palette,
+    ),
+    typography: Roboto,
+    density: 0,
+  ));
+}
+
+// Dark color scheme override
+html {
+  color-scheme: dark;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background: #0a0a14;
+  color: #fff;
+  font-family: 'Amiri', 'Roboto', sans-serif;
+  overflow: hidden;
+}
+
+// ─── Custom scrollbar ────────────────────────────────────────────────────────
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); border-radius: 4px; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.2); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.35); }
+
+// ─── Dialog overrides ────────────────────────────────────────────────────────
+.tawkit-dialog .mat-mdc-dialog-container {
+  background: #1a1a2e !important;
+  color: #fff !important;
+  border-radius: 16px !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  box-shadow: 0 24px 80px rgba(0,0,0,0.8) !important;
+}
+
+// ─── Material component dark overrides ───────────────────────────────────────
+.mat-mdc-form-field {
+  --mdc-outlined-text-field-label-text-color: rgba(255,255,255,0.6);
+  --mdc-outlined-text-field-input-text-color: #fff;
+  --mdc-outlined-text-field-outline-color: rgba(255,255,255,0.2);
+  --mdc-outlined-text-field-hover-outline-color: rgba(255,255,255,0.4);
+}
+
+.mat-mdc-select-value-text { color: #fff !important; }
+.mat-mdc-option { color: #fff !important; background: #1a1a2e !important; }
+.mat-mdc-option:hover { background: rgba(255,255,255,0.08) !important; }
+
+.mat-mdc-tab-header {
+  background: rgba(0,0,0,0.3);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.mat-mdc-tab-label-active { color: #FFC107 !important; }
+
+// ─── Success snackbar ─────────────────────────────────────────────────────────
+.success-snack .mdc-snackbar__surface {
+  background: #2E7D32 !important;
+}
+
+// ─── RTL support ─────────────────────────────────────────────────────────────
+[dir='rtl'] {
+  .mat-mdc-form-field { direction: rtl; }
+  .mat-mdc-dialog-actions { flex-direction: row-reverse; }
+}
+
+// ─── Fonts ───────────────────────────────────────────────────────────────────
+@font-face {
+  font-family: 'Amiri';
+  src: url('assets/fonts/AmiriRegular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amiri';
+  src: url('assets/fonts/AmiriBold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monofonto';
+  src: url('assets/fonts/Monofonto.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SULTAN';
+  src: url('assets/fonts/SFSultan-Black.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Andalus';
+  src: url('assets/fonts/Andalus.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'KFGQPCUthmanTaha';
+  src: url('assets/fonts/KFGQPCUthmanTaha.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}

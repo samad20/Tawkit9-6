@@ -1,0 +1,17 @@
+[
+  {
+    "enabled": true,
+    "schedule": "DAILY",
+    "text": "اللهم صل وسلم وبارك على نبينا محمد"
+  },
+  {
+    "enabled": true,
+    "schedule": "JOMOA",
+    "text": "أكثروا من الصلاة على النبي يوم الجمعة"
+  },
+  {
+    "enabled": true,
+    "schedule": "DAILY",
+    "text": "الصف الأول في الصلاة له فضل عظيم"
+  }
+]
