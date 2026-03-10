@@ -33,10 +33,11 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
     <div class="display-root"
          [class.rtl]="isRTL()"
          [class.vertical-mode]="isVertical()"
-         [style.background-image]="themeBg()">
+         [style.background-image]="themeBg()"
+         [style.font-family]="screenFontFamily()">
 
       <!-- Background overlay for readability -->
-      <div class="bg-overlay"></div>
+      <div class="bg-overlay" [class.semi-transparent]="semiTransparentBgs()"></div>
 
       <!-- Header -->
       <app-header></app-header>
@@ -85,6 +86,7 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
   styles: [`
     :host {
       display: block;
+      width: 100vw;
       height: 100vh;
       overflow: hidden;
     }
@@ -93,11 +95,13 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
       position: relative;
       display: flex;
       flex-direction: column;
+      width: 100vw;
       height: 100vh;
       overflow: hidden;
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
+      background-color: #0a0a14;
     }
 
     .bg-overlay {
@@ -112,6 +116,15 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
       z-index: 0;
     }
 
+    .bg-overlay.semi-transparent {
+      background: linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.40) 0%,
+        rgba(0,0,0,0.20) 50%,
+        rgba(0,0,0,0.50) 100%
+      );
+    }
+
     app-header,
     .prayers-section,
     .content-section,
@@ -122,14 +135,16 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
     }
 
     .prayers-section {
-      padding: 12px 16px;
+      padding: 1vh 1.5vw;
+      flex-shrink: 0;
     }
 
     .prayers-grid {
       display: flex;
-      gap: 10px;
+      gap: clamp(4px, 0.6vw, 12px);
       justify-content: center;
       align-items: stretch;
+      height: 100%;
     }
 
     .prayers-grid app-prayer-card {
@@ -139,7 +154,7 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
 
     .prayers-grid app-countdown-timer {
       flex-shrink: 0;
-      min-width: 140px;
+      min-width: clamp(100px, 10vw, 180px);
     }
 
     .vertical-grid {
@@ -149,15 +164,22 @@ import { MessageTickerComponent } from './message-ticker/message-ticker.componen
     .section-divider {
       height: 1px;
       background: linear-gradient(to right, transparent, rgba(255,255,255,0.15), transparent);
-      margin: 0 16px;
+      margin: 0 2vw;
+      flex-shrink: 0;
     }
 
     .content-section {
       flex: 1;
       display: flex;
       align-items: center;
+      justify-content: center;
       overflow: hidden;
-      padding: 0 8px;
+      padding: 0 1vw;
+      min-height: 0;
+    }
+
+    app-message-ticker {
+      flex-shrink: 0;
     }
 
     .settings-fab {
@@ -229,6 +251,12 @@ export class DisplayComponent {
   readonly currentContent = computed(() => this.contentService.currentContent());
   readonly messages = computed(() => this.contentService.todayMessages());
   readonly loading = signal(false);
+  readonly semiTransparentBgs = computed(() => this.settingsService.semiTransparentBgs());
+
+  readonly screenFontFamily = computed(() => {
+    const font = this.settingsService.fonts().screenFont;
+    return `'${font}', serif`;
+  });
 
   readonly themeBg = computed(() => {
     const theme = this.settingsService.theme();

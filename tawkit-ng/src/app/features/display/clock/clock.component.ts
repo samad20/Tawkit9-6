@@ -8,7 +8,7 @@ import { SettingsService } from '../../../core/services/settings.service';
   imports: [CommonModule],
   template: `
     <div class="clock-container">
-      <div class="clock-time">{{ timeDisplay() }}</div>
+      <div class="clock-time" [style.font-family]="clockFontFamily()">{{ timeDisplay() }}</div>
       <div class="clock-ampm" *ngIf="!use24Hours()">{{ ampm() }}</div>
     </div>
   `,
@@ -19,15 +19,14 @@ import { SettingsService } from '../../../core/services/settings.service';
       gap: 4px;
     }
     .clock-time {
-      font-size: clamp(1.8rem, 4vw, 3.5rem);
+      font-size: clamp(2rem, 5vw, 4.5rem);
       font-weight: 700;
       letter-spacing: 2px;
       color: #fff;
       text-shadow: 0 0 20px rgba(255,255,255,0.3);
-      font-family: 'Monofonto', monospace;
     }
     .clock-ampm {
-      font-size: clamp(0.8rem, 1.5vw, 1.2rem);
+      font-size: clamp(0.9rem, 1.8vw, 1.4rem);
       color: rgba(255,255,255,0.7);
       font-weight: 500;
     }
@@ -39,6 +38,11 @@ export class ClockComponent implements OnInit, OnDestroy {
 
   private readonly _now = signal<Date>(new Date());
   readonly use24Hours = computed(() => this.settingsService.use24Hours());
+
+  readonly clockFontFamily = computed(() => {
+    const font = this.settingsService.fonts().clockFont;
+    return `'${font}', 'Monofonto', monospace`;
+  });
 
   readonly timeDisplay = computed(() => {
     const now = this._now();

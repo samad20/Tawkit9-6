@@ -20,7 +20,7 @@ import { ClockComponent } from '../clock/clock.component';
 
       <!-- Mosque Name -->
       <div class="header-center">
-        <h1 class="mosque-name">{{ mosqueName() }}</h1>
+        <h1 class="mosque-name" [style.font-family]="screenFontFamily()">{{ mosqueName() }}</h1>
         <div class="header-dates">
           <span class="hijri-date">{{ hijriDate() }}</span>
           <span class="date-sep">|</span>
@@ -39,11 +39,12 @@ import { ClockComponent } from '../clock/clock.component';
       display: grid;
       grid-template-columns: auto 1fr auto;
       align-items: center;
-      padding: 10px 20px;
+      padding: 1vh 2vw;
       background: rgba(0,0,0,0.45);
       border-bottom: 1px solid rgba(255,255,255,0.1);
       backdrop-filter: blur(10px);
-      gap: 16px;
+      gap: clamp(8px, 1.5vw, 24px);
+      flex-shrink: 0;
     }
 
     .app-header.rtl {
@@ -56,7 +57,7 @@ import { ClockComponent } from '../clock/clock.component';
     }
 
     .mosque-logo {
-      height: clamp(40px, 6vh, 70px);
+      height: clamp(40px, 7vh, 80px);
       width: auto;
       object-fit: contain;
       filter: drop-shadow(0 0 10px rgba(255,255,255,0.2));
@@ -67,12 +68,11 @@ import { ClockComponent } from '../clock/clock.component';
     }
 
     .mosque-name {
-      font-size: clamp(1.2rem, 3.5vw, 2.8rem);
+      font-size: clamp(1.4rem, 4vw, 3.5rem);
       font-weight: 700;
       color: #fff;
       margin: 0;
       text-shadow: 0 2px 10px rgba(0,0,0,0.5);
-      font-family: 'Amiri', 'SULTAN', serif;
       letter-spacing: 1px;
       line-height: 1.2;
     }
@@ -81,18 +81,18 @@ import { ClockComponent } from '../clock/clock.component';
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 10px;
+      gap: clamp(6px, 1vw, 14px);
       margin-top: 2px;
     }
 
     .hijri-date {
-      font-size: clamp(0.65rem, 1.5vw, 1rem);
+      font-size: clamp(0.7rem, 1.6vw, 1.15rem);
       color: #FFD54F;
       font-family: 'Amiri', serif;
     }
 
     .gregorian-date {
-      font-size: clamp(0.65rem, 1.5vw, 1rem);
+      font-size: clamp(0.7rem, 1.6vw, 1.15rem);
       color: rgba(255,255,255,0.65);
       font-family: 'Amiri', serif;
     }
@@ -117,6 +117,11 @@ export class HeaderComponent {
   readonly isRTL = computed(() => this.settingsService.isRTL());
   readonly hijriDate = computed(() => this.hijriService.hijriDate());
   readonly gregorianDate = computed(() => this.hijriService.gregorianDate());
+
+  readonly screenFontFamily = computed(() => {
+    const font = this.settingsService.fonts().screenFont;
+    return `'${font}', 'SULTAN', serif`;
+  });
 
   onLogoError(event: Event): void {
     const img = event.target as HTMLImageElement;

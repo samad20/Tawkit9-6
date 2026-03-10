@@ -26,23 +26,27 @@ import { Message } from '../../../core/models/content.model';
     </div>
   `,
   styles: [`
+    :host {
+      display: block;
+    }
+
     .ticker-wrapper {
       display: flex;
       align-items: center;
       background: rgba(0,0,0,0.5);
       border-top: 1px solid rgba(255,193,7,0.3);
       overflow: hidden;
-      height: 36px;
+      height: clamp(30px, 4vh, 44px);
     }
 
     .ticker-label {
       flex-shrink: 0;
-      padding: 0 14px;
+      padding: 0 clamp(8px, 1vw, 18px);
       background: linear-gradient(135deg, #F9A825, #F57F17);
       height: 100%;
       display: flex;
       align-items: center;
-      font-size: 0.7rem;
+      font-size: clamp(0.6rem, 0.9vw, 0.8rem);
       font-family: 'Amiri', serif;
       font-weight: 700;
       color: #000;
@@ -65,15 +69,15 @@ import { Message } from '../../../core/models/content.model';
     }
 
     .ticker-item {
-      font-size: clamp(0.75rem, 1.5vw, 1rem);
+      font-size: clamp(0.7rem, 1.4vw, 1.05rem);
       color: #fff;
       font-family: 'Amiri', serif;
-      padding: 0 12px;
+      padding: 0 clamp(8px, 1vw, 16px);
     }
 
     .ticker-sep {
       color: #FFC107;
-      font-size: 0.7rem;
+      font-size: clamp(0.5rem, 0.7vw, 0.75rem);
     }
 
     @keyframes tickerScroll {

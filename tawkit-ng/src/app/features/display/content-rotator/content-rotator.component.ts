@@ -1,6 +1,7 @@
-import { Component, Input, OnChanges, signal } from '@angular/core';
+import { Component, Input, inject, computed } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ContentItem } from '../../../core/models/content.model';
+import { SettingsService } from '../../../core/services/settings.service';
 
 @Component({
   selector: 'app-content-rotator',
@@ -20,7 +21,7 @@ import { ContentItem } from '../../../core/models/content.model';
               <span>حديث شريف</span>
             </div>
           }
-          <p class="content-text">{{ content.text }}</p>
+          <p class="content-text" [style.font-family]="azkarFontFamily()">{{ content.text }}</p>
           @if (content.reference) {
             <span class="content-ref">{{ content.reference }}</span>
           }
@@ -33,6 +34,11 @@ import { ContentItem } from '../../../core/models/content.model';
     </div>
   `,
   styles: [`
+    :host {
+      display: block;
+      width: 100%;
+    }
+
     .fade-in {
       animation: fadeIn 0.8s ease-out;
     }
@@ -44,11 +50,10 @@ import { ContentItem } from '../../../core/models/content.model';
 
     .content-area {
       width: 100%;
-      min-height: 80px;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 8px 24px;
+      padding: clamp(4px, 1vh, 16px) clamp(8px, 2vw, 32px);
       position: relative;
     }
 
@@ -56,15 +61,15 @@ import { ContentItem } from '../../../core/models/content.model';
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 6px;
+      gap: clamp(4px, 0.5vh, 8px);
       text-align: center;
-      max-width: 900px;
+      max-width: 90vw;
     }
 
     .content-type-badge {
       padding: 2px 14px;
       border-radius: 20px;
-      font-size: 0.65rem;
+      font-size: clamp(0.55rem, 0.7vw, 0.7rem);
       font-family: 'Amiri', serif;
       font-weight: 700;
       letter-spacing: 1px;
@@ -83,9 +88,8 @@ import { ContentItem } from '../../../core/models/content.model';
     }
 
     .content-text {
-      font-size: clamp(1rem, 2.5vw, 1.8rem);
+      font-size: clamp(1rem, 2.5vw, 2rem);
       color: #fff;
-      font-family: 'Amiri', 'KFGQPCUthmanTaha', serif;
       text-shadow: 0 1px 8px rgba(0,0,0,0.6);
       line-height: 1.7;
       margin: 0;
@@ -94,17 +98,17 @@ import { ContentItem } from '../../../core/models/content.model';
 
     .ayat .content-text {
       color: #E3F2FD;
-      font-size: clamp(1.1rem, 2.8vw, 2rem);
+      font-size: clamp(1.1rem, 3vw, 2.2rem);
     }
 
     .content-ref {
-      font-size: 0.7rem;
+      font-size: clamp(0.6rem, 0.8vw, 0.8rem);
       color: rgba(255,255,255,0.45);
       font-family: 'Amiri', serif;
     }
 
     .content-placeholder {
-      font-size: clamp(1.2rem, 3vw, 2.2rem);
+      font-size: clamp(1.2rem, 3vw, 2.4rem);
       color: rgba(255,255,255,0.4);
       font-family: 'Amiri', serif;
     }
@@ -112,4 +116,11 @@ import { ContentItem } from '../../../core/models/content.model';
 })
 export class ContentRotatorComponent {
   @Input() content: ContentItem | null = null;
+
+  private readonly settingsService = inject(SettingsService);
+
+  readonly azkarFontFamily = computed(() => {
+    const font = this.settingsService.fonts().azkarFont;
+    return `'${font}', 'KFGQPCUthmanTaha', serif`;
+  });
 }

@@ -15,7 +15,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { SettingsService } from '../../../core/services/settings.service';
 import { LocationSelectorComponent } from '../location-selector/location-selector.component';
 import { ThemeSelectorComponent } from '../theme-selector/theme-selector.component';
-import { AppSettings } from '../../../core/models/settings.model';
+import { AppSettings, AVAILABLE_FONTS } from '../../../core/models/settings.model';
 
 const LANGUAGES = [
   { code: 'AR', name: 'العربية' },
@@ -104,6 +104,26 @@ const LANGUAGES = [
                 <mat-slide-toggle [(ngModel)]="formData.showAzkar" color="accent">
                   عرض الأذكار
                 </mat-slide-toggle>
+
+                <mat-slide-toggle [(ngModel)]="formData.dimmPastPrayers" color="accent">
+                  تعتيم الصلوات السابقة
+                </mat-slide-toggle>
+
+                <mat-slide-toggle [(ngModel)]="formData.namesInMiddle" color="accent">
+                  أسماء الصلوات في المنتصف
+                </mat-slide-toggle>
+
+                <mat-slide-toggle [(ngModel)]="formData.semiTransparentBgs" color="accent">
+                  خلفيات شبه شفافة
+                </mat-slide-toggle>
+
+                <mat-slide-toggle [(ngModel)]="formData.counterColorAlert" color="accent">
+                  تنبيه لون العد التنازلي
+                </mat-slide-toggle>
+
+                <mat-slide-toggle [(ngModel)]="formData.blackScreenInPrayer" color="accent">
+                  شاشة سوداء أثناء الصلاة
+                </mat-slide-toggle>
               </div>
 
               <mat-form-field appearance="outline" class="full-width">
@@ -166,7 +186,53 @@ const LANGUAGES = [
             </div>
           </mat-tab>
 
-          <!-- Tab 4: Themes -->
+          <!-- Tab 4: Fonts -->
+          <mat-tab>
+            <ng-template mat-tab-label>
+              <mat-icon>text_fields</mat-icon>&nbsp;الخطوط
+            </ng-template>
+            <div class="tab-content">
+              <p class="hint-text">اختر الخطوط لكل جزء من العرض</p>
+
+              <mat-form-field appearance="outline" class="full-width">
+                <mat-label>خط الشاشة الرئيسي</mat-label>
+                <mat-select [(ngModel)]="formData.fonts.screenFont">
+                  @for (font of availableFonts; track font) {
+                    <mat-option [value]="font" [style.font-family]="font">{{ font }}</mat-option>
+                  }
+                </mat-select>
+              </mat-form-field>
+
+              <mat-form-field appearance="outline" class="full-width">
+                <mat-label>خط الساعة</mat-label>
+                <mat-select [(ngModel)]="formData.fonts.clockFont">
+                  @for (font of availableFonts; track font) {
+                    <mat-option [value]="font" [style.font-family]="font">{{ font }}</mat-option>
+                  }
+                </mat-select>
+              </mat-form-field>
+
+              <mat-form-field appearance="outline" class="full-width">
+                <mat-label>خط أوقات الصلاة</mat-label>
+                <mat-select [(ngModel)]="formData.fonts.timesFont">
+                  @for (font of availableFonts; track font) {
+                    <mat-option [value]="font" [style.font-family]="font">{{ font }}</mat-option>
+                  }
+                </mat-select>
+              </mat-form-field>
+
+              <mat-form-field appearance="outline" class="full-width">
+                <mat-label>خط الأذكار والآيات</mat-label>
+                <mat-select [(ngModel)]="formData.fonts.azkarFont">
+                  @for (font of availableFonts; track font) {
+                    <mat-option [value]="font" [style.font-family]="font">{{ font }}</mat-option>
+                  }
+                </mat-select>
+              </mat-form-field>
+            </div>
+          </mat-tab>
+
+          <!-- Tab 5: Themes -->
           <mat-tab>
             <ng-template mat-tab-label>
               <mat-icon>palette</mat-icon>&nbsp;الثيم
@@ -282,6 +348,7 @@ export class SettingsDialogComponent {
   private readonly snackBar = inject(MatSnackBar);
 
   readonly languages = LANGUAGES;
+  readonly availableFonts = AVAILABLE_FONTS;
 
   readonly prayerIqamas = [
     { key: 'fajr' as const,    label: 'الفجر'  },
@@ -291,7 +358,16 @@ export class SettingsDialogComponent {
     { key: 'isha' as const,    label: 'العشاء'  },
   ];
 
-  formData: AppSettings = { ...this.settingsService.settings() };
+  formData: AppSettings;
+
+  constructor() {
+    const current = this.settingsService.settings();
+    this.formData = {
+      ...current,
+      fonts: { ...current.fonts },
+      iqama: { ...current.iqama },
+    };
+  }
 
   save(): void {
     this.settingsService.update(this.formData);
@@ -305,7 +381,12 @@ export class SettingsDialogComponent {
 
   resetDefaults(): void {
     this.settingsService.reset();
-    this.formData = { ...this.settingsService.settings() };
+    const current = this.settingsService.settings();
+    this.formData = {
+      ...current,
+      fonts: { ...current.fonts },
+      iqama: { ...current.iqama },
+    };
     this.snackBar.open('تم إعادة الضبط', '', { duration: 2000 });
   }
 

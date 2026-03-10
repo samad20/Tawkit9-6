@@ -13,26 +13,26 @@ import { SettingsService } from '../../../core/services/settings.service';
     <div class="prayer-card"
          [class.active]="prayer.isActive"
          [class.next]="prayer.isNext"
-         [class.past]="prayer.isPast"
+         [class.past]="prayer.isPast && dimmPast()"
          [class.sunrise]="prayer.id === 'sunrise'">
 
       <div class="prayer-icon">
         <mat-icon>{{ getIcon(prayer.id) }}</mat-icon>
       </div>
 
-      <div class="prayer-name">
+      <div class="prayer-name" [class.centered]="namesInMiddle()">
         <span class="name-ar">{{ prayer.nameAr }}</span>
         <span class="name-en">{{ prayer.name }}</span>
       </div>
 
-      <div class="prayer-time">
+      <div class="prayer-time" [style.font-family]="timesFontFamily()">
         {{ formatTime(prayer.time) }}
       </div>
 
       @if (prayer.iqamaTime && prayer.id !== 'sunrise') {
         <div class="iqama-time">
           <span class="iqama-label">الإقامة</span>
-          <span class="iqama-value">{{ formatTime(prayer.iqamaTime) }}</span>
+          <span class="iqama-value" [style.font-family]="timesFontFamily()">{{ formatTime(prayer.iqamaTime) }}</span>
         </div>
       }
 
@@ -48,21 +48,25 @@ import { SettingsService } from '../../../core/services/settings.service';
     </div>
   `,
   styles: [`
+    :host {
+      display: block;
+    }
+
     .prayer-card {
       position: relative;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      padding: 12px 8px;
-      border-radius: 12px;
+      padding: clamp(6px, 1vh, 16px) clamp(4px, 0.5vw, 12px);
+      border-radius: clamp(8px, 0.8vw, 16px);
       background: rgba(255, 255, 255, 0.05);
       border: 1px solid rgba(255, 255, 255, 0.1);
       transition: all 0.4s ease;
-      min-width: 100px;
-      gap: 4px;
+      gap: clamp(2px, 0.4vh, 6px);
       cursor: default;
       overflow: hidden;
+      height: 100%;
     }
 
     .prayer-card::before {
@@ -70,7 +74,7 @@ import { SettingsService } from '../../../core/services/settings.service';
       position: absolute;
       inset: 0;
       background: linear-gradient(180deg, transparent, rgba(0,0,0,0.2));
-      border-radius: 12px;
+      border-radius: inherit;
     }
 
     .prayer-card.active {
@@ -87,7 +91,7 @@ import { SettingsService } from '../../../core/services/settings.service';
     }
 
     .prayer-card.past {
-      opacity: 0.55;
+      opacity: 0.45;
     }
 
     .prayer-card.sunrise {
@@ -98,10 +102,12 @@ import { SettingsService } from '../../../core/services/settings.service';
     .prayer-icon {
       color: rgba(255,255,255,0.5);
       line-height: 1;
+      position: relative;
+      z-index: 1;
     }
 
     .prayer-icon mat-icon {
-      font-size: 1.2rem;
+      font-size: clamp(1rem, 1.5vw, 1.6rem);
     }
 
     .active .prayer-icon { color: #81C784; }
@@ -113,28 +119,35 @@ import { SettingsService } from '../../../core/services/settings.service';
       flex-direction: column;
       align-items: center;
       gap: 1px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .prayer-name.centered {
+      text-align: center;
     }
 
     .name-ar {
-      font-size: clamp(0.9rem, 2vw, 1.4rem);
+      font-size: clamp(0.9rem, 2.2vw, 1.6rem);
       font-weight: 700;
       color: #fff;
       font-family: 'Amiri', 'Andalus', serif;
     }
 
     .name-en {
-      font-size: clamp(0.55rem, 1vw, 0.75rem);
+      font-size: clamp(0.5rem, 0.9vw, 0.8rem);
       color: rgba(255,255,255,0.5);
       text-transform: uppercase;
       letter-spacing: 1px;
     }
 
     .prayer-time {
-      font-size: clamp(1.3rem, 3vw, 2.2rem);
+      font-size: clamp(1.4rem, 3.5vw, 2.8rem);
       font-weight: 800;
       color: #fff;
       letter-spacing: 1px;
-      font-family: 'Monofonto', monospace;
+      position: relative;
+      z-index: 1;
     }
 
     .active .prayer-time { color: #A5D6A7; }
@@ -145,22 +158,23 @@ import { SettingsService } from '../../../core/services/settings.service';
       flex-direction: column;
       align-items: center;
       margin-top: 2px;
-      padding: 4px 8px;
+      padding: clamp(2px, 0.3vh, 6px) clamp(4px, 0.5vw, 10px);
       background: rgba(0,0,0,0.25);
       border-radius: 6px;
       gap: 1px;
+      position: relative;
+      z-index: 1;
     }
 
     .iqama-label {
-      font-size: 0.6rem;
+      font-size: clamp(0.5rem, 0.7vw, 0.7rem);
       color: rgba(255,255,255,0.4);
       font-family: 'Amiri', serif;
     }
 
     .iqama-value {
-      font-size: clamp(0.8rem, 1.8vw, 1.1rem);
+      font-size: clamp(0.8rem, 1.8vw, 1.2rem);
       color: rgba(255,255,255,0.75);
-      font-family: 'Monofonto', monospace;
       font-weight: 600;
     }
 
@@ -170,6 +184,7 @@ import { SettingsService } from '../../../core/services/settings.service';
       position: absolute;
       top: 6px;
       right: 6px;
+      z-index: 2;
     }
 
     .pulse-ring {
@@ -189,13 +204,14 @@ import { SettingsService } from '../../../core/services/settings.service';
       position: absolute;
       top: 4px;
       left: 4px;
-      font-size: 0.55rem;
+      font-size: clamp(0.45rem, 0.6vw, 0.6rem);
       background: #FFC107;
       color: #000;
       padding: 1px 4px;
       border-radius: 4px;
       font-weight: 700;
       font-family: 'Amiri', serif;
+      z-index: 2;
     }
   `],
 })
@@ -203,6 +219,14 @@ export class PrayerCardComponent {
   @Input({ required: true }) prayer!: PrayerTime;
 
   private readonly settingsService = inject(SettingsService);
+
+  readonly dimmPast = computed(() => this.settingsService.dimmPastPrayers());
+  readonly namesInMiddle = computed(() => this.settingsService.namesInMiddle());
+
+  readonly timesFontFamily = computed(() => {
+    const font = this.settingsService.fonts().timesFont;
+    return `'${font}', 'Monofonto', monospace`;
+  });
 
   formatTime(time: string): string {
     if (!time) return '--:--';
