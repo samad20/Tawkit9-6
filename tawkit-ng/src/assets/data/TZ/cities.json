@@ -1,0 +1,746 @@
+[
+  {
+    "code": "Arusha_",
+    "name": ""
+  },
+  {
+    "code": "Babati_",
+    "name": ""
+  },
+  {
+    "code": "Bagamoyo_",
+    "name": ""
+  },
+  {
+    "code": "Bariadi_",
+    "name": ""
+  },
+  {
+    "code": "Bashanet_",
+    "name": ""
+  },
+  {
+    "code": "Basotu_",
+    "name": ""
+  },
+  {
+    "code": "Biharamulo_",
+    "name": ""
+  },
+  {
+    "code": "Bugarama_",
+    "name": ""
+  },
+  {
+    "code": "Bukoba_",
+    "name": ""
+  },
+  {
+    "code": "Bunda_",
+    "name": ""
+  },
+  {
+    "code": "Bungu_",
+    "name": ""
+  },
+  {
+    "code": "Buseresere_",
+    "name": ""
+  },
+  {
+    "code": "Butiama_",
+    "name": ""
+  },
+  {
+    "code": "Chake-Chake_",
+    "name": ""
+  },
+  {
+    "code": "Chala_",
+    "name": ""
+  },
+  {
+    "code": "Chalinze_",
+    "name": ""
+  },
+  {
+    "code": "Chanika_",
+    "name": ""
+  },
+  {
+    "code": "Chato_",
+    "name": ""
+  },
+  {
+    "code": "Chimala_",
+    "name": ""
+  },
+  {
+    "code": "Dar-Es-Salaam_",
+    "name": ""
+  },
+  {
+    "code": "Dareda_",
+    "name": ""
+  },
+  {
+    "code": "Dodoma_",
+    "name": ""
+  },
+  {
+    "code": "Dongobesh_",
+    "name": ""
+  },
+  {
+    "code": "Galappo_",
+    "name": ""
+  },
+  {
+    "code": "Geiro_",
+    "name": ""
+  },
+  {
+    "code": "Geita_",
+    "name": ""
+  },
+  {
+    "code": "Hedaru_",
+    "name": ""
+  },
+  {
+    "code": "Ifakara_",
+    "name": ""
+  },
+  {
+    "code": "Igugunu_",
+    "name": ""
+  },
+  {
+    "code": "Igunga_",
+    "name": ""
+  },
+  {
+    "code": "Igurusi_",
+    "name": ""
+  },
+  {
+    "code": "Ikungi_",
+    "name": ""
+  },
+  {
+    "code": "Ilembula_",
+    "name": ""
+  },
+  {
+    "code": "Ilongero_",
+    "name": ""
+  },
+  {
+    "code": "Ilula_",
+    "name": ""
+  },
+  {
+    "code": "Ipinda_",
+    "name": ""
+  },
+  {
+    "code": "Iringa_",
+    "name": ""
+  },
+  {
+    "code": "Isaka_",
+    "name": ""
+  },
+  {
+    "code": "Itigi_",
+    "name": ""
+  },
+  {
+    "code": "Izazi_",
+    "name": ""
+  },
+  {
+    "code": "Kabanga_",
+    "name": ""
+  },
+  {
+    "code": "Kahama_",
+    "name": ""
+  },
+  {
+    "code": "Kakonko_",
+    "name": ""
+  },
+  {
+    "code": "Kamachumu_",
+    "name": ""
+  },
+  {
+    "code": "Kasamwa_",
+    "name": ""
+  },
+  {
+    "code": "Kasulu_",
+    "name": ""
+  },
+  {
+    "code": "Katerero_",
+    "name": ""
+  },
+  {
+    "code": "Katoro_",
+    "name": ""
+  },
+  {
+    "code": "Katumba_",
+    "name": ""
+  },
+  {
+    "code": "Kibaha_",
+    "name": ""
+  },
+  {
+    "code": "Kibakwe_",
+    "name": ""
+  },
+  {
+    "code": "Kibara_",
+    "name": ""
+  },
+  {
+    "code": "Kibiti_",
+    "name": ""
+  },
+  {
+    "code": "Kibondo_",
+    "name": ""
+  },
+  {
+    "code": "Kidatu_",
+    "name": ""
+  },
+  {
+    "code": "Kidodi_",
+    "name": ""
+  },
+  {
+    "code": "Kigoma_",
+    "name": ""
+  },
+  {
+    "code": "Kigonsera_",
+    "name": ""
+  },
+  {
+    "code": "Kihangara_",
+    "name": ""
+  },
+  {
+    "code": "Kilosa_",
+    "name": ""
+  },
+  {
+    "code": "Kingori_",
+    "name": ""
+  },
+  {
+    "code": "Kiomboi_",
+    "name": ""
+  },
+  {
+    "code": "Kirando_",
+    "name": ""
+  },
+  {
+    "code": "Kiratu_",
+    "name": ""
+  },
+  {
+    "code": "Kisesa_",
+    "name": ""
+  },
+  {
+    "code": "Kishapu_",
+    "name": ""
+  },
+  {
+    "code": "Kitama_",
+    "name": ""
+  },
+  {
+    "code": "Kiwira_",
+    "name": ""
+  },
+  {
+    "code": "Kondoa_",
+    "name": ""
+  },
+  {
+    "code": "Kyela_",
+    "name": ""
+  },
+  {
+    "code": "Laela_",
+    "name": ""
+  },
+  {
+    "code": "Lalago_",
+    "name": ""
+  },
+  {
+    "code": "Lembeni_",
+    "name": ""
+  },
+  {
+    "code": "Lindi_",
+    "name": ""
+  },
+  {
+    "code": "Liwale_",
+    "name": ""
+  },
+  {
+    "code": "Luchingu_",
+    "name": ""
+  },
+  {
+    "code": "Lugoba_",
+    "name": ""
+  },
+  {
+    "code": "Lukuledi_",
+    "name": ""
+  },
+  {
+    "code": "Lushoto_",
+    "name": ""
+  },
+  {
+    "code": "Mabama_",
+    "name": ""
+  },
+  {
+    "code": "Mafinga_",
+    "name": ""
+  },
+  {
+    "code": "Magole_",
+    "name": ""
+  },
+  {
+    "code": "Magomeni_",
+    "name": ""
+  },
+  {
+    "code": "Magugu_",
+    "name": ""
+  },
+  {
+    "code": "Mahanje_",
+    "name": ""
+  },
+  {
+    "code": "Makumbako_",
+    "name": ""
+  },
+  {
+    "code": "Makuyuni_",
+    "name": ""
+  },
+  {
+    "code": "Malampaka_",
+    "name": ""
+  },
+  {
+    "code": "Malinyi_",
+    "name": ""
+  },
+  {
+    "code": "Maposeni_",
+    "name": ""
+  },
+  {
+    "code": "Maramba_",
+    "name": ""
+  },
+  {
+    "code": "Masasi_",
+    "name": ""
+  },
+  {
+    "code": "Masumbwe_",
+    "name": ""
+  },
+  {
+    "code": "Maswa_",
+    "name": ""
+  },
+  {
+    "code": "Matai_",
+    "name": ""
+  },
+  {
+    "code": "Matiri_",
+    "name": ""
+  },
+  {
+    "code": "Matui_",
+    "name": ""
+  },
+  {
+    "code": "Mazinde_",
+    "name": ""
+  },
+  {
+    "code": "Mbeya_",
+    "name": ""
+  },
+  {
+    "code": "Mbinga_",
+    "name": ""
+  },
+  {
+    "code": "Mbuguni_",
+    "name": ""
+  },
+  {
+    "code": "Merelani_",
+    "name": ""
+  },
+  {
+    "code": "Mgandu_",
+    "name": ""
+  },
+  {
+    "code": "Mhango_",
+    "name": ""
+  },
+  {
+    "code": "Mikumi_",
+    "name": ""
+  },
+  {
+    "code": "Misungwi_",
+    "name": ""
+  },
+  {
+    "code": "Mkuranga_",
+    "name": ""
+  },
+  {
+    "code": "Mlalo_",
+    "name": ""
+  },
+  {
+    "code": "Mlandizi_",
+    "name": ""
+  },
+  {
+    "code": "Mlangali_",
+    "name": ""
+  },
+  {
+    "code": "Mlimba_",
+    "name": ""
+  },
+  {
+    "code": "Mlowo_",
+    "name": ""
+  },
+  {
+    "code": "Morogoro_",
+    "name": ""
+  },
+  {
+    "code": "Moshi_",
+    "name": ""
+  },
+  {
+    "code": "Mpanda_",
+    "name": ""
+  },
+  {
+    "code": "Mpwapwa_",
+    "name": ""
+  },
+  {
+    "code": "Msowero_",
+    "name": ""
+  },
+  {
+    "code": "Mtinko_",
+    "name": ""
+  },
+  {
+    "code": "Mto-Wa-Mbu_",
+    "name": ""
+  },
+  {
+    "code": "Mtwango_",
+    "name": ""
+  },
+  {
+    "code": "Mtwara_",
+    "name": ""
+  },
+  {
+    "code": "Mugumu_",
+    "name": ""
+  },
+  {
+    "code": "Muheza_",
+    "name": ""
+  },
+  {
+    "code": "Mungaa_",
+    "name": ""
+  },
+  {
+    "code": "Muriti_",
+    "name": ""
+  },
+  {
+    "code": "Musoma_",
+    "name": ""
+  },
+  {
+    "code": "Mvomero_",
+    "name": ""
+  },
+  {
+    "code": "Mwadui_",
+    "name": ""
+  },
+  {
+    "code": "Mwandiga_",
+    "name": ""
+  },
+  {
+    "code": "MWANZA",
+    "name": ""
+  },
+  {
+    "code": "Mwanza_",
+    "name": ""
+  },
+  {
+    "code": "Nachingwea_",
+    "name": ""
+  },
+  {
+    "code": "Namanyere_",
+    "name": ""
+  },
+  {
+    "code": "Nanganga_",
+    "name": ""
+  },
+  {
+    "code": "Nangomba_",
+    "name": ""
+  },
+  {
+    "code": "Nangwa_",
+    "name": ""
+  },
+  {
+    "code": "Nanyamba_",
+    "name": ""
+  },
+  {
+    "code": "Newala-Kisimani_",
+    "name": ""
+  },
+  {
+    "code": "Ngara_",
+    "name": ""
+  },
+  {
+    "code": "Ngerengere_",
+    "name": ""
+  },
+  {
+    "code": "Ngudu_",
+    "name": ""
+  },
+  {
+    "code": "Nguruka_",
+    "name": ""
+  },
+  {
+    "code": "Njombe_",
+    "name": ""
+  },
+  {
+    "code": "Nshamba_",
+    "name": ""
+  },
+  {
+    "code": "Nsunga_",
+    "name": ""
+  },
+  {
+    "code": "Nyakabindi_",
+    "name": ""
+  },
+  {
+    "code": "Nyalikungu_",
+    "name": ""
+  },
+  {
+    "code": "Nyamuswa_",
+    "name": ""
+  },
+  {
+    "code": "Nyangao_",
+    "name": ""
+  },
+  {
+    "code": "Nzega_",
+    "name": ""
+  },
+  {
+    "code": "Old-Shinyanga_",
+    "name": ""
+  },
+  {
+    "code": "Puma_",
+    "name": ""
+  },
+  {
+    "code": "Rujewa_",
+    "name": ""
+  },
+  {
+    "code": "Rulenge_",
+    "name": ""
+  },
+  {
+    "code": "Same_",
+    "name": ""
+  },
+  {
+    "code": "Sepuka_",
+    "name": ""
+  },
+  {
+    "code": "Shelui_",
+    "name": ""
+  },
+  {
+    "code": "Shinyanga_",
+    "name": ""
+  },
+  {
+    "code": "Sikonge_",
+    "name": ""
+  },
+  {
+    "code": "Singida_",
+    "name": ""
+  },
+  {
+    "code": "Sirari_",
+    "name": ""
+  },
+  {
+    "code": "Sokoni_",
+    "name": ""
+  },
+  {
+    "code": "Somanda_",
+    "name": ""
+  },
+  {
+    "code": "Songea_",
+    "name": ""
+  },
+  {
+    "code": "Songwa_",
+    "name": ""
+  },
+  {
+    "code": "Sumbawanga_",
+    "name": ""
+  },
+  {
+    "code": "Tabora_",
+    "name": ""
+  },
+  {
+    "code": "Tandahimba_",
+    "name": ""
+  },
+  {
+    "code": "Tanga_",
+    "name": ""
+  },
+  {
+    "code": "Tarime_",
+    "name": ""
+  },
+  {
+    "code": "Tinde_",
+    "name": ""
+  },
+  {
+    "code": "Tingi_",
+    "name": ""
+  },
+  {
+    "code": "Tukuyu_",
+    "name": ""
+  },
+  {
+    "code": "Tumbi_",
+    "name": ""
+  },
+  {
+    "code": "Tunduma_",
+    "name": ""
+  },
+  {
+    "code": "Urambo_",
+    "name": ""
+  },
+  {
+    "code": "Usa-River_",
+    "name": ""
+  },
+  {
+    "code": "Usagara_",
+    "name": ""
+  },
+  {
+    "code": "Usevia_",
+    "name": ""
+  },
+  {
+    "code": "Ushirombo_",
+    "name": ""
+  },
+  {
+    "code": "Uvinza_",
+    "name": ""
+  },
+  {
+    "code": "Uyovu_",
+    "name": ""
+  },
+  {
+    "code": "Vikindu_",
+    "name": ""
+  },
+  {
+    "code": "Vwawa_",
+    "name": ""
+  },
+  {
+    "code": "Wete_",
+    "name": ""
+  },
+  {
+    "code": "Zanzibar_",
+    "name": ""
+  }
+]

@@ -1,0 +1,910 @@
+[
+  {
+    "code": "Adrogue_",
+    "name": ""
+  },
+  {
+    "code": "Aguilares_",
+    "name": ""
+  },
+  {
+    "code": "Albardon_",
+    "name": ""
+  },
+  {
+    "code": "Alderetes_",
+    "name": ""
+  },
+  {
+    "code": "Allen_",
+    "name": ""
+  },
+  {
+    "code": "Alta-Gracia_",
+    "name": ""
+  },
+  {
+    "code": "Anatuya_",
+    "name": ""
+  },
+  {
+    "code": "Aristobulo-Del-Valle_",
+    "name": ""
+  },
+  {
+    "code": "Arroyito_",
+    "name": ""
+  },
+  {
+    "code": "Arroyo-Seco_",
+    "name": ""
+  },
+  {
+    "code": "Avellaneda_",
+    "name": ""
+  },
+  {
+    "code": "Azul_",
+    "name": ""
+  },
+  {
+    "code": "Bahia-Blanca_",
+    "name": ""
+  },
+  {
+    "code": "Balcarce_",
+    "name": ""
+  },
+  {
+    "code": "Balvanera_",
+    "name": ""
+  },
+  {
+    "code": "Barracas_",
+    "name": ""
+  },
+  {
+    "code": "Barranqueras_",
+    "name": ""
+  },
+  {
+    "code": "Belgrano_",
+    "name": ""
+  },
+  {
+    "code": "Bell-Ville_",
+    "name": ""
+  },
+  {
+    "code": "Bella-Vista_",
+    "name": ""
+  },
+  {
+    "code": "Berazategui_",
+    "name": ""
+  },
+  {
+    "code": "Boedo_",
+    "name": ""
+  },
+  {
+    "code": "Buenos-Aires_",
+    "name": ""
+  },
+  {
+    "code": "Caleta-Olivia_",
+    "name": ""
+  },
+  {
+    "code": "Campana_",
+    "name": ""
+  },
+  {
+    "code": "Canada-De-Gomez_",
+    "name": ""
+  },
+  {
+    "code": "Capitan-Bermudez_",
+    "name": ""
+  },
+  {
+    "code": "Carcarana_",
+    "name": ""
+  },
+  {
+    "code": "Casilda_",
+    "name": ""
+  },
+  {
+    "code": "Castelli_",
+    "name": ""
+  },
+  {
+    "code": "Catamarca_",
+    "name": ""
+  },
+  {
+    "code": "Catriel_",
+    "name": ""
+  },
+  {
+    "code": "Caucete_",
+    "name": ""
+  },
+  {
+    "code": "Centenario_",
+    "name": ""
+  },
+  {
+    "code": "Chacabuco_",
+    "name": ""
+  },
+  {
+    "code": "Chajari_",
+    "name": ""
+  },
+  {
+    "code": "Charata_",
+    "name": ""
+  },
+  {
+    "code": "Chilecito_",
+    "name": ""
+  },
+  {
+    "code": "Chimbas_",
+    "name": ""
+  },
+  {
+    "code": "Chivilcoy_",
+    "name": ""
+  },
+  {
+    "code": "Cinco-Saltos_",
+    "name": ""
+  },
+  {
+    "code": "Cipolletti_",
+    "name": ""
+  },
+  {
+    "code": "Colegiales_",
+    "name": ""
+  },
+  {
+    "code": "Comodoro-Rivadavia_",
+    "name": ""
+  },
+  {
+    "code": "Concepcion-Del-Uruguay_",
+    "name": ""
+  },
+  {
+    "code": "Concordia_",
+    "name": ""
+  },
+  {
+    "code": "Cordoba_",
+    "name": ""
+  },
+  {
+    "code": "Coronda_",
+    "name": ""
+  },
+  {
+    "code": "Coronel-Suarez_",
+    "name": ""
+  },
+  {
+    "code": "Corrientes_",
+    "name": ""
+  },
+  {
+    "code": "Cosquin_",
+    "name": ""
+  },
+  {
+    "code": "Crespo_",
+    "name": ""
+  },
+  {
+    "code": "Cruz-Del-Eje_",
+    "name": ""
+  },
+  {
+    "code": "Curuzu-Cuatia_",
+    "name": ""
+  },
+  {
+    "code": "Cutral-Co_",
+    "name": ""
+  },
+  {
+    "code": "Dean-Funes_",
+    "name": ""
+  },
+  {
+    "code": "Diamante_",
+    "name": ""
+  },
+  {
+    "code": "Dolores_",
+    "name": ""
+  },
+  {
+    "code": "Don-Torcuato_",
+    "name": ""
+  },
+  {
+    "code": "El-Bolson_",
+    "name": ""
+  },
+  {
+    "code": "El-Soberbio_",
+    "name": ""
+  },
+  {
+    "code": "Embalse_",
+    "name": ""
+  },
+  {
+    "code": "Embarcacion_",
+    "name": ""
+  },
+  {
+    "code": "Esperanza_",
+    "name": ""
+  },
+  {
+    "code": "Esquel_",
+    "name": ""
+  },
+  {
+    "code": "Esquina_",
+    "name": ""
+  },
+  {
+    "code": "Famailla_",
+    "name": ""
+  },
+  {
+    "code": "Federal_",
+    "name": ""
+  },
+  {
+    "code": "Firmat_",
+    "name": ""
+  },
+  {
+    "code": "Fontana_",
+    "name": ""
+  },
+  {
+    "code": "Formosa_",
+    "name": ""
+  },
+  {
+    "code": "Galvez_",
+    "name": ""
+  },
+  {
+    "code": "Garupa_",
+    "name": ""
+  },
+  {
+    "code": "General-Jose-De-San-Martin_",
+    "name": ""
+  },
+  {
+    "code": "General-Mosconi_",
+    "name": ""
+  },
+  {
+    "code": "General-Pacheco_",
+    "name": ""
+  },
+  {
+    "code": "General-Pico_",
+    "name": ""
+  },
+  {
+    "code": "General-Pinedo_",
+    "name": ""
+  },
+  {
+    "code": "General-Roca_",
+    "name": ""
+  },
+  {
+    "code": "General-Villegas_",
+    "name": ""
+  },
+  {
+    "code": "Gobernador-Galvez_",
+    "name": ""
+  },
+  {
+    "code": "Gobernador-Virasora_",
+    "name": ""
+  },
+  {
+    "code": "Goya_",
+    "name": ""
+  },
+  {
+    "code": "Granadero-Baigorria_",
+    "name": ""
+  },
+  {
+    "code": "Gualeguaychu_",
+    "name": ""
+  },
+  {
+    "code": "Gualeguay_",
+    "name": ""
+  },
+  {
+    "code": "Hurlingham_",
+    "name": ""
+  },
+  {
+    "code": "Ingeniero-Pablo-Nogues_",
+    "name": ""
+  },
+  {
+    "code": "Jardin-America_",
+    "name": ""
+  },
+  {
+    "code": "Jesus-Maria_",
+    "name": ""
+  },
+  {
+    "code": "Joaquin-V-Gonzalez_",
+    "name": ""
+  },
+  {
+    "code": "Jose-C-Paz_",
+    "name": ""
+  },
+  {
+    "code": "Junin_",
+    "name": ""
+  },
+  {
+    "code": "La-Calera_",
+    "name": ""
+  },
+  {
+    "code": "La-Falda_",
+    "name": ""
+  },
+  {
+    "code": "La-Paz_",
+    "name": ""
+  },
+  {
+    "code": "La-Plata_",
+    "name": ""
+  },
+  {
+    "code": "La-Rioja_",
+    "name": ""
+  },
+  {
+    "code": "Laboulaye_",
+    "name": ""
+  },
+  {
+    "code": "Las-Brenas_",
+    "name": ""
+  },
+  {
+    "code": "Libertador-General-San-Martin_",
+    "name": ""
+  },
+  {
+    "code": "Lincoln_",
+    "name": ""
+  },
+  {
+    "code": "Los-Polvorines_",
+    "name": ""
+  },
+  {
+    "code": "Lujan_",
+    "name": ""
+  },
+  {
+    "code": "Machagai_",
+    "name": ""
+  },
+  {
+    "code": "Mar-Del-Plata_",
+    "name": ""
+  },
+  {
+    "code": "Marcos-Juarez_",
+    "name": ""
+  },
+  {
+    "code": "Mendoza_",
+    "name": ""
+  },
+  {
+    "code": "Mercedes_",
+    "name": ""
+  },
+  {
+    "code": "Mercedes_",
+    "name": ""
+  },
+  {
+    "code": "Merlo_",
+    "name": ""
+  },
+  {
+    "code": "Monte-Caseros_",
+    "name": ""
+  },
+  {
+    "code": "Montecarlo_",
+    "name": ""
+  },
+  {
+    "code": "Monteros_",
+    "name": ""
+  },
+  {
+    "code": "Moron_",
+    "name": ""
+  },
+  {
+    "code": "Morteros_",
+    "name": ""
+  },
+  {
+    "code": "Muniz_",
+    "name": ""
+  },
+  {
+    "code": "Necochea_",
+    "name": ""
+  },
+  {
+    "code": "Neuquen_",
+    "name": ""
+  },
+  {
+    "code": "Nueve-De-Julio_",
+    "name": ""
+  },
+  {
+    "code": "Obera_",
+    "name": ""
+  },
+  {
+    "code": "Olavarria_",
+    "name": ""
+  },
+  {
+    "code": "Palpala_",
+    "name": ""
+  },
+  {
+    "code": "Parana_",
+    "name": ""
+  },
+  {
+    "code": "Paso-De-Los-Libres_",
+    "name": ""
+  },
+  {
+    "code": "Perez_",
+    "name": ""
+  },
+  {
+    "code": "Pergamino_",
+    "name": ""
+  },
+  {
+    "code": "Pilar_",
+    "name": ""
+  },
+  {
+    "code": "Pirane_",
+    "name": ""
+  },
+  {
+    "code": "Plottier_",
+    "name": ""
+  },
+  {
+    "code": "Pocito_",
+    "name": ""
+  },
+  {
+    "code": "Pontevedra_",
+    "name": ""
+  },
+  {
+    "code": "Posadas_",
+    "name": ""
+  },
+  {
+    "code": "Presidencia-Roque-Saenz-Pena_",
+    "name": ""
+  },
+  {
+    "code": "Puerto-Eldorado_",
+    "name": ""
+  },
+  {
+    "code": "Puerto-Esperanza_",
+    "name": ""
+  },
+  {
+    "code": "Puerto-Iguazu_",
+    "name": ""
+  },
+  {
+    "code": "Puerto-Madryn_",
+    "name": ""
+  },
+  {
+    "code": "Puerto-Rico_",
+    "name": ""
+  },
+  {
+    "code": "Punta-Alta_",
+    "name": ""
+  },
+  {
+    "code": "Quilmes_",
+    "name": ""
+  },
+  {
+    "code": "Quitilipi_",
+    "name": ""
+  },
+  {
+    "code": "Rafaela_",
+    "name": ""
+  },
+  {
+    "code": "Rawson_",
+    "name": ""
+  },
+  {
+    "code": "Reconquista_",
+    "name": ""
+  },
+  {
+    "code": "Resistencia_",
+    "name": ""
+  },
+  {
+    "code": "Retiro_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Ceballos_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Cuarto_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Gallegos_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Grande_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Segundo_",
+    "name": ""
+  },
+  {
+    "code": "Rio-Tercero_",
+    "name": ""
+  },
+  {
+    "code": "Rosario_",
+    "name": ""
+  },
+  {
+    "code": "Rufino_",
+    "name": ""
+  },
+  {
+    "code": "Saladas_",
+    "name": ""
+  },
+  {
+    "code": "Salta_",
+    "name": ""
+  },
+  {
+    "code": "San-Antonio-Oeste_",
+    "name": ""
+  },
+  {
+    "code": "San-Carlos-De-Bariloche_",
+    "name": ""
+  },
+  {
+    "code": "San-Francisco_",
+    "name": ""
+  },
+  {
+    "code": "San-Isidro_",
+    "name": ""
+  },
+  {
+    "code": "San-Javier_",
+    "name": ""
+  },
+  {
+    "code": "San-Jorge_",
+    "name": ""
+  },
+  {
+    "code": "San-Jose-De-Jachal_",
+    "name": ""
+  },
+  {
+    "code": "San-Juan_",
+    "name": ""
+  },
+  {
+    "code": "San-Justo_",
+    "name": ""
+  },
+  {
+    "code": "San-Lorenzo_",
+    "name": ""
+  },
+  {
+    "code": "San-Luis-Del-Palmar_",
+    "name": ""
+  },
+  {
+    "code": "San-Luis_",
+    "name": ""
+  },
+  {
+    "code": "San-Martin-De-Los-Andes_",
+    "name": ""
+  },
+  {
+    "code": "San-Martin_",
+    "name": ""
+  },
+  {
+    "code": "San-Miguel-De-Tucuman_",
+    "name": ""
+  },
+  {
+    "code": "San-Miguel_",
+    "name": ""
+  },
+  {
+    "code": "San-Nicolas-De-Los-Arroyos_",
+    "name": ""
+  },
+  {
+    "code": "San-Pedro-De-Jujuy_",
+    "name": ""
+  },
+  {
+    "code": "San-Pedro_",
+    "name": ""
+  },
+  {
+    "code": "San-Pedro_",
+    "name": ""
+  },
+  {
+    "code": "San-Rafael_",
+    "name": ""
+  },
+  {
+    "code": "San-Ramon-De-La-Nueva-Oran_",
+    "name": ""
+  },
+  {
+    "code": "San-Salvador-De-Jujuy_",
+    "name": ""
+  },
+  {
+    "code": "San-Vicente_",
+    "name": ""
+  },
+  {
+    "code": "Santa-Elena_",
+    "name": ""
+  },
+  {
+    "code": "Santa-Fe_",
+    "name": ""
+  },
+  {
+    "code": "Santa-Lucia_",
+    "name": ""
+  },
+  {
+    "code": "Santa-Rosa_",
+    "name": ""
+  },
+  {
+    "code": "Santiago-Del-Estero_",
+    "name": ""
+  },
+  {
+    "code": "Santo-Tome_",
+    "name": ""
+  },
+  {
+    "code": "Santo-Tome_",
+    "name": ""
+  },
+  {
+    "code": "Santos-Lugares_",
+    "name": ""
+  },
+  {
+    "code": "Sunchales_",
+    "name": ""
+  },
+  {
+    "code": "Tafi-Viejo_",
+    "name": ""
+  },
+  {
+    "code": "Tandil_",
+    "name": ""
+  },
+  {
+    "code": "Tartagal_",
+    "name": ""
+  },
+  {
+    "code": "Termas-De-Rio-Hondo_",
+    "name": ""
+  },
+  {
+    "code": "Tigre_",
+    "name": ""
+  },
+  {
+    "code": "Tortuguitas_",
+    "name": ""
+  },
+  {
+    "code": "Trelew_",
+    "name": ""
+  },
+  {
+    "code": "Tres-Arroyos_",
+    "name": ""
+  },
+  {
+    "code": "Tres-Isletas_",
+    "name": ""
+  },
+  {
+    "code": "Unquillo_",
+    "name": ""
+  },
+  {
+    "code": "Ushuaia_",
+    "name": ""
+  },
+  {
+    "code": "Veinticinco-De-Mayo_",
+    "name": ""
+  },
+  {
+    "code": "Venado-Tuerto_",
+    "name": ""
+  },
+  {
+    "code": "Vera_",
+    "name": ""
+  },
+  {
+    "code": "Victoria_",
+    "name": ""
+  },
+  {
+    "code": "Viedma_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Allende_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Angela_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Carlos-Paz_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Constitucion_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Dolores_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Gesell_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Lugano_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Maria_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Mercedes_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Nueva_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Ocampo_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Ortuzar_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Paula-De-Sarmiento_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Regina_",
+    "name": ""
+  },
+  {
+    "code": "Villa-Santa-Rita_",
+    "name": ""
+  },
+  {
+    "code": "Villa-De-Mayo_",
+    "name": ""
+  },
+  {
+    "code": "Villaguay_",
+    "name": ""
+  },
+  {
+    "code": "Wanda_",
+    "name": ""
+  },
+  {
+    "code": "Yerba-Buena_",
+    "name": ""
+  },
+  {
+    "code": "Zapala_",
+    "name": ""
+  },
+  {
+    "code": "Zarate_",
+    "name": ""
+  }
+]

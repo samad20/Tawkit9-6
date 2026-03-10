@@ -1,0 +1,658 @@
+[
+  {
+    "code": "AKOUDA_",
+    "name": ""
+  },
+  {
+    "code": "AL-MARSA_",
+    "name": ""
+  },
+  {
+    "code": "AL-MATLIN_",
+    "name": ""
+  },
+  {
+    "code": "AR-RUDAYYIF_",
+    "name": ""
+  },
+  {
+    "code": "ARIANA_",
+    "name": ""
+  },
+  {
+    "code": "AS-SANAD_",
+    "name": ""
+  },
+  {
+    "code": "AS-SARS_",
+    "name": ""
+  },
+  {
+    "code": "BANBALAH_",
+    "name": ""
+  },
+  {
+    "code": "BEJA_",
+    "name": ""
+  },
+  {
+    "code": "BEKALTA_",
+    "name": ""
+  },
+  {
+    "code": "BEN-AROUS_",
+    "name": ""
+  },
+  {
+    "code": "BEN-GARDANE",
+    "name": "بن قردان"
+  },
+  {
+    "code": "BEN-GARDANE_",
+    "name": ""
+  },
+  {
+    "code": "BENI-HASSANE_",
+    "name": ""
+  },
+  {
+    "code": "BENI-KHALLED_",
+    "name": ""
+  },
+  {
+    "code": "BENI-KHEDDACHE_",
+    "name": ""
+  },
+  {
+    "code": "BENI-KHIAR_",
+    "name": ""
+  },
+  {
+    "code": "BIR-ALI-BEN-KHALIFA_",
+    "name": ""
+  },
+  {
+    "code": "BIR-EL-HAFEY_",
+    "name": ""
+  },
+  {
+    "code": "BIZERTE_",
+    "name": ""
+  },
+  {
+    "code": "BOU-ARADA_",
+    "name": ""
+  },
+  {
+    "code": "BOU-ARKOUB_",
+    "name": ""
+  },
+  {
+    "code": "BOU-ATTOUCHE_",
+    "name": ""
+  },
+  {
+    "code": "CARTHAGE_",
+    "name": ""
+  },
+  {
+    "code": "CHEBBA_",
+    "name": ""
+  },
+  {
+    "code": "CHEBIKA_",
+    "name": ""
+  },
+  {
+    "code": "CHORBANE_",
+    "name": ""
+  },
+  {
+    "code": "DAR-CHABANNE_",
+    "name": ""
+  },
+  {
+    "code": "DEGACHE_",
+    "name": ""
+  },
+  {
+    "code": "DJEBENIANA_",
+    "name": ""
+  },
+  {
+    "code": "DJEMMAL_",
+    "name": ""
+  },
+  {
+    "code": "DOUANE_",
+    "name": ""
+  },
+  {
+    "code": "DOUAR-TINDJA_",
+    "name": ""
+  },
+  {
+    "code": "DOUZ_",
+    "name": ""
+  },
+  {
+    "code": "EL-ALIA_",
+    "name": ""
+  },
+  {
+    "code": "EL-BATTAN_",
+    "name": ""
+  },
+  {
+    "code": "EL-FAHS_",
+    "name": ""
+  },
+  {
+    "code": "EL-GOLAA_",
+    "name": ""
+  },
+  {
+    "code": "EL-HAMMA-G",
+    "name": "الحامة - قابس"
+  },
+  {
+    "code": "EL-HAMMA_",
+    "name": ""
+  },
+  {
+    "code": "EL-HAOUARIA_",
+    "name": ""
+  },
+  {
+    "code": "EL-JEM_",
+    "name": ""
+  },
+  {
+    "code": "EL-KEF_",
+    "name": ""
+  },
+  {
+    "code": "EL-KSOUR_",
+    "name": ""
+  },
+  {
+    "code": "EL-MAAMOURA_",
+    "name": ""
+  },
+  {
+    "code": "EL-MIDA_",
+    "name": ""
+  },
+  {
+    "code": "ER-REGUEB_",
+    "name": ""
+  },
+  {
+    "code": "ERRIADH_",
+    "name": ""
+  },
+  {
+    "code": "FERNANA_",
+    "name": ""
+  },
+  {
+    "code": "GABES",
+    "name": "ڨابس"
+  },
+  {
+    "code": "GABES_",
+    "name": ""
+  },
+  {
+    "code": "GAFOUR_",
+    "name": ""
+  },
+  {
+    "code": "GAFSA_",
+    "name": ""
+  },
+  {
+    "code": "GALAAT-EL-ANDELESS_",
+    "name": ""
+  },
+  {
+    "code": "GERGEIS",
+    "name": "جرجيس"
+  },
+  {
+    "code": "GHARDIMAOU",
+    "name": "غار الدماء"
+  },
+  {
+    "code": "GHOMRASSEN_",
+    "name": ""
+  },
+  {
+    "code": "GIBLY",
+    "name": "قبلي"
+  },
+  {
+    "code": "GOUBELLAT_",
+    "name": ""
+  },
+  {
+    "code": "GREMDA_",
+    "name": ""
+  },
+  {
+    "code": "HAFFOUZ_",
+    "name": ""
+  },
+  {
+    "code": "HAMMAM-LIF_",
+    "name": ""
+  },
+  {
+    "code": "HAMMAM-SOUSSE_",
+    "name": ""
+  },
+  {
+    "code": "HAMMAMET_",
+    "name": ""
+  },
+  {
+    "code": "HARQALAH_",
+    "name": ""
+  },
+  {
+    "code": "HERAGLA",
+    "name": "هرقلة"
+  },
+  {
+    "code": "HOUMT-EL-SOUK_",
+    "name": ""
+  },
+  {
+    "code": "JEMNA_",
+    "name": ""
+  },
+  {
+    "code": "JENDOUBA_",
+    "name": ""
+  },
+  {
+    "code": "JERBA",
+    "name": "جربة"
+  },
+  {
+    "code": "JILMA_",
+    "name": ""
+  },
+  {
+    "code": "KAIROUAN_",
+    "name": ""
+  },
+  {
+    "code": "KASR-JEDID",
+    "name": "القصر الجديد"
+  },
+  {
+    "code": "KASSERINE_",
+    "name": ""
+  },
+  {
+    "code": "KEBILI_",
+    "name": ""
+  },
+  {
+    "code": "KELIBIA_",
+    "name": ""
+  },
+  {
+    "code": "KESRA_",
+    "name": ""
+  },
+  {
+    "code": "KORBA_",
+    "name": ""
+  },
+  {
+    "code": "KORBOUS_",
+    "name": ""
+  },
+  {
+    "code": "KSAR-HELLAL_",
+    "name": ""
+  },
+  {
+    "code": "KSIBET-EL-MEDIOUNI_",
+    "name": ""
+  },
+  {
+    "code": "KSOUR-ESSAF_",
+    "name": ""
+  },
+  {
+    "code": "LA-GOULETTE_",
+    "name": ""
+  },
+  {
+    "code": "LA-MOHAMMEDIA_",
+    "name": ""
+  },
+  {
+    "code": "LA-SEBALA-DU-MORNAG_",
+    "name": ""
+  },
+  {
+    "code": "LE-KRIB_",
+    "name": ""
+  },
+  {
+    "code": "LEMTA_",
+    "name": ""
+  },
+  {
+    "code": "MAHARES",
+    "name": "المحرس"
+  },
+  {
+    "code": "MAHDIA_",
+    "name": ""
+  },
+  {
+    "code": "MAKTAR_",
+    "name": ""
+  },
+  {
+    "code": "MANOUBA",
+    "name": "منوبة"
+  },
+  {
+    "code": "MANOUBA_",
+    "name": ""
+  },
+  {
+    "code": "MATEUR_",
+    "name": ""
+  },
+  {
+    "code": "MATMATA_",
+    "name": ""
+  },
+  {
+    "code": "MEDENINE",
+    "name": "مدنين"
+  },
+  {
+    "code": "MEDENINE_",
+    "name": ""
+  },
+  {
+    "code": "MEDJEZ-EL-BAB_",
+    "name": ""
+  },
+  {
+    "code": "MELLOULECHE_",
+    "name": ""
+  },
+  {
+    "code": "MENNZEL-BOU-ZELFA_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-ABDERHAMAN_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-BOURGUIBA_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-HEURR_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-JEMIL_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-KAMEL_",
+    "name": ""
+  },
+  {
+    "code": "MENZEL-SALEM_",
+    "name": ""
+  },
+  {
+    "code": "MESDOUR_",
+    "name": ""
+  },
+  {
+    "code": "METLAOUI_",
+    "name": ""
+  },
+  {
+    "code": "MEZZOUNA_",
+    "name": ""
+  },
+  {
+    "code": "MIDOUN_",
+    "name": ""
+  },
+  {
+    "code": "MONASTIR",
+    "name": "منستير"
+  },
+  {
+    "code": "MONASTIR_",
+    "name": ""
+  },
+  {
+    "code": "MSAKEN",
+    "name": "مساكن"
+  },
+  {
+    "code": "MSAKEN_",
+    "name": ""
+  },
+  {
+    "code": "NABEUL_",
+    "name": ""
+  },
+  {
+    "code": "NABEUL_",
+    "name": ""
+  },
+  {
+    "code": "NEFTA_",
+    "name": ""
+  },
+  {
+    "code": "NIBBAR_",
+    "name": ""
+  },
+  {
+    "code": "OUARDENINE_",
+    "name": ""
+  },
+  {
+    "code": "OUED-LILL_",
+    "name": ""
+  },
+  {
+    "code": "PORT-EL-KANTAOUI_",
+    "name": ""
+  },
+  {
+    "code": "RADES_",
+    "name": ""
+  },
+  {
+    "code": "RAFRAF_",
+    "name": ""
+  },
+  {
+    "code": "REMADA_",
+    "name": ""
+  },
+  {
+    "code": "RHAR-EL-MELAH_",
+    "name": ""
+  },
+  {
+    "code": "ROHIA_",
+    "name": ""
+  },
+  {
+    "code": "SAHLINE_",
+    "name": ""
+  },
+  {
+    "code": "SAKIET-SIDI-YOUSSEF_",
+    "name": ""
+  },
+  {
+    "code": "SALAKTA_",
+    "name": ""
+  },
+  {
+    "code": "SBIBA_",
+    "name": ""
+  },
+  {
+    "code": "SBIKHA_",
+    "name": ""
+  },
+  {
+    "code": "SEIADA_",
+    "name": ""
+  },
+  {
+    "code": "SEJENANE_",
+    "name": ""
+  },
+  {
+    "code": "SFAX",
+    "name": "صفاقس"
+  },
+  {
+    "code": "SFAX_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-ALOUANE_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-BEN-NOUR_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-BOU-ALI_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-BOU-SAID_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-BOUZID_",
+    "name": ""
+  },
+  {
+    "code": "SIDI-EL-HANI_",
+    "name": ""
+  },
+  {
+    "code": "SILIANA_",
+    "name": ""
+  },
+  {
+    "code": "SKANES_",
+    "name": ""
+  },
+  {
+    "code": "SKHIRA_",
+    "name": ""
+  },
+  {
+    "code": "SOUSSE_",
+    "name": ""
+  },
+  {
+    "code": "TABARKA",
+    "name": "طبرقة"
+  },
+  {
+    "code": "TABARKA_",
+    "name": ""
+  },
+  {
+    "code": "TABURSUQ_",
+    "name": ""
+  },
+  {
+    "code": "TAJEROUINE_",
+    "name": ""
+  },
+  {
+    "code": "TAKELSA_",
+    "name": ""
+  },
+  {
+    "code": "TAMAGHZAH_",
+    "name": ""
+  },
+  {
+    "code": "TATAOUINE_",
+    "name": ""
+  },
+  {
+    "code": "TATOUINE",
+    "name": "تطاوين"
+  },
+  {
+    "code": "TESTOUR_",
+    "name": ""
+  },
+  {
+    "code": "THALA_",
+    "name": ""
+  },
+  {
+    "code": "TOUZA_",
+    "name": ""
+  },
+  {
+    "code": "TOZEUR_",
+    "name": ""
+  },
+  {
+    "code": "TUNIS",
+    "name": "تونس"
+  },
+  {
+    "code": "TUNIS_",
+    "name": ""
+  },
+  {
+    "code": "WADI-MALIZ_",
+    "name": ""
+  },
+  {
+    "code": "ZAGHOUAN_",
+    "name": ""
+  },
+  {
+    "code": "ZAHANAH_",
+    "name": ""
+  },
+  {
+    "code": "ZAOUIAT-DJEDIDI_",
+    "name": ""
+  },
+  {
+    "code": "ZARZIS_",
+    "name": ""
+  },
+  {
+    "code": "ZOUILA_",
+    "name": ""
+  }
+]

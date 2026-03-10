@@ -1,0 +1,1158 @@
+[
+  {
+    "code": "ABU-AZ-ZUHUR",
+    "name": ""
+  },
+  {
+    "code": "ABU-QALQAL",
+    "name": ""
+  },
+  {
+    "code": "AD-DALIYAH",
+    "name": ""
+  },
+  {
+    "code": "AD-DANA",
+    "name": ""
+  },
+  {
+    "code": "AD-DARBASIYAH",
+    "name": ""
+  },
+  {
+    "code": "AD-DIMAS",
+    "name": ""
+  },
+  {
+    "code": "AD-DUMAYR",
+    "name": ""
+  },
+  {
+    "code": "AD-DURAYKISH",
+    "name": ""
+  },
+  {
+    "code": "AFRIN",
+    "name": ""
+  },
+  {
+    "code": "AKHTARIN",
+    "name": ""
+  },
+  {
+    "code": "AL-ANNAZAH",
+    "name": ""
+  },
+  {
+    "code": "AL-ARIMAH",
+    "name": ""
+  },
+  {
+    "code": "AL-ASHARAH",
+    "name": ""
+  },
+  {
+    "code": "AL-ATARIB",
+    "name": ""
+  },
+  {
+    "code": "AL-BAB",
+    "name": ""
+  },
+  {
+    "code": "AL-BAHLULIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-BARIQIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-BUSAYRAH",
+    "name": ""
+  },
+  {
+    "code": "AL-FAKHURAH",
+    "name": ""
+  },
+  {
+    "code": "AL-FURQLUS",
+    "name": ""
+  },
+  {
+    "code": "AL-GHANDURAH",
+    "name": ""
+  },
+  {
+    "code": "AL-GHANTU",
+    "name": ""
+  },
+  {
+    "code": "AL-GHARIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-GHIZLANIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-HADIR",
+    "name": ""
+  },
+  {
+    "code": "AL-HAFFAH",
+    "name": ""
+  },
+  {
+    "code": "AL-HAJAR-AL-ASWAD",
+    "name": ""
+  },
+  {
+    "code": "AL-HAJIB",
+    "name": ""
+  },
+  {
+    "code": "AL-HAMIDIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-HAMRA",
+    "name": ""
+  },
+  {
+    "code": "AL-HASAKAH",
+    "name": ""
+  },
+  {
+    "code": "AL-HAWASH",
+    "name": ""
+  },
+  {
+    "code": "AL-HAWL",
+    "name": ""
+  },
+  {
+    "code": "AL-HINADI",
+    "name": ""
+  },
+  {
+    "code": "AL-HIRAK",
+    "name": ""
+  },
+  {
+    "code": "AL-JALA",
+    "name": ""
+  },
+  {
+    "code": "AL-JANUDIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-JARNIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-JAWADIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-JIZAH",
+    "name": ""
+  },
+  {
+    "code": "AL-KARAMAH",
+    "name": ""
+  },
+  {
+    "code": "AL-KARIMAH",
+    "name": ""
+  },
+  {
+    "code": "AL-KASRAH",
+    "name": ""
+  },
+  {
+    "code": "AL-KHAFSAH",
+    "name": ""
+  },
+  {
+    "code": "AL-KISWAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MABATLI",
+    "name": ""
+  },
+  {
+    "code": "AL-MALIKIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MANSURAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MAYADIN",
+    "name": ""
+  },
+  {
+    "code": "AL-MAZRAAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MULAYHAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MUSAYFIRAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MUSHANNAF",
+    "name": ""
+  },
+  {
+    "code": "AL-MUZAYRIAH",
+    "name": ""
+  },
+  {
+    "code": "AL-MUZAYRIB",
+    "name": ""
+  },
+  {
+    "code": "AL-QABW",
+    "name": ""
+  },
+  {
+    "code": "AL-QADMUS",
+    "name": ""
+  },
+  {
+    "code": "AL-QAHTANIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-QAMISHLI",
+    "name": ""
+  },
+  {
+    "code": "AL-QAMSIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-QARDAHAH",
+    "name": ""
+  },
+  {
+    "code": "AL-QARYATAYN",
+    "name": ""
+  },
+  {
+    "code": "AL-QUNAYTIRAH",
+    "name": ""
+  },
+  {
+    "code": "AL-QURAYYA",
+    "name": ""
+  },
+  {
+    "code": "AL-QUSAYR",
+    "name": ""
+  },
+  {
+    "code": "AL-QUTAYFAH",
+    "name": ""
+  },
+  {
+    "code": "AL-QUTAYLIBIYAH",
+    "name": ""
+  },
+  {
+    "code": "AL-YARUBIYAH",
+    "name": ""
+  },
+  {
+    "code": "ALBU-KAMAL",
+    "name": ""
+  },
+  {
+    "code": "ALEPPO",
+    "name": ""
+  },
+  {
+    "code": "AMUDA",
+    "name": ""
+  },
+  {
+    "code": "AN-NABK",
+    "name": ""
+  },
+  {
+    "code": "AN-NASHABIYAH",
+    "name": ""
+  },
+  {
+    "code": "AN-NASIRAH",
+    "name": ""
+  },
+  {
+    "code": "AR-RAI",
+    "name": ""
+  },
+  {
+    "code": "AR-RAQQAH",
+    "name": ""
+  },
+  {
+    "code": "AR-RASTAN",
+    "name": ""
+  },
+  {
+    "code": "AR-RAWDAH",
+    "name": ""
+  },
+  {
+    "code": "AR-RIQAMA",
+    "name": ""
+  },
+  {
+    "code": "AR-RUHAYBAH",
+    "name": ""
+  },
+  {
+    "code": "ARIHA",
+    "name": ""
+  },
+  {
+    "code": "ARIQAH",
+    "name": ""
+  },
+  {
+    "code": "ARISHAH",
+    "name": ""
+  },
+  {
+    "code": "ARMANAZ",
+    "name": ""
+  },
+  {
+    "code": "ARWAD",
+    "name": ""
+  },
+  {
+    "code": "AS-SAB-BIYAR",
+    "name": ""
+  },
+  {
+    "code": "AS-SABKHAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SAFIRAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SAFSAFAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SALAMIYAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SANAMAYN",
+    "name": ""
+  },
+  {
+    "code": "AS-SAWDA",
+    "name": ""
+  },
+  {
+    "code": "AS-SIIN",
+    "name": ""
+  },
+  {
+    "code": "AS-SISNIYAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SUKHNAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SUQAYLIBIYAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SURAH-AS-SAGHIRAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SUSAH",
+    "name": ""
+  },
+  {
+    "code": "AS-SUWAYDA",
+    "name": ""
+  },
+  {
+    "code": "ASH-SHADDADAH",
+    "name": ""
+  },
+  {
+    "code": "ASH-SHAJARAH",
+    "name": ""
+  },
+  {
+    "code": "ASH-SHAYKH-BADR",
+    "name": ""
+  },
+  {
+    "code": "ASSAL-AL-WARD",
+    "name": ""
+  },
+  {
+    "code": "AT-TALL",
+    "name": ""
+  },
+  {
+    "code": "AT-TAMANIAH",
+    "name": ""
+  },
+  {
+    "code": "AT-TAWAHIN",
+    "name": ""
+  },
+  {
+    "code": "AT-TIBNI",
+    "name": ""
+  },
+  {
+    "code": "ATH-THAWRAH",
+    "name": ""
+  },
+  {
+    "code": "AWAJ",
+    "name": ""
+  },
+  {
+    "code": "AYN-AL-ARAB",
+    "name": ""
+  },
+  {
+    "code": "AYN-AL-BAYDA",
+    "name": ""
+  },
+  {
+    "code": "AYN-AL-FIJAH",
+    "name": ""
+  },
+  {
+    "code": "AYN-AN-NASR",
+    "name": ""
+  },
+  {
+    "code": "AYN-ASH-SHARQIYAH",
+    "name": ""
+  },
+  {
+    "code": "AYN-AT-TINAH",
+    "name": ""
+  },
+  {
+    "code": "AYN-HALAQIM",
+    "name": ""
+  },
+  {
+    "code": "AYN-ISA",
+    "name": ""
+  },
+  {
+    "code": "AYN-SHIQAQ",
+    "name": ""
+  },
+  {
+    "code": "AZ-ZABADANI",
+    "name": ""
+  },
+  {
+    "code": "AZ-ZARBAH",
+    "name": ""
+  },
+  {
+    "code": "AZ-ZIYARAH",
+    "name": ""
+  },
+  {
+    "code": "BABILA",
+    "name": ""
+  },
+  {
+    "code": "BANAN",
+    "name": ""
+  },
+  {
+    "code": "BANIYAS",
+    "name": ""
+  },
+  {
+    "code": "BARRI-ASH-SHARQI",
+    "name": ""
+  },
+  {
+    "code": "BATABO",
+    "name": ""
+  },
+  {
+    "code": "BAYT-YASHUT",
+    "name": ""
+  },
+  {
+    "code": "BDAMA",
+    "name": ""
+  },
+  {
+    "code": "BINNISH",
+    "name": ""
+  },
+  {
+    "code": "BIR-AL-HULW-AL-WARDIYAH",
+    "name": ""
+  },
+  {
+    "code": "BRUMMANAT-AL-MASHAYIKH",
+    "name": ""
+  },
+  {
+    "code": "BULBUL",
+    "name": ""
+  },
+  {
+    "code": "BUQATA",
+    "name": ""
+  },
+  {
+    "code": "BUSRA-ASH-SHAM",
+    "name": ""
+  },
+  {
+    "code": "DAIL",
+    "name": ""
+  },
+  {
+    "code": "DAMASCUS",
+    "name": ""
+  },
+  {
+    "code": "DARA",
+    "name": ""
+  },
+  {
+    "code": "DARAT-IZZAH",
+    "name": ""
+  },
+  {
+    "code": "DARAYYA",
+    "name": ""
+  },
+  {
+    "code": "DARKUSH",
+    "name": ""
+  },
+  {
+    "code": "DAYR-AL-ASAFIR",
+    "name": ""
+  },
+  {
+    "code": "DAYR-ATIYAH",
+    "name": ""
+  },
+  {
+    "code": "DAYR-HAFIR",
+    "name": ""
+  },
+  {
+    "code": "DEIR-EZ-ZOR",
+    "name": ""
+  },
+  {
+    "code": "DHIBAN",
+    "name": ""
+  },
+  {
+    "code": "DHIBBIN",
+    "name": ""
+  },
+  {
+    "code": "DUMA",
+    "name": ""
+  },
+  {
+    "code": "DUWAYR-RASLAN",
+    "name": ""
+  },
+  {
+    "code": "GHABAGHIB",
+    "name": ""
+  },
+  {
+    "code": "HADIDAH",
+    "name": ""
+  },
+  {
+    "code": "HAJIN",
+    "name": ""
+  },
+  {
+    "code": "HALFAYA",
+    "name": ""
+  },
+  {
+    "code": "HAMAH",
+    "name": ""
+  },
+  {
+    "code": "HAMMAM-WASIL",
+    "name": ""
+  },
+  {
+    "code": "HARASTA",
+    "name": ""
+  },
+  {
+    "code": "HARBINAFSAH",
+    "name": ""
+  },
+  {
+    "code": "HARF-AL-MUSAYTIRAH",
+    "name": ""
+  },
+  {
+    "code": "HARIM",
+    "name": ""
+  },
+  {
+    "code": "HARRAN-AL-AWAMID",
+    "name": ""
+  },
+  {
+    "code": "HIMMIN",
+    "name": ""
+  },
+  {
+    "code": "HISH",
+    "name": ""
+  },
+  {
+    "code": "HISYA",
+    "name": ""
+  },
+  {
+    "code": "HOMS",
+    "name": ""
+  },
+  {
+    "code": "HURAYTAN",
+    "name": ""
+  },
+  {
+    "code": "IDLIB",
+    "name": ""
+  },
+  {
+    "code": "IHSIM",
+    "name": ""
+  },
+  {
+    "code": "INKHIL",
+    "name": ""
+  },
+  {
+    "code": "IRBIN",
+    "name": ""
+  },
+  {
+    "code": "IZAZ",
+    "name": ""
+  },
+  {
+    "code": "IZRA",
+    "name": ""
+  },
+  {
+    "code": "JABLAH",
+    "name": ""
+  },
+  {
+    "code": "JARABULUS",
+    "name": ""
+  },
+  {
+    "code": "JARAMANA",
+    "name": ""
+  },
+  {
+    "code": "JASIM",
+    "name": ""
+  },
+  {
+    "code": "JAWBAT-BURGHAL",
+    "name": ""
+  },
+  {
+    "code": "JAYRUD",
+    "name": ""
+  },
+  {
+    "code": "JINDAYRIS",
+    "name": ""
+  },
+  {
+    "code": "JINNIYAH",
+    "name": ""
+  },
+  {
+    "code": "JISR-ASH-SHUGHUR",
+    "name": ""
+  },
+  {
+    "code": "JUBB-AL-JARRAH",
+    "name": ""
+  },
+  {
+    "code": "JUBB-RAMLAH",
+    "name": ""
+  },
+  {
+    "code": "JUNAYNAT-RASLAN",
+    "name": ""
+  },
+  {
+    "code": "KAFF-AL-JAA",
+    "name": ""
+  },
+  {
+    "code": "KAFR-BATNA",
+    "name": ""
+  },
+  {
+    "code": "KAFR-LAHA",
+    "name": ""
+  },
+  {
+    "code": "KAFR-MUSA-AL-HMIDIYA",
+    "name": ""
+  },
+  {
+    "code": "KAFR-SAGHIR",
+    "name": ""
+  },
+  {
+    "code": "KAFR-TAKHARIM",
+    "name": ""
+  },
+  {
+    "code": "KAFR-ZAYTA",
+    "name": ""
+  },
+  {
+    "code": "KAFRANBEL",
+    "name": ""
+  },
+  {
+    "code": "KASSAB",
+    "name": ""
+  },
+  {
+    "code": "KHAN-ARNABAH",
+    "name": ""
+  },
+  {
+    "code": "KHAN-SHAYKHUN",
+    "name": ""
+  },
+  {
+    "code": "KHANASIR",
+    "name": ""
+  },
+  {
+    "code": "KHIRBAT-AL-MAAZZAH",
+    "name": ""
+  },
+  {
+    "code": "KHIRBAT-GHAZALAH",
+    "name": ""
+  },
+  {
+    "code": "KHIRBAT-TIN-NUR",
+    "name": ""
+  },
+  {
+    "code": "KHUSHAM",
+    "name": ""
+  },
+  {
+    "code": "KINNSIBBA",
+    "name": ""
+  },
+  {
+    "code": "KURNAZ",
+    "name": ""
+  },
+  {
+    "code": "KUWAYRIS-SHARQI",
+    "name": ""
+  },
+  {
+    "code": "LATAKIA",
+    "name": ""
+  },
+  {
+    "code": "MAARRAT-AN-NUMAN",
+    "name": ""
+  },
+  {
+    "code": "MAARRATMISRIN",
+    "name": ""
+  },
+  {
+    "code": "MADAN",
+    "name": ""
+  },
+  {
+    "code": "MADAYA",
+    "name": ""
+  },
+  {
+    "code": "MAHIN",
+    "name": ""
+  },
+  {
+    "code": "MALAH",
+    "name": ""
+  },
+  {
+    "code": "MALULA",
+    "name": ""
+  },
+  {
+    "code": "MANBIJ",
+    "name": ""
+  },
+  {
+    "code": "MARI",
+    "name": ""
+  },
+  {
+    "code": "MARKADAH",
+    "name": ""
+  },
+  {
+    "code": "MASADAH",
+    "name": ""
+  },
+  {
+    "code": "MASADAH",
+    "name": ""
+  },
+  {
+    "code": "MASHTA-AL-HULW",
+    "name": ""
+  },
+  {
+    "code": "MASKANAH",
+    "name": ""
+  },
+  {
+    "code": "MASYAF",
+    "name": ""
+  },
+  {
+    "code": "MAZRAAT-BAYT-JINN",
+    "name": ""
+  },
+  {
+    "code": "MISMIYAH",
+    "name": ""
+  },
+  {
+    "code": "MUH-HASAN",
+    "name": ""
+  },
+  {
+    "code": "MUHAMBAL",
+    "name": ""
+  },
+  {
+    "code": "MUHRADAH",
+    "name": ""
+  },
+  {
+    "code": "MUKHARRAM-AL-FAWQANI",
+    "name": ""
+  },
+  {
+    "code": "MURAK",
+    "name": ""
+  },
+  {
+    "code": "NAHIYAT-AS-SAB-BIYAR",
+    "name": ""
+  },
+  {
+    "code": "NAWA",
+    "name": ""
+  },
+  {
+    "code": "NUBL",
+    "name": ""
+  },
+  {
+    "code": "QADSAYYA",
+    "name": ""
+  },
+  {
+    "code": "QALAT-AL-MADIQ",
+    "name": ""
+  },
+  {
+    "code": "QARAH",
+    "name": ""
+  },
+  {
+    "code": "QASTAL-MAAF",
+    "name": ""
+  },
+  {
+    "code": "QATANA",
+    "name": ""
+  },
+  {
+    "code": "QENTERE",
+    "name": ""
+  },
+  {
+    "code": "QURQINA",
+    "name": ""
+  },
+  {
+    "code": "RABIAH",
+    "name": ""
+  },
+  {
+    "code": "RAJU",
+    "name": ""
+  },
+  {
+    "code": "RANKUS",
+    "name": ""
+  },
+  {
+    "code": "RAS-AL-AYN",
+    "name": ""
+  },
+  {
+    "code": "RAS-AL-KHASHUFAH",
+    "name": ""
+  },
+  {
+    "code": "RASM-AL-HARMAL",
+    "name": ""
+  },
+  {
+    "code": "SABBAH",
+    "name": ""
+  },
+  {
+    "code": "SABBURAH",
+    "name": ""
+  },
+  {
+    "code": "SADAD",
+    "name": ""
+  },
+  {
+    "code": "SAFITA",
+    "name": ""
+  },
+  {
+    "code": "SAHNAYA",
+    "name": ""
+  },
+  {
+    "code": "SALAKHID",
+    "name": ""
+  },
+  {
+    "code": "SALKHAD",
+    "name": ""
+  },
+  {
+    "code": "SALQIN",
+    "name": ""
+  },
+  {
+    "code": "SARAQIB",
+    "name": ""
+  },
+  {
+    "code": "SARMIN",
+    "name": ""
+  },
+  {
+    "code": "SASA",
+    "name": ""
+  },
+  {
+    "code": "SAYDNAYA",
+    "name": ""
+  },
+  {
+    "code": "SHAHBA",
+    "name": ""
+  },
+  {
+    "code": "SHAQQA",
+    "name": ""
+  },
+  {
+    "code": "SHARAN",
+    "name": ""
+  },
+  {
+    "code": "SHATHAH",
+    "name": ""
+  },
+  {
+    "code": "SHAYKH-AL-HADID",
+    "name": ""
+  },
+  {
+    "code": "SHAYKH-MISKIN",
+    "name": ""
+  },
+  {
+    "code": "SHIN",
+    "name": ""
+  },
+  {
+    "code": "SHUYUKH-TAHTANI",
+    "name": ""
+  },
+  {
+    "code": "SINJAR",
+    "name": ""
+  },
+  {
+    "code": "SIRGHAYA",
+    "name": ""
+  },
+  {
+    "code": "SIRRIN-ASH-SHAMALIYAH",
+    "name": ""
+  },
+  {
+    "code": "SLINFAH",
+    "name": ""
+  },
+  {
+    "code": "SUBAYKHAN",
+    "name": ""
+  },
+  {
+    "code": "SULUK",
+    "name": ""
+  },
+  {
+    "code": "SURAN",
+    "name": ""
+  },
+  {
+    "code": "SURAN",
+    "name": ""
+  },
+  {
+    "code": "TADIF",
+    "name": ""
+  },
+  {
+    "code": "TADMUR",
+    "name": ""
+  },
+  {
+    "code": "TAFAS",
+    "name": ""
+  },
+  {
+    "code": "TAFTANAZ",
+    "name": ""
+  },
+  {
+    "code": "TALIN",
+    "name": ""
+  },
+  {
+    "code": "TALL-ABYAD",
+    "name": ""
+  },
+  {
+    "code": "TALL-AD-DAMAN",
+    "name": ""
+  },
+  {
+    "code": "TALL-HAMIS",
+    "name": ""
+  },
+  {
+    "code": "TALL-RIFAT",
+    "name": ""
+  },
+  {
+    "code": "TALL-SALHAB",
+    "name": ""
+  },
+  {
+    "code": "TALL-TAMR",
+    "name": ""
+  },
+  {
+    "code": "TALLBISAH",
+    "name": ""
+  },
+  {
+    "code": "TALLDAWW",
+    "name": ""
+  },
+  {
+    "code": "TALLKALAKH",
+    "name": ""
+  },
+  {
+    "code": "TARTUS",
+    "name": ""
+  },
+  {
+    "code": "TASIL",
+    "name": ""
+  },
+  {
+    "code": "TAYYIBAT-AL-IMAM",
+    "name": ""
+  },
+  {
+    "code": "TREMSEH",
+    "name": ""
+  },
+  {
+    "code": "UQAYRIBAT",
+    "name": ""
+  },
+  {
+    "code": "WADI-AL-UYUN",
+    "name": ""
+  },
+  {
+    "code": "YABRUD",
+    "name": ""
+  }
+]

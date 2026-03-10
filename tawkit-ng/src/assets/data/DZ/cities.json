@@ -1,0 +1,246 @@
+[
+  {
+    "code": "ADRAR",
+    "name": "أدرار"
+  },
+  {
+    "code": "AIN-AMENAS",
+    "name": "عين أمناس"
+  },
+  {
+    "code": "AIN-DEFLA",
+    "name": "عين الدفلى"
+  },
+  {
+    "code": "AIN-ELMELH",
+    "name": "عين الملح"
+  },
+  {
+    "code": "AIN-MADHI",
+    "name": ""
+  },
+  {
+    "code": "AIN-OUASSARA",
+    "name": "عين وسارة"
+  },
+  {
+    "code": "AIN-TEMOUCHENT",
+    "name": "عين تموشنت"
+  },
+  {
+    "code": "ALGERIA",
+    "name": "الجزائر العاصمة"
+  },
+  {
+    "code": "ANNABA",
+    "name": "عنابة"
+  },
+  {
+    "code": "BARIKA",
+    "name": "بريكة"
+  },
+  {
+    "code": "BATNA",
+    "name": "باتنة"
+  },
+  {
+    "code": "BEJAIA",
+    "name": "بجاية"
+  },
+  {
+    "code": "BEN-BADIS",
+    "name": "بن باديس"
+  },
+  {
+    "code": "BIR-ELATER",
+    "name": "بئر العاتر"
+  },
+  {
+    "code": "BISKRA",
+    "name": "بسكرة"
+  },
+  {
+    "code": "BLIDA",
+    "name": "البليدة"
+  },
+  {
+    "code": "BORJ-BOU-ARRERIJ",
+    "name": "برج بوعريريج"
+  },
+  {
+    "code": "BOU-SAADA",
+    "name": "بوسعادة"
+  },
+  {
+    "code": "BOUIRA",
+    "name": "البويرة"
+  },
+  {
+    "code": "BOUMERDES",
+    "name": "بومرداس"
+  },
+  {
+    "code": "CHLEF",
+    "name": "الشلف"
+  },
+  {
+    "code": "CONSTANTINE",
+    "name": "قسنطينة"
+  },
+  {
+    "code": "DELLYS",
+    "name": "دلس"
+  },
+  {
+    "code": "DJELFA",
+    "name": "الجلفة"
+  },
+  {
+    "code": "EL-BAYADH",
+    "name": "البيّض"
+  },
+  {
+    "code": "EL-TARF",
+    "name": "الطارف"
+  },
+  {
+    "code": "ELOUED",
+    "name": "الوادي"
+  },
+  {
+    "code": "GUELMA",
+    "name": "قالمة"
+  },
+  {
+    "code": "JIJEL",
+    "name": "جيجل"
+  },
+  {
+    "code": "KAIS",
+    "name": ""
+  },
+  {
+    "code": "KHENCHELA",
+    "name": "خنشلة"
+  },
+  {
+    "code": "LAGHOUAT",
+    "name": "الأغواط"
+  },
+  {
+    "code": "MAGHNIA",
+    "name": "مغنية"
+  },
+  {
+    "code": "MASCARA",
+    "name": "معسكر"
+  },
+  {
+    "code": "MEDIA",
+    "name": "المدية"
+  },
+  {
+    "code": "MILA",
+    "name": "ميلة"
+  },
+  {
+    "code": "MOSTAGANEM",
+    "name": "مستغانم"
+  },
+  {
+    "code": "MOUDJEBARA",
+    "name": "المجبارة"
+  },
+  {
+    "code": "MSILA",
+    "name": "المسيلة"
+  },
+  {
+    "code": "NAAMA",
+    "name": "النعامة"
+  },
+  {
+    "code": "ORAN",
+    "name": "وهران"
+  },
+  {
+    "code": "OULED-DJELLAL",
+    "name": "أولاد جلال"
+  },
+  {
+    "code": "OULED-ISSA",
+    "name": "أولاد عيسى"
+  },
+  {
+    "code": "OUM-EL-BOUAGHI",
+    "name": "أم البواقي"
+  },
+  {
+    "code": "RELIZANE",
+    "name": "غليزان"
+  },
+  {
+    "code": "SAIDA",
+    "name": "سعيدة"
+  },
+  {
+    "code": "SEBDOU",
+    "name": "سبدو"
+  },
+  {
+    "code": "SETIF",
+    "name": "سطيف"
+  },
+  {
+    "code": "SIDI-BEL-ABBES",
+    "name": "سيدي بلعباس"
+  },
+  {
+    "code": "SIDI_OKBA",
+    "name": ""
+  },
+  {
+    "code": "SIG",
+    "name": "سيق"
+  },
+  {
+    "code": "SKIKDA",
+    "name": "سكيكدة"
+  },
+  {
+    "code": "SOUK-AHRAS",
+    "name": "سوق أهراس"
+  },
+  {
+    "code": "TEBESSA",
+    "name": "تبسّة"
+  },
+  {
+    "code": "TIARET",
+    "name": "تيارت"
+  },
+  {
+    "code": "TINDOUF",
+    "name": "تندوف"
+  },
+  {
+    "code": "TIPAZA",
+    "name": "تيبازة"
+  },
+  {
+    "code": "TISSEMSILT",
+    "name": "تيسمسيلت"
+  },
+  {
+    "code": "TIZI-OUZOU",
+    "name": "تيزي وزو"
+  },
+  {
+    "code": "TLEMCEN",
+    "name": "تلمسان"
+  },
+  {
+    "code": "TOUGGOURT",
+    "name": "تقرت"
+  }
+]

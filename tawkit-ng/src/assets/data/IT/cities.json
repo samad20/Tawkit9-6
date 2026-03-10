@@ -1,0 +1,2442 @@
+[
+  {
+    "code": "Abano-Terme_",
+    "name": ""
+  },
+  {
+    "code": "Abbiategrasso_",
+    "name": ""
+  },
+  {
+    "code": "Acerra_",
+    "name": ""
+  },
+  {
+    "code": "Aci-Castello_",
+    "name": ""
+  },
+  {
+    "code": "Aci-Catena_",
+    "name": ""
+  },
+  {
+    "code": "Acilia-Castel-Fusano-Ostia-Antica_",
+    "name": ""
+  },
+  {
+    "code": "Acireale_",
+    "name": ""
+  },
+  {
+    "code": "Acquaviva-Delle-Fonti_",
+    "name": ""
+  },
+  {
+    "code": "Acqui-Terme_",
+    "name": ""
+  },
+  {
+    "code": "Adelfia_",
+    "name": ""
+  },
+  {
+    "code": "Adrano_",
+    "name": ""
+  },
+  {
+    "code": "Afragola_",
+    "name": ""
+  },
+  {
+    "code": "Agrigento_",
+    "name": ""
+  },
+  {
+    "code": "Agropoli_",
+    "name": ""
+  },
+  {
+    "code": "Alba_",
+    "name": ""
+  },
+  {
+    "code": "Albano-Laziale_",
+    "name": ""
+  },
+  {
+    "code": "Albenga_",
+    "name": ""
+  },
+  {
+    "code": "Albignasego_",
+    "name": ""
+  },
+  {
+    "code": "Alcamo_",
+    "name": ""
+  },
+  {
+    "code": "Alessandria_",
+    "name": ""
+  },
+  {
+    "code": "Alghero_",
+    "name": ""
+  },
+  {
+    "code": "Alpignano_",
+    "name": ""
+  },
+  {
+    "code": "Altamura_",
+    "name": ""
+  },
+  {
+    "code": "Ancona_",
+    "name": ""
+  },
+  {
+    "code": "Andria_",
+    "name": ""
+  },
+  {
+    "code": "Angri_",
+    "name": ""
+  },
+  {
+    "code": "Anzio_",
+    "name": ""
+  },
+  {
+    "code": "Aosta_",
+    "name": ""
+  },
+  {
+    "code": "Aprilia_",
+    "name": ""
+  },
+  {
+    "code": "Arcella_",
+    "name": ""
+  },
+  {
+    "code": "Arcore_",
+    "name": ""
+  },
+  {
+    "code": "Ardea_",
+    "name": ""
+  },
+  {
+    "code": "Arenella_",
+    "name": ""
+  },
+  {
+    "code": "Arese_",
+    "name": ""
+  },
+  {
+    "code": "Arezzo_",
+    "name": ""
+  },
+  {
+    "code": "Ariccia_",
+    "name": ""
+  },
+  {
+    "code": "Arpino_",
+    "name": ""
+  },
+  {
+    "code": "Arzano_",
+    "name": ""
+  },
+  {
+    "code": "Arzignano_",
+    "name": ""
+  },
+  {
+    "code": "Ascoli-Piceno_",
+    "name": ""
+  },
+  {
+    "code": "Assemini_",
+    "name": ""
+  },
+  {
+    "code": "Asti_",
+    "name": ""
+  },
+  {
+    "code": "Augusta_",
+    "name": ""
+  },
+  {
+    "code": "Avellino_",
+    "name": ""
+  },
+  {
+    "code": "Aversa_",
+    "name": ""
+  },
+  {
+    "code": "Avezzano_",
+    "name": ""
+  },
+  {
+    "code": "Avola_",
+    "name": ""
+  },
+  {
+    "code": "Avvocata_",
+    "name": ""
+  },
+  {
+    "code": "Bacoli_",
+    "name": ""
+  },
+  {
+    "code": "Bagheria_",
+    "name": ""
+  },
+  {
+    "code": "Bagnoli_",
+    "name": ""
+  },
+  {
+    "code": "Barcellona-Pozzo-Di-Gotto_",
+    "name": ""
+  },
+  {
+    "code": "Bareggio_",
+    "name": ""
+  },
+  {
+    "code": "Bari_",
+    "name": ""
+  },
+  {
+    "code": "Barletta_",
+    "name": ""
+  },
+  {
+    "code": "Barra_",
+    "name": ""
+  },
+  {
+    "code": "Bassano-Del-Grappa_",
+    "name": ""
+  },
+  {
+    "code": "Bastia-Umbra_",
+    "name": ""
+  },
+  {
+    "code": "Battipaglia_",
+    "name": ""
+  },
+  {
+    "code": "Bellaria-Igea-Marina_",
+    "name": ""
+  },
+  {
+    "code": "Belluno_",
+    "name": ""
+  },
+  {
+    "code": "Belpasso_",
+    "name": ""
+  },
+  {
+    "code": "Benevento_",
+    "name": ""
+  },
+  {
+    "code": "Bergamo_",
+    "name": ""
+  },
+  {
+    "code": "Biancavilla_",
+    "name": ""
+  },
+  {
+    "code": "Biella_",
+    "name": ""
+  },
+  {
+    "code": "Bisceglie_",
+    "name": ""
+  },
+  {
+    "code": "Bishopric-Of-Perugia_",
+    "name": ""
+  },
+  {
+    "code": "Bitonto_",
+    "name": ""
+  },
+  {
+    "code": "Bollate_",
+    "name": ""
+  },
+  {
+    "code": "Bologna_",
+    "name": ""
+  },
+  {
+    "code": "Bolzano_",
+    "name": ""
+  },
+  {
+    "code": "Borgomanero_",
+    "name": ""
+  },
+  {
+    "code": "Boscoreale_",
+    "name": ""
+  },
+  {
+    "code": "Bovisio-Masciago_",
+    "name": ""
+  },
+  {
+    "code": "Bra_",
+    "name": ""
+  },
+  {
+    "code": "Brescia_",
+    "name": ""
+  },
+  {
+    "code": "Bressanone_",
+    "name": ""
+  },
+  {
+    "code": "Bresso_",
+    "name": ""
+  },
+  {
+    "code": "Brindisi_",
+    "name": ""
+  },
+  {
+    "code": "Bronte_",
+    "name": ""
+  },
+  {
+    "code": "Brugherio_",
+    "name": ""
+  },
+  {
+    "code": "Brusciano_",
+    "name": ""
+  },
+  {
+    "code": "Bussolengo_",
+    "name": ""
+  },
+  {
+    "code": "Busto-Arsizio_",
+    "name": ""
+  },
+  {
+    "code": "Cagliari_",
+    "name": ""
+  },
+  {
+    "code": "Caivano_",
+    "name": ""
+  },
+  {
+    "code": "Caltagirone_",
+    "name": ""
+  },
+  {
+    "code": "Caltanissetta_",
+    "name": ""
+  },
+  {
+    "code": "Camaiore_",
+    "name": ""
+  },
+  {
+    "code": "Campi-Bisenzio_",
+    "name": ""
+  },
+  {
+    "code": "Campobasso_",
+    "name": ""
+  },
+  {
+    "code": "Canicatti_",
+    "name": ""
+  },
+  {
+    "code": "Canosa-Di-Puglia_",
+    "name": ""
+  },
+  {
+    "code": "Cantu_",
+    "name": ""
+  },
+  {
+    "code": "Capannori_",
+    "name": ""
+  },
+  {
+    "code": "Capua_",
+    "name": ""
+  },
+  {
+    "code": "Carate-Brianza_",
+    "name": ""
+  },
+  {
+    "code": "Carbonia_",
+    "name": ""
+  },
+  {
+    "code": "Cardito_",
+    "name": ""
+  },
+  {
+    "code": "Carini_",
+    "name": ""
+  },
+  {
+    "code": "Carmagnola_",
+    "name": ""
+  },
+  {
+    "code": "Caronno-Pertusella_",
+    "name": ""
+  },
+  {
+    "code": "Carpi-Centro_",
+    "name": ""
+  },
+  {
+    "code": "Carrara_",
+    "name": ""
+  },
+  {
+    "code": "Casa-Santa_",
+    "name": ""
+  },
+  {
+    "code": "Casal-Bertone_",
+    "name": ""
+  },
+  {
+    "code": "Casal-De-Pazzi_",
+    "name": ""
+  },
+  {
+    "code": "Casal-Di-Principe_",
+    "name": ""
+  },
+  {
+    "code": "Casal-Palocco_",
+    "name": ""
+  },
+  {
+    "code": "Casale-Monferrato_",
+    "name": ""
+  },
+  {
+    "code": "Casalecchio-Di-Reno_",
+    "name": ""
+  },
+  {
+    "code": "Casalnuovo-Di-Napoli_",
+    "name": ""
+  },
+  {
+    "code": "Casamassima_",
+    "name": ""
+  },
+  {
+    "code": "Casarano_",
+    "name": ""
+  },
+  {
+    "code": "Casavatore_",
+    "name": ""
+  },
+  {
+    "code": "Cascina_",
+    "name": ""
+  },
+  {
+    "code": "Caserta_",
+    "name": ""
+  },
+  {
+    "code": "Casoria_",
+    "name": ""
+  },
+  {
+    "code": "Cassano-Dadda_",
+    "name": ""
+  },
+  {
+    "code": "Cassano-Magnago_",
+    "name": ""
+  },
+  {
+    "code": "Cassino_",
+    "name": ""
+  },
+  {
+    "code": "Castel-Maggiore_",
+    "name": ""
+  },
+  {
+    "code": "Castel-Volturno_",
+    "name": ""
+  },
+  {
+    "code": "Castelfranco-Emilia_",
+    "name": ""
+  },
+  {
+    "code": "Castelfranco-Veneto_",
+    "name": ""
+  },
+  {
+    "code": "Castellammare-Di-Stabia_",
+    "name": ""
+  },
+  {
+    "code": "Castelvetrano_",
+    "name": ""
+  },
+  {
+    "code": "Castiglione-Delle-Stiviere_",
+    "name": ""
+  },
+  {
+    "code": "Castrovillari_",
+    "name": ""
+  },
+  {
+    "code": "Catania_",
+    "name": ""
+  },
+  {
+    "code": "Catanzaro_",
+    "name": ""
+  },
+  {
+    "code": "Cattolica_",
+    "name": ""
+  },
+  {
+    "code": "Cava-De-Tirreni_",
+    "name": ""
+  },
+  {
+    "code": "Cecina_",
+    "name": ""
+  },
+  {
+    "code": "Ceglie-Messapica_",
+    "name": ""
+  },
+  {
+    "code": "Cento_",
+    "name": ""
+  },
+  {
+    "code": "Cercola_",
+    "name": ""
+  },
+  {
+    "code": "Cerignola_",
+    "name": ""
+  },
+  {
+    "code": "Cernusco-Sul-Naviglio_",
+    "name": ""
+  },
+  {
+    "code": "Cerveteri_",
+    "name": ""
+  },
+  {
+    "code": "Cervia_",
+    "name": ""
+  },
+  {
+    "code": "Cesano-Boscone_",
+    "name": ""
+  },
+  {
+    "code": "Cesano-Maderno_",
+    "name": ""
+  },
+  {
+    "code": "Cesena_",
+    "name": ""
+  },
+  {
+    "code": "Cesenatico_",
+    "name": ""
+  },
+  {
+    "code": "Chiaia_",
+    "name": ""
+  },
+  {
+    "code": "Chiaiano_",
+    "name": ""
+  },
+  {
+    "code": "Chiari_",
+    "name": ""
+  },
+  {
+    "code": "Chiavari_",
+    "name": ""
+  },
+  {
+    "code": "Chieri_",
+    "name": ""
+  },
+  {
+    "code": "Chieti_",
+    "name": ""
+  },
+  {
+    "code": "Chioggia_",
+    "name": ""
+  },
+  {
+    "code": "Chivasso_",
+    "name": ""
+  },
+  {
+    "code": "Ciampino_",
+    "name": ""
+  },
+  {
+    "code": "Cinisello-Balsamo_",
+    "name": ""
+  },
+  {
+    "code": "Cirie_",
+    "name": ""
+  },
+  {
+    "code": "Cisterna-Di-Latina_",
+    "name": ""
+  },
+  {
+    "code": "Citta-Di-Castello_",
+    "name": ""
+  },
+  {
+    "code": "Civitanova-Marche_",
+    "name": ""
+  },
+  {
+    "code": "Civitavecchia_",
+    "name": ""
+  },
+  {
+    "code": "Colle-Di-Val-Delsa_",
+    "name": ""
+  },
+  {
+    "code": "Colleferro_",
+    "name": ""
+  },
+  {
+    "code": "Collegno_",
+    "name": ""
+  },
+  {
+    "code": "Cologno-Monzese_",
+    "name": ""
+  },
+  {
+    "code": "Comiso_",
+    "name": ""
+  },
+  {
+    "code": "Como_",
+    "name": ""
+  },
+  {
+    "code": "Conegliano_",
+    "name": ""
+  },
+  {
+    "code": "Conversano_",
+    "name": ""
+  },
+  {
+    "code": "Copertino_",
+    "name": ""
+  },
+  {
+    "code": "Corato_",
+    "name": ""
+  },
+  {
+    "code": "Cordenons_",
+    "name": ""
+  },
+  {
+    "code": "Corigliano-Scalo_",
+    "name": ""
+  },
+  {
+    "code": "Cormano_",
+    "name": ""
+  },
+  {
+    "code": "Cornaredo_",
+    "name": ""
+  },
+  {
+    "code": "Correggio_",
+    "name": ""
+  },
+  {
+    "code": "Corsico_",
+    "name": ""
+  },
+  {
+    "code": "Cosenza_",
+    "name": ""
+  },
+  {
+    "code": "Crema_",
+    "name": ""
+  },
+  {
+    "code": "Cremona_",
+    "name": ""
+  },
+  {
+    "code": "Crotone_",
+    "name": ""
+  },
+  {
+    "code": "Cuneo_",
+    "name": ""
+  },
+  {
+    "code": "Cusano_",
+    "name": ""
+  },
+  {
+    "code": "Dalmine_",
+    "name": ""
+  },
+  {
+    "code": "Desenzano-Del-Garda_",
+    "name": ""
+  },
+  {
+    "code": "Desio_",
+    "name": ""
+  },
+  {
+    "code": "Domodossola_",
+    "name": ""
+  },
+  {
+    "code": "Eboli_",
+    "name": ""
+  },
+  {
+    "code": "Empoli_",
+    "name": ""
+  },
+  {
+    "code": "Enna_",
+    "name": ""
+  },
+  {
+    "code": "Erba_",
+    "name": ""
+  },
+  {
+    "code": "Ercolano_",
+    "name": ""
+  },
+  {
+    "code": "Este_",
+    "name": ""
+  },
+  {
+    "code": "Fabriano_",
+    "name": ""
+  },
+  {
+    "code": "Faenza_",
+    "name": ""
+  },
+  {
+    "code": "Falconara-Marittima_",
+    "name": ""
+  },
+  {
+    "code": "Fano_",
+    "name": ""
+  },
+  {
+    "code": "Fasano_",
+    "name": ""
+  },
+  {
+    "code": "Favara_",
+    "name": ""
+  },
+  {
+    "code": "Fermo_",
+    "name": ""
+  },
+  {
+    "code": "Ferrara_",
+    "name": ""
+  },
+  {
+    "code": "Fidenza_",
+    "name": ""
+  },
+  {
+    "code": "Fiorano_",
+    "name": ""
+  },
+  {
+    "code": "Fiumicino_",
+    "name": ""
+  },
+  {
+    "code": "Florence_",
+    "name": ""
+  },
+  {
+    "code": "Floridia_",
+    "name": ""
+  },
+  {
+    "code": "Foggia_",
+    "name": ""
+  },
+  {
+    "code": "Foligno_",
+    "name": ""
+  },
+  {
+    "code": "Follonica_",
+    "name": ""
+  },
+  {
+    "code": "Fondi_",
+    "name": ""
+  },
+  {
+    "code": "Forio_",
+    "name": ""
+  },
+  {
+    "code": "Forli_",
+    "name": ""
+  },
+  {
+    "code": "Formia_",
+    "name": ""
+  },
+  {
+    "code": "Formigine_",
+    "name": ""
+  },
+  {
+    "code": "Fornacelle_",
+    "name": ""
+  },
+  {
+    "code": "Fossano_",
+    "name": ""
+  },
+  {
+    "code": "Francavilla-Al-Mare_",
+    "name": ""
+  },
+  {
+    "code": "Francavilla-Fontana_",
+    "name": ""
+  },
+  {
+    "code": "Frascati_",
+    "name": ""
+  },
+  {
+    "code": "Frattamaggiore_",
+    "name": ""
+  },
+  {
+    "code": "Frattaminore_",
+    "name": ""
+  },
+  {
+    "code": "Frosinone_",
+    "name": ""
+  },
+  {
+    "code": "Fuorigrotta_",
+    "name": ""
+  },
+  {
+    "code": "Gaeta_",
+    "name": ""
+  },
+  {
+    "code": "Galatina_",
+    "name": ""
+  },
+  {
+    "code": "Gallarate_",
+    "name": ""
+  },
+  {
+    "code": "Galliate_",
+    "name": ""
+  },
+  {
+    "code": "Gallipoli_",
+    "name": ""
+  },
+  {
+    "code": "Garbagnate-Milanese_",
+    "name": ""
+  },
+  {
+    "code": "Gela_",
+    "name": ""
+  },
+  {
+    "code": "Genoa_",
+    "name": ""
+  },
+  {
+    "code": "Genzano-Di-Roma_",
+    "name": ""
+  },
+  {
+    "code": "Ghedi_",
+    "name": ""
+  },
+  {
+    "code": "Giardinetti-Tor-Vergata_",
+    "name": ""
+  },
+  {
+    "code": "Giarre_",
+    "name": ""
+  },
+  {
+    "code": "Ginosa_",
+    "name": ""
+  },
+  {
+    "code": "Gioia-Del-Colle_",
+    "name": ""
+  },
+  {
+    "code": "Gioia-Tauro_",
+    "name": ""
+  },
+  {
+    "code": "Giovinazzo_",
+    "name": ""
+  },
+  {
+    "code": "Giugliano-In-Campania_",
+    "name": ""
+  },
+  {
+    "code": "Giulianova_",
+    "name": ""
+  },
+  {
+    "code": "Giussano_",
+    "name": ""
+  },
+  {
+    "code": "Gorgonzola_",
+    "name": ""
+  },
+  {
+    "code": "Gorizia_",
+    "name": ""
+  },
+  {
+    "code": "Gragnano_",
+    "name": ""
+  },
+  {
+    "code": "Gravina-Di-Catania_",
+    "name": ""
+  },
+  {
+    "code": "Gravina-In-Puglia_",
+    "name": ""
+  },
+  {
+    "code": "Grosseto_",
+    "name": ""
+  },
+  {
+    "code": "Grottaferrata_",
+    "name": ""
+  },
+  {
+    "code": "Grottaglie_",
+    "name": ""
+  },
+  {
+    "code": "Grugliasco_",
+    "name": ""
+  },
+  {
+    "code": "Grumo-Nevano_",
+    "name": ""
+  },
+  {
+    "code": "Guidonia-Montecelio_",
+    "name": ""
+  },
+  {
+    "code": "Guidonia_",
+    "name": ""
+  },
+  {
+    "code": "Iglesias_",
+    "name": ""
+  },
+  {
+    "code": "Imola_",
+    "name": ""
+  },
+  {
+    "code": "Imperia_",
+    "name": ""
+  },
+  {
+    "code": "Ischia-Porto_",
+    "name": ""
+  },
+  {
+    "code": "Ischia_",
+    "name": ""
+  },
+  {
+    "code": "Isernia_",
+    "name": ""
+  },
+  {
+    "code": "Ivrea_",
+    "name": ""
+  },
+  {
+    "code": "Jesi_",
+    "name": ""
+  },
+  {
+    "code": "La-Spezia_",
+    "name": ""
+  },
+  {
+    "code": "Ladispoli_",
+    "name": ""
+  },
+  {
+    "code": "Lainate_",
+    "name": ""
+  },
+  {
+    "code": "Lamezia-Terme_",
+    "name": ""
+  },
+  {
+    "code": "Lancenigo-Villorba_",
+    "name": ""
+  },
+  {
+    "code": "Lanciano_",
+    "name": ""
+  },
+  {
+    "code": "Laquila_",
+    "name": ""
+  },
+  {
+    "code": "Latina_",
+    "name": ""
+  },
+  {
+    "code": "Lecce_",
+    "name": ""
+  },
+  {
+    "code": "Lecco_",
+    "name": ""
+  },
+  {
+    "code": "Legnago_",
+    "name": ""
+  },
+  {
+    "code": "Legnano_",
+    "name": ""
+  },
+  {
+    "code": "Lentini_",
+    "name": ""
+  },
+  {
+    "code": "Licata_",
+    "name": ""
+  },
+  {
+    "code": "Lido-Di-Ostia_",
+    "name": ""
+  },
+  {
+    "code": "Lido_",
+    "name": ""
+  },
+  {
+    "code": "Limbiate_",
+    "name": ""
+  },
+  {
+    "code": "Lissone_",
+    "name": ""
+  },
+  {
+    "code": "Livorno_",
+    "name": ""
+  },
+  {
+    "code": "Lodi_",
+    "name": ""
+  },
+  {
+    "code": "Lucca_",
+    "name": ""
+  },
+  {
+    "code": "Lucera_",
+    "name": ""
+  },
+  {
+    "code": "Lugo_",
+    "name": ""
+  },
+  {
+    "code": "Lumezzane_",
+    "name": ""
+  },
+  {
+    "code": "Macerata_",
+    "name": ""
+  },
+  {
+    "code": "Maddaloni_",
+    "name": ""
+  },
+  {
+    "code": "Magenta_",
+    "name": ""
+  },
+  {
+    "code": "Malnate_",
+    "name": ""
+  },
+  {
+    "code": "Manduria_",
+    "name": ""
+  },
+  {
+    "code": "Manfredonia_",
+    "name": ""
+  },
+  {
+    "code": "Mantova_",
+    "name": ""
+  },
+  {
+    "code": "Marano-Di-Napoli_",
+    "name": ""
+  },
+  {
+    "code": "Marcianise_",
+    "name": ""
+  },
+  {
+    "code": "Mariano-Comense_",
+    "name": ""
+  },
+  {
+    "code": "Marigliano_",
+    "name": ""
+  },
+  {
+    "code": "Marina-Di-Ardea-Tor-San-Lorenzo_",
+    "name": ""
+  },
+  {
+    "code": "Marina-Di-Carrara_",
+    "name": ""
+  },
+  {
+    "code": "Marina-Di-Massa_",
+    "name": ""
+  },
+  {
+    "code": "Marino_",
+    "name": ""
+  },
+  {
+    "code": "Marsala_",
+    "name": ""
+  },
+  {
+    "code": "Martina-Franca_",
+    "name": ""
+  },
+  {
+    "code": "Mascalucia_",
+    "name": ""
+  },
+  {
+    "code": "Massa_",
+    "name": ""
+  },
+  {
+    "code": "Massafra_",
+    "name": ""
+  },
+  {
+    "code": "Matera_",
+    "name": ""
+  },
+  {
+    "code": "Mazara-Del-Vallo_",
+    "name": ""
+  },
+  {
+    "code": "Meda_",
+    "name": ""
+  },
+  {
+    "code": "Melegnano_",
+    "name": ""
+  },
+  {
+    "code": "Melito-Di-Napoli_",
+    "name": ""
+  },
+  {
+    "code": "Melzo_",
+    "name": ""
+  },
+  {
+    "code": "Mentana_",
+    "name": ""
+  },
+  {
+    "code": "Merano_",
+    "name": ""
+  },
+  {
+    "code": "Mesagne_",
+    "name": ""
+  },
+  {
+    "code": "Messina_",
+    "name": ""
+  },
+  {
+    "code": "Mestre_",
+    "name": ""
+  },
+  {
+    "code": "Miano_",
+    "name": ""
+  },
+  {
+    "code": "Milan_",
+    "name": ""
+  },
+  {
+    "code": "Milazzo_",
+    "name": ""
+  },
+  {
+    "code": "Minturno_",
+    "name": ""
+  },
+  {
+    "code": "Mira-Taglio_",
+    "name": ""
+  },
+  {
+    "code": "Mirandola_",
+    "name": ""
+  },
+  {
+    "code": "Mirano_",
+    "name": ""
+  },
+  {
+    "code": "Misilmeri_",
+    "name": ""
+  },
+  {
+    "code": "Misterbianco_",
+    "name": ""
+  },
+  {
+    "code": "Modena_",
+    "name": ""
+  },
+  {
+    "code": "Modica_",
+    "name": ""
+  },
+  {
+    "code": "Modugno_",
+    "name": ""
+  },
+  {
+    "code": "Mogliano-Veneto_",
+    "name": ""
+  },
+  {
+    "code": "Mola-Di-Bari_",
+    "name": ""
+  },
+  {
+    "code": "Molfetta_",
+    "name": ""
+  },
+  {
+    "code": "Moncalieri_",
+    "name": ""
+  },
+  {
+    "code": "Mondovi_",
+    "name": ""
+  },
+  {
+    "code": "Mondragone_",
+    "name": ""
+  },
+  {
+    "code": "Monfalcone_",
+    "name": ""
+  },
+  {
+    "code": "Monopoli_",
+    "name": ""
+  },
+  {
+    "code": "Monreale_",
+    "name": ""
+  },
+  {
+    "code": "Monselice_",
+    "name": ""
+  },
+  {
+    "code": "Monserrato_",
+    "name": ""
+  },
+  {
+    "code": "Monte-Rosello_",
+    "name": ""
+  },
+  {
+    "code": "Montebelluna_",
+    "name": ""
+  },
+  {
+    "code": "Montecalvario_",
+    "name": ""
+  },
+  {
+    "code": "Montecatini-Terme_",
+    "name": ""
+  },
+  {
+    "code": "Montecchio-Maggiore-Alte-Ceccato_",
+    "name": ""
+  },
+  {
+    "code": "Montemurlo_",
+    "name": ""
+  },
+  {
+    "code": "Monterotondo_",
+    "name": ""
+  },
+  {
+    "code": "Monterusciello_",
+    "name": ""
+  },
+  {
+    "code": "Montesilvano-Marina_",
+    "name": ""
+  },
+  {
+    "code": "Montevarchi_",
+    "name": ""
+  },
+  {
+    "code": "Montichiari_",
+    "name": ""
+  },
+  {
+    "code": "Monza_",
+    "name": ""
+  },
+  {
+    "code": "Muggio_",
+    "name": ""
+  },
+  {
+    "code": "Mugnano-Di-Napoli_",
+    "name": ""
+  },
+  {
+    "code": "Naples_",
+    "name": ""
+  },
+  {
+    "code": "Nardo_",
+    "name": ""
+  },
+  {
+    "code": "Nerviano_",
+    "name": ""
+  },
+  {
+    "code": "Nettuno_",
+    "name": ""
+  },
+  {
+    "code": "Nicastro_",
+    "name": ""
+  },
+  {
+    "code": "Nichelino_",
+    "name": ""
+  },
+  {
+    "code": "Niscemi_",
+    "name": ""
+  },
+  {
+    "code": "Nocera-Inferiore_",
+    "name": ""
+  },
+  {
+    "code": "Nocera-Superiore_",
+    "name": ""
+  },
+  {
+    "code": "Noci_",
+    "name": ""
+  },
+  {
+    "code": "Noicattaro_",
+    "name": ""
+  },
+  {
+    "code": "Nola_",
+    "name": ""
+  },
+  {
+    "code": "Noto_",
+    "name": ""
+  },
+  {
+    "code": "Nova-Milanese_",
+    "name": ""
+  },
+  {
+    "code": "Novara_",
+    "name": ""
+  },
+  {
+    "code": "Novate-Milanese_",
+    "name": ""
+  },
+  {
+    "code": "Novi-Ligure_",
+    "name": ""
+  },
+  {
+    "code": "Nuoro_",
+    "name": ""
+  },
+  {
+    "code": "Oderzo_",
+    "name": ""
+  },
+  {
+    "code": "Olbia_",
+    "name": ""
+  },
+  {
+    "code": "Orbassano_",
+    "name": ""
+  },
+  {
+    "code": "Oristano_",
+    "name": ""
+  },
+  {
+    "code": "Orta-Di-Atella_",
+    "name": ""
+  },
+  {
+    "code": "Orta-Nova_",
+    "name": ""
+  },
+  {
+    "code": "Osimo_",
+    "name": ""
+  },
+  {
+    "code": "Ostuni_",
+    "name": ""
+  },
+  {
+    "code": "Ottaviano_",
+    "name": ""
+  },
+  {
+    "code": "Pachino_",
+    "name": ""
+  },
+  {
+    "code": "Paderno-Dugnano_",
+    "name": ""
+  },
+  {
+    "code": "Padova_",
+    "name": ""
+  },
+  {
+    "code": "Pagani_",
+    "name": ""
+  },
+  {
+    "code": "Palagiano_",
+    "name": ""
+  },
+  {
+    "code": "Palagonia_",
+    "name": ""
+  },
+  {
+    "code": "Palazzolo-Sulloglio_",
+    "name": ""
+  },
+  {
+    "code": "Palermo_",
+    "name": ""
+  },
+  {
+    "code": "Pallanza-Intra-Suna_",
+    "name": ""
+  },
+  {
+    "code": "Palma-Di-Montechiaro_",
+    "name": ""
+  },
+  {
+    "code": "Palmi_",
+    "name": ""
+  },
+  {
+    "code": "Palo-Del-Colle_",
+    "name": ""
+  },
+  {
+    "code": "Paolo-Vi_",
+    "name": ""
+  },
+  {
+    "code": "Parabiago_",
+    "name": ""
+  },
+  {
+    "code": "Parma_",
+    "name": ""
+  },
+  {
+    "code": "Partinico_",
+    "name": ""
+  },
+  {
+    "code": "Paterno_",
+    "name": ""
+  },
+  {
+    "code": "Pavia_",
+    "name": ""
+  },
+  {
+    "code": "Pendino_",
+    "name": ""
+  },
+  {
+    "code": "Perugia_",
+    "name": ""
+  },
+  {
+    "code": "Pesaro_",
+    "name": ""
+  },
+  {
+    "code": "Pescara_",
+    "name": ""
+  },
+  {
+    "code": "Piacenza_",
+    "name": ""
+  },
+  {
+    "code": "Pianura_",
+    "name": ""
+  },
+  {
+    "code": "Piazza-Armerina_",
+    "name": ""
+  },
+  {
+    "code": "Pietrasanta_",
+    "name": ""
+  },
+  {
+    "code": "Pinerolo_",
+    "name": ""
+  },
+  {
+    "code": "Pioltello_",
+    "name": ""
+  },
+  {
+    "code": "Piombino_",
+    "name": ""
+  },
+  {
+    "code": "Piossasco_",
+    "name": ""
+  },
+  {
+    "code": "Pisa_",
+    "name": ""
+  },
+  {
+    "code": "Piscinola_",
+    "name": ""
+  },
+  {
+    "code": "Pistoia_",
+    "name": ""
+  },
+  {
+    "code": "Poggibonsi_",
+    "name": ""
+  },
+  {
+    "code": "Poggiomarino_",
+    "name": ""
+  },
+  {
+    "code": "Poggioreale_",
+    "name": ""
+  },
+  {
+    "code": "Pomezia_",
+    "name": ""
+  },
+  {
+    "code": "Pomigliano-Darco_",
+    "name": ""
+  },
+  {
+    "code": "Pompei_",
+    "name": ""
+  },
+  {
+    "code": "Pontedera_",
+    "name": ""
+  },
+  {
+    "code": "Ponticelli_",
+    "name": ""
+  },
+  {
+    "code": "Pordenone_",
+    "name": ""
+  },
+  {
+    "code": "Portici_",
+    "name": ""
+  },
+  {
+    "code": "Porto-Empedocle_",
+    "name": ""
+  },
+  {
+    "code": "Porto-San-Giorgio_",
+    "name": ""
+  },
+  {
+    "code": "Porto-Santelpidio_",
+    "name": ""
+  },
+  {
+    "code": "Porto-Torres_",
+    "name": ""
+  },
+  {
+    "code": "Portogruaro_",
+    "name": ""
+  },
+  {
+    "code": "Posillipo_",
+    "name": ""
+  },
+  {
+    "code": "Potenza_",
+    "name": ""
+  },
+  {
+    "code": "Pozzallo_",
+    "name": ""
+  },
+  {
+    "code": "Pozzuoli_",
+    "name": ""
+  },
+  {
+    "code": "Prato_",
+    "name": ""
+  },
+  {
+    "code": "Putignano_",
+    "name": ""
+  },
+  {
+    "code": "Qualiano_",
+    "name": ""
+  },
+  {
+    "code": "Quarto_",
+    "name": ""
+  },
+  {
+    "code": "Quartu-Santelena_",
+    "name": ""
+  },
+  {
+    "code": "Quattromiglia_",
+    "name": ""
+  },
+  {
+    "code": "Ragusa_",
+    "name": ""
+  },
+  {
+    "code": "Rapallo_",
+    "name": ""
+  },
+  {
+    "code": "Ravenna_",
+    "name": ""
+  },
+  {
+    "code": "Reggio-Calabria_",
+    "name": ""
+  },
+  {
+    "code": "Reggio-Nellemilia_",
+    "name": ""
+  },
+  {
+    "code": "Rho_",
+    "name": ""
+  },
+  {
+    "code": "Ribera_",
+    "name": ""
+  },
+  {
+    "code": "Riccione_",
+    "name": ""
+  },
+  {
+    "code": "Rieti_",
+    "name": ""
+  },
+  {
+    "code": "Rimini_",
+    "name": ""
+  },
+  {
+    "code": "Rivoli_",
+    "name": ""
+  },
+  {
+    "code": "Rocca-Di-Papa_",
+    "name": ""
+  },
+  {
+    "code": "Romano-Banco_",
+    "name": ""
+  },
+  {
+    "code": "Romano-Di-Lombardia_",
+    "name": ""
+  },
+  {
+    "code": "Rome_",
+    "name": ""
+  },
+  {
+    "code": "Roseto-Degli-Abruzzi_",
+    "name": ""
+  },
+  {
+    "code": "Rosignano-Solvay-Castiglioncello_",
+    "name": ""
+  },
+  {
+    "code": "Rosolini_",
+    "name": ""
+  },
+  {
+    "code": "Rossano-Stazione_",
+    "name": ""
+  },
+  {
+    "code": "Rovereto_",
+    "name": ""
+  },
+  {
+    "code": "Rovigo_",
+    "name": ""
+  },
+  {
+    "code": "Rozzano_",
+    "name": ""
+  },
+  {
+    "code": "Rutigliano_",
+    "name": ""
+  },
+  {
+    "code": "Ruvo-Di-Puglia_",
+    "name": ""
+  },
+  {
+    "code": "Sacile_",
+    "name": ""
+  },
+  {
+    "code": "Salerno_",
+    "name": ""
+  },
+  {
+    "code": "Salsomaggiore-Terme_",
+    "name": ""
+  },
+  {
+    "code": "Saluzzo_",
+    "name": ""
+  },
+  {
+    "code": "Sambiase_",
+    "name": ""
+  },
+  {
+    "code": "San-Benedetto-Del-Tronto_",
+    "name": ""
+  },
+  {
+    "code": "San-Bonifacio_",
+    "name": ""
+  },
+  {
+    "code": "San-Carlo-Allarena_",
+    "name": ""
+  },
+  {
+    "code": "San-Cataldo_",
+    "name": ""
+  },
+  {
+    "code": "San-Dona-Di-Piave_",
+    "name": ""
+  },
+  {
+    "code": "San-Donato-Milanese_",
+    "name": ""
+  },
+  {
+    "code": "San-Felice-A-Cancello_",
+    "name": ""
+  },
+  {
+    "code": "San-Ferdinando_",
+    "name": ""
+  },
+  {
+    "code": "San-Giorgio-A-Cremano_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-A-Teduccio_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-In-Fiore_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-In-Persiceto_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-La-Punta_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-Lupatoto_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-Rotondo_",
+    "name": ""
+  },
+  {
+    "code": "San-Giovanni-Valdarno_",
+    "name": ""
+  },
+  {
+    "code": "San-Giuliano-Milanese_",
+    "name": ""
+  },
+  {
+    "code": "San-Giuseppe-Vesuviano_",
+    "name": ""
+  },
+  {
+    "code": "San-Lazzaro_",
+    "name": ""
+  },
+  {
+    "code": "San-Lorenzo_",
+    "name": ""
+  },
+  {
+    "code": "San-Mauro-Torinese_",
+    "name": ""
+  },
+  {
+    "code": "San-Miniato-Basso_",
+    "name": ""
+  },
+  {
+    "code": "San-Miniato_",
+    "name": ""
+  },
+  {
+    "code": "San-Nicola-La-Strada_",
+    "name": ""
+  },
+  {
+    "code": "San-Paolo_",
+    "name": ""
+  },
+  {
+    "code": "San-Pietro-A-Patierno_",
+    "name": ""
+  },
+  {
+    "code": "San-Remo_",
+    "name": ""
+  },
+  {
+    "code": "San-Salvo_",
+    "name": ""
+  },
+  {
+    "code": "San-Sebastiano_",
+    "name": ""
+  },
+  {
+    "code": "San-Severo_",
+    "name": ""
+  },
+  {
+    "code": "San-Vito-Dei-Normanni_",
+    "name": ""
+  },
+  {
+    "code": "Sannicandro-Garganico_",
+    "name": ""
+  },
+  {
+    "code": "Santa-Maria-Capua-Vetere_",
+    "name": ""
+  },
+  {
+    "code": "Santanastasia_",
+    "name": ""
+  },
+  {
+    "code": "Santantimo_",
+    "name": ""
+  },
+  {
+    "code": "Santantonio-Abate_",
+    "name": ""
+  },
+  {
+    "code": "Santeramo-In-Colle_",
+    "name": ""
+  },
+  {
+    "code": "Sarno_",
+    "name": ""
+  },
+  {
+    "code": "Saronno_",
+    "name": ""
+  },
+  {
+    "code": "Sarzana_",
+    "name": ""
+  },
+  {
+    "code": "Sassari_",
+    "name": ""
+  },
+  {
+    "code": "Sassuolo_",
+    "name": ""
+  },
+  {
+    "code": "Sava_",
+    "name": ""
+  },
+  {
+    "code": "Savigliano_",
+    "name": ""
+  },
+  {
+    "code": "Savona_",
+    "name": ""
+  },
+  {
+    "code": "Scafati_",
+    "name": ""
+  },
+  {
+    "code": "Scampia_",
+    "name": ""
+  },
+  {
+    "code": "Scandicci_",
+    "name": ""
+  },
+  {
+    "code": "SCHIO",
+    "name": ""
+  },
+  {
+    "code": "Schio_",
+    "name": ""
+  },
+  {
+    "code": "Sciacca_",
+    "name": ""
+  },
+  {
+    "code": "Scicli_",
+    "name": ""
+  },
+  {
+    "code": "Scordia_",
+    "name": ""
+  },
+  {
+    "code": "Secondigliano_",
+    "name": ""
+  },
+  {
+    "code": "Segrate_",
+    "name": ""
+  },
+  {
+    "code": "Selargius_",
+    "name": ""
+  },
+  {
+    "code": "Senago_",
+    "name": ""
+  },
+  {
+    "code": "Senigallia_",
+    "name": ""
+  },
+  {
+    "code": "Seregno_",
+    "name": ""
+  },
+  {
+    "code": "Seriate_",
+    "name": ""
+  },
+  {
+    "code": "SERRAMAZONI",
+    "name": ""
+  },
+  {
+    "code": "Sesto-Fiorentino_",
+    "name": ""
+  },
+  {
+    "code": "Sesto-San-Giovanni_",
+    "name": ""
+  },
+  {
+    "code": "Sestri-Levante_",
+    "name": ""
+  },
+  {
+    "code": "Sestu_",
+    "name": ""
+  },
+  {
+    "code": "Settimo-Torinese_",
+    "name": ""
+  },
+  {
+    "code": "Seveso_",
+    "name": ""
+  },
+  {
+    "code": "Sezze_",
+    "name": ""
+  },
+  {
+    "code": "Siderno_",
+    "name": ""
+  },
+  {
+    "code": "Siena_",
+    "name": ""
+  },
+  {
+    "code": "Sinnai_",
+    "name": ""
+  },
+  {
+    "code": "Siracusa_",
+    "name": ""
+  },
+  {
+    "code": "Soccavo_",
+    "name": ""
+  },
+  {
+    "code": "Somma-Vesuviana_",
+    "name": ""
+  },
+  {
+    "code": "Sondrio_",
+    "name": ""
+  },
+  {
+    "code": "Sora_",
+    "name": ""
+  },
+  {
+    "code": "Spinea-Orgnano_",
+    "name": ""
+  },
+  {
+    "code": "Spoleto_",
+    "name": ""
+  },
+  {
+    "code": "Stella_",
+    "name": ""
+  },
+  {
+    "code": "Sulmona_",
+    "name": ""
+  },
+  {
+    "code": "Suzzara_",
+    "name": ""
+  },
+  {
+    "code": "Taranto_",
+    "name": ""
+  },
+  {
+    "code": "Teramo_",
+    "name": ""
+  },
+  {
+    "code": "Terlizzi_",
+    "name": ""
+  },
+  {
+    "code": "Termini-Imerese_",
+    "name": ""
+  },
+  {
+    "code": "Termoli_",
+    "name": ""
+  },
+  {
+    "code": "Terni_",
+    "name": ""
+  },
+  {
+    "code": "Terracina_",
+    "name": ""
+  },
+  {
+    "code": "Terzigno_",
+    "name": ""
+  },
+  {
+    "code": "Thiene_",
+    "name": ""
+  },
+  {
+    "code": "Tivoli_",
+    "name": ""
+  },
+  {
+    "code": "Tolentino_",
+    "name": ""
+  },
+  {
+    "code": "Tor-Lupara_",
+    "name": ""
+  },
+  {
+    "code": "Torre-Annunziata_",
+    "name": ""
+  },
+  {
+    "code": "Torre-Del-Greco_",
+    "name": ""
+  },
+  {
+    "code": "Torremaggiore_",
+    "name": ""
+  },
+  {
+    "code": "Tortona_",
+    "name": ""
+  },
+  {
+    "code": "Torvaianica_",
+    "name": ""
+  },
+  {
+    "code": "Tradate_",
+    "name": ""
+  },
+  {
+    "code": "Trani_",
+    "name": ""
+  },
+  {
+    "code": "Trapani_",
+    "name": ""
+  },
+  {
+    "code": "Trecate_",
+    "name": ""
+  },
+  {
+    "code": "Trento_",
+    "name": ""
+  },
+  {
+    "code": "Trentola-Ducenta_",
+    "name": ""
+  },
+  {
+    "code": "Treviglio_",
+    "name": ""
+  },
+  {
+    "code": "Treviso_",
+    "name": ""
+  },
+  {
+    "code": "Trezzano-Sul-Naviglio_",
+    "name": ""
+  },
+  {
+    "code": "Trieste_",
+    "name": ""
+  },
+  {
+    "code": "Triggiano_",
+    "name": ""
+  },
+  {
+    "code": "Turin_",
+    "name": ""
+  },
+  {
+    "code": "Udine_",
+    "name": ""
+  },
+  {
+    "code": "Valdagno_",
+    "name": ""
+  },
+  {
+    "code": "Valenza_",
+    "name": ""
+  },
+  {
+    "code": "Valenzano_",
+    "name": ""
+  },
+  {
+    "code": "Varese_",
+    "name": ""
+  },
+  {
+    "code": "Vasto_",
+    "name": ""
+  },
+  {
+    "code": "Velletri_",
+    "name": ""
+  },
+  {
+    "code": "Venaria-Reale_",
+    "name": ""
+  },
+  {
+    "code": "Venice_",
+    "name": ""
+  },
+  {
+    "code": "Ventimiglia_",
+    "name": ""
+  },
+  {
+    "code": "Verbania_",
+    "name": ""
+  },
+  {
+    "code": "Vercelli_",
+    "name": ""
+  },
+  {
+    "code": "Verona_",
+    "name": ""
+  },
+  {
+    "code": "Viareggio_",
+    "name": ""
+  },
+  {
+    "code": "Vibo-Valentia_",
+    "name": ""
+  },
+  {
+    "code": "Vicaria_",
+    "name": ""
+  },
+  {
+    "code": "Vicenza_",
+    "name": ""
+  },
+  {
+    "code": "Vigevano_",
+    "name": ""
+  },
+  {
+    "code": "Vignola_",
+    "name": ""
+  },
+  {
+    "code": "Villabate_",
+    "name": ""
+  },
+  {
+    "code": "Villafranca-Di-Verona_",
+    "name": ""
+  },
+  {
+    "code": "Villanova_",
+    "name": ""
+  },
+  {
+    "code": "Villaricca_",
+    "name": ""
+  },
+  {
+    "code": "Vimercate_",
+    "name": ""
+  },
+  {
+    "code": "Vimodrone_",
+    "name": ""
+  },
+  {
+    "code": "Viterbo_",
+    "name": ""
+  },
+  {
+    "code": "Vittoria_",
+    "name": ""
+  },
+  {
+    "code": "Vittorio-Veneto_",
+    "name": ""
+  },
+  {
+    "code": "Voghera_",
+    "name": ""
+  },
+  {
+    "code": "Volla_",
+    "name": ""
+  },
+  {
+    "code": "Vomero_",
+    "name": ""
+  },
+  {
+    "code": "Zola-Predosa_",
+    "name": ""
+  }
+]
