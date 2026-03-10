@@ -1,6 +1,22 @@
 export type LanguageCode = 'AR' | 'EN' | 'FR' | 'TR' | 'ID' | 'DE' | 'ES' | 'RU' | 'BN';
 export type DisplayMode = 'horizontal' | 'vertical';
 
+export const AVAILABLE_FONTS = [
+  'Amiri', 'Andalus', 'SULTAN', 'KFGQPCUthmanTaha', 'FreeSerifBold',
+  'FreeSerif', 'FreeSans', 'FreeSansBold', 'FreeMono', 'FreeMonoBold',
+  'KSA', 'STC', 'FODA', 'BaradaReqa', 'HSNOmar', 'NRTReg', 'MohammadBold',
+  'Monofonto',
+] as const;
+
+export type FontName = typeof AVAILABLE_FONTS[number] | string;
+
+export interface FontSettings {
+  screenFont: FontName;
+  clockFont: FontName;
+  timesFont: FontName;
+  azkarFont: FontName;
+}
+
 export interface IqamaSettings {
   fajr: number;
   dhuhr: number;
@@ -25,13 +41,21 @@ export interface AppSettings {
   inSummerAdd1Hour: boolean;
   hijriAdjustment: number;
   timeOffsetMinutes: number;
+  fonts: FontSettings;
+  dimmPastPrayers: boolean;
+  namesInMiddle: boolean;
+  semiTransparentBgs: boolean;
+  slidesActive: boolean;
+  slidesViewTime: number;
+  tawkitViewTime: number;
+  counterColorAlert: boolean;
 }
 
 export const DEFAULT_SETTINGS: AppSettings = {
-  mosqueName: 'المسجد',
+  mosqueName: 'إسم المسجد',
   cityCode: 'SA.MAKKAH',
   language: 'AR',
-  theme: 0,
+  theme: 9,
   use24Hours: false,
   useArabicDigits: false,
   displayMode: 'horizontal',
@@ -39,8 +63,21 @@ export const DEFAULT_SETTINGS: AppSettings = {
   showSunrise: true,
   showAzkar: true,
   azanByVoice: false,
-  blackScreenInPrayer: false,
+  blackScreenInPrayer: true,
   inSummerAdd1Hour: false,
   hijriAdjustment: 0,
   timeOffsetMinutes: 0,
+  fonts: {
+    screenFont: 'Amiri',
+    clockFont: 'FreeSerifBold',
+    timesFont: 'FreeSerifBold',
+    azkarFont: 'SULTAN',
+  },
+  dimmPastPrayers: false,
+  namesInMiddle: true,
+  semiTransparentBgs: true,
+  slidesActive: true,
+  slidesViewTime: 15,
+  tawkitViewTime: 12,
+  counterColorAlert: true,
 };

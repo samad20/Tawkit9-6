@@ -1,5 +1,5 @@
 import { Injectable, signal, computed } from '@angular/core';
-import { AppSettings, DEFAULT_SETTINGS, LanguageCode } from '../models/settings.model';
+import { AppSettings, DEFAULT_SETTINGS, LanguageCode, FontSettings } from '../models/settings.model';
 
 const STORAGE_KEY = 'tawkit_settings_v2';
 
@@ -15,6 +15,11 @@ export class SettingsService {
   readonly use24Hours = computed(() => this._settings().use24Hours);
   readonly useArabicDigits = computed(() => this._settings().useArabicDigits);
   readonly showSunrise = computed(() => this._settings().showSunrise);
+  readonly fonts = computed(() => this._settings().fonts);
+  readonly dimmPastPrayers = computed(() => this._settings().dimmPastPrayers);
+  readonly namesInMiddle = computed(() => this._settings().namesInMiddle);
+  readonly semiTransparentBgs = computed(() => this._settings().semiTransparentBgs);
+  readonly counterColorAlert = computed(() => this._settings().counterColorAlert);
   readonly isRTL = computed(() => {
     const lang = this._settings().language;
     return ['AR', 'FA', 'UR', 'HE'].includes(lang);

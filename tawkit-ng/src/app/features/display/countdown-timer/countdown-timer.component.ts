@@ -1,7 +1,8 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, inject, computed } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
 import { CountdownState } from '../../../core/models/prayer-times.model';
+import { SettingsService } from '../../../core/services/settings.service';
 
 const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
 
@@ -10,14 +11,17 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
   standalone: true,
   imports: [CommonModule, MatProgressBarModule],
   template: `
-    <div class="countdown-container" [class.has-active]="countdown.activePrayerId">
+    <div class="countdown-container"
+         [class.has-active]="countdown.activePrayerId"
+         [class.alert-color]="counterColorAlert() && countdown.remainingSeconds < 300">
+
       <div class="countdown-label">
         <span class="label-ar">الوقت المتبقي لـ</span>
         <span class="prayer-name-ar">{{ countdown.nextPrayerNameAr }}</span>
       </div>
 
       <div class="countdown-display">
-        <span class="countdown-time">{{ countdown.remainingLabel }}</span>
+        <span class="countdown-time" [style.font-family]="clockFontFamily()">{{ countdown.remainingLabel }}</span>
       </div>
 
       <mat-progress-bar
@@ -39,13 +43,13 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      padding: 12px 16px;
-      border-radius: 12px;
+      padding: clamp(8px, 1vh, 16px) clamp(8px, 1vw, 20px);
+      border-radius: clamp(8px, 0.8vw, 16px);
       background: rgba(0, 0, 0, 0.35);
       border: 1px solid rgba(255, 255, 255, 0.1);
-      min-width: 120px;
-      gap: 6px;
+      gap: clamp(4px, 0.5vh, 8px);
       position: relative;
+      height: 100%;
     }
 
     .countdown-label {
@@ -57,13 +61,13 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
     }
 
     .label-ar {
-      font-size: 0.65rem;
+      font-size: clamp(0.55rem, 0.8vw, 0.75rem);
       color: rgba(255,255,255,0.5);
       font-family: 'Amiri', serif;
     }
 
     .prayer-name-ar {
-      font-size: clamp(0.9rem, 2vw, 1.3rem);
+      font-size: clamp(0.9rem, 2vw, 1.5rem);
       font-weight: 700;
       color: #FFD54F;
       font-family: 'Amiri', serif;
@@ -75,12 +79,22 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
     }
 
     .countdown-time {
-      font-size: clamp(1.4rem, 3.5vw, 2.8rem);
+      font-size: clamp(1.6rem, 4vw, 3.5rem);
       font-weight: 800;
       color: #fff;
-      font-family: 'Monofonto', monospace;
       letter-spacing: 2px;
       text-shadow: 0 0 15px rgba(255,255,255,0.3);
+    }
+
+    .alert-color .countdown-time {
+      color: #FF5252;
+      text-shadow: 0 0 20px rgba(255,82,82,0.5);
+      animation: alertPulse 1s ease-in-out infinite;
+    }
+
+    @keyframes alertPulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
     }
 
     mat-progress-bar {
@@ -95,7 +109,7 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
       background: linear-gradient(135deg, #4CAF50, #2E7D32);
       padding: 2px 10px;
       border-radius: 12px;
-      font-size: 0.7rem;
+      font-size: clamp(0.55rem, 0.7vw, 0.75rem);
       color: #fff;
       font-family: 'Amiri', serif;
       font-weight: 700;
@@ -111,6 +125,15 @@ const MAX_INTERVAL_SECS = 6 * 3600; // 6 hours = max countdown interval
 })
 export class CountdownTimerComponent {
   @Input({ required: true }) countdown!: CountdownState;
+
+  private readonly settingsService = inject(SettingsService);
+
+  readonly counterColorAlert = computed(() => this.settingsService.counterColorAlert());
+
+  readonly clockFontFamily = computed(() => {
+    const font = this.settingsService.fonts().clockFont;
+    return `'${font}', 'Monofonto', monospace`;
+  });
 
   get progressValue(): number {
     const remaining = this.countdown.remainingSeconds;
