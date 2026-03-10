@@ -1,0 +1,1830 @@
+[
+  {
+    "code": "ABBOTTABAD",
+    "name": ""
+  },
+  {
+    "code": "ADILPUR",
+    "name": ""
+  },
+  {
+    "code": "AHMADPUR-EAST",
+    "name": ""
+  },
+  {
+    "code": "AHMADPUR-SIAL",
+    "name": ""
+  },
+  {
+    "code": "AKORA",
+    "name": ""
+  },
+  {
+    "code": "ALIABAD",
+    "name": ""
+  },
+  {
+    "code": "ALIK-GHUND",
+    "name": ""
+  },
+  {
+    "code": "ALIPUR",
+    "name": ""
+  },
+  {
+    "code": "ALIZAI",
+    "name": ""
+  },
+  {
+    "code": "ALPURAI",
+    "name": ""
+  },
+  {
+    "code": "AMAN-GARH",
+    "name": ""
+  },
+  {
+    "code": "AMIRABAD",
+    "name": ""
+  },
+  {
+    "code": "ARIFWALA",
+    "name": ""
+  },
+  {
+    "code": "ASHANAGRO-KOTO",
+    "name": ""
+  },
+  {
+    "code": "ATHHMUQAM",
+    "name": ""
+  },
+  {
+    "code": "ATHMUQAM",
+    "name": ""
+  },
+  {
+    "code": "ATTOCK-CITY",
+    "name": ""
+  },
+  {
+    "code": "AWARAN",
+    "name": ""
+  },
+  {
+    "code": "BADDOMALHI",
+    "name": ""
+  },
+  {
+    "code": "BADIN",
+    "name": ""
+  },
+  {
+    "code": "BAFFA",
+    "name": ""
+  },
+  {
+    "code": "BAGARJI",
+    "name": ""
+  },
+  {
+    "code": "BAGH",
+    "name": ""
+  },
+  {
+    "code": "BAHAWALNAGAR",
+    "name": ""
+  },
+  {
+    "code": "BAHAWALNAGAR",
+    "name": ""
+  },
+  {
+    "code": "BAHAWALPUR",
+    "name": ""
+  },
+  {
+    "code": "BAKHRI-AHMAD-KHAN",
+    "name": ""
+  },
+  {
+    "code": "BANDHI",
+    "name": ""
+  },
+  {
+    "code": "BANNU",
+    "name": ""
+  },
+  {
+    "code": "BARISHAL",
+    "name": ""
+  },
+  {
+    "code": "BARKHAN",
+    "name": ""
+  },
+  {
+    "code": "BASIRPUR",
+    "name": ""
+  },
+  {
+    "code": "BASTI-AUKHARVAND",
+    "name": ""
+  },
+  {
+    "code": "BASTI-DOSA",
+    "name": ""
+  },
+  {
+    "code": "BAT-KHELA",
+    "name": ""
+  },
+  {
+    "code": "BATTAGRAM",
+    "name": ""
+  },
+  {
+    "code": "BEGOWALA",
+    "name": ""
+  },
+  {
+    "code": "BELA",
+    "name": ""
+  },
+  {
+    "code": "BERANI",
+    "name": ""
+  },
+  {
+    "code": "BHAG",
+    "name": ""
+  },
+  {
+    "code": "BHAKKAR",
+    "name": ""
+  },
+  {
+    "code": "BHALWAL",
+    "name": ""
+  },
+  {
+    "code": "BHAN",
+    "name": ""
+  },
+  {
+    "code": "BHAWANA",
+    "name": ""
+  },
+  {
+    "code": "BHERA",
+    "name": ""
+  },
+  {
+    "code": "BHIMBER",
+    "name": ""
+  },
+  {
+    "code": "BHIRIA",
+    "name": ""
+  },
+  {
+    "code": "BHIT-SHAH",
+    "name": ""
+  },
+  {
+    "code": "BHOPALWALA",
+    "name": ""
+  },
+  {
+    "code": "BOZDAR-WADA",
+    "name": ""
+  },
+  {
+    "code": "BULRI",
+    "name": ""
+  },
+  {
+    "code": "BUREWALA",
+    "name": ""
+  },
+  {
+    "code": "CHAK-AZAM-SAHU",
+    "name": ""
+  },
+  {
+    "code": "CHAK-575",
+    "name": ""
+  },
+  {
+    "code": "CHAK-JHUMRA",
+    "name": ""
+  },
+  {
+    "code": "CHAK-129-LEFT",
+    "name": ""
+  },
+  {
+    "code": "CHAK-31-11-LEFT",
+    "name": ""
+  },
+  {
+    "code": "CHAK-249",
+    "name": ""
+  },
+  {
+    "code": "CHAKWAL",
+    "name": ""
+  },
+  {
+    "code": "CHAK",
+    "name": ""
+  },
+  {
+    "code": "CHAMAN",
+    "name": ""
+  },
+  {
+    "code": "CHAMBER",
+    "name": ""
+  },
+  {
+    "code": "CHARSADDA",
+    "name": ""
+  },
+  {
+    "code": "CHAWINDA",
+    "name": ""
+  },
+  {
+    "code": "CHENAB-NAGAR",
+    "name": ""
+  },
+  {
+    "code": "CHERAT-CANTONEMENT",
+    "name": ""
+  },
+  {
+    "code": "CHHOR",
+    "name": ""
+  },
+  {
+    "code": "CHICHAWATNI",
+    "name": ""
+  },
+  {
+    "code": "CHILAS",
+    "name": ""
+  },
+  {
+    "code": "CHINIOT",
+    "name": ""
+  },
+  {
+    "code": "CHISHTIAN",
+    "name": ""
+  },
+  {
+    "code": "CHITRAL",
+    "name": ""
+  },
+  {
+    "code": "CHOA-SAIDAN-SHAH",
+    "name": ""
+  },
+  {
+    "code": "CHOWKI-JAMALI",
+    "name": ""
+  },
+  {
+    "code": "CHUCHAR-KANA-MANDI",
+    "name": ""
+  },
+  {
+    "code": "CHUHAR-JAMALI",
+    "name": ""
+  },
+  {
+    "code": "CHUNIAN",
+    "name": ""
+  },
+  {
+    "code": "DADHAR",
+    "name": ""
+  },
+  {
+    "code": "DADU",
+    "name": ""
+  },
+  {
+    "code": "DAGGAR",
+    "name": ""
+  },
+  {
+    "code": "DAIRA-DIN-PANAH",
+    "name": ""
+  },
+  {
+    "code": "DAJAL",
+    "name": ""
+  },
+  {
+    "code": "DAJJAL-WALA",
+    "name": ""
+  },
+  {
+    "code": "DALBANDIN",
+    "name": ""
+  },
+  {
+    "code": "DAMBUDAS",
+    "name": ""
+  },
+  {
+    "code": "DANDOT-RS",
+    "name": ""
+  },
+  {
+    "code": "DAROMEHAR",
+    "name": ""
+  },
+  {
+    "code": "DARYA-KHAN-MARRI",
+    "name": ""
+  },
+  {
+    "code": "DARYA-KHAN",
+    "name": ""
+  },
+  {
+    "code": "DASKA-KALAN",
+    "name": ""
+  },
+  {
+    "code": "DASU",
+    "name": ""
+  },
+  {
+    "code": "DASU",
+    "name": ""
+  },
+  {
+    "code": "DAUD-KHEL",
+    "name": ""
+  },
+  {
+    "code": "DAULATPUR",
+    "name": ""
+  },
+  {
+    "code": "DAULTALA",
+    "name": ""
+  },
+  {
+    "code": "DAUR",
+    "name": ""
+  },
+  {
+    "code": "DERA-ALLAHYAR",
+    "name": ""
+  },
+  {
+    "code": "DERA-BUGTI",
+    "name": ""
+  },
+  {
+    "code": "DERA-GHAZI-KHAN",
+    "name": ""
+  },
+  {
+    "code": "DERA-ISMAIL-KHAN",
+    "name": ""
+  },
+  {
+    "code": "DERA-MURAD-JAMALI",
+    "name": ""
+  },
+  {
+    "code": "DHANOT",
+    "name": ""
+  },
+  {
+    "code": "DHAUNKAL",
+    "name": ""
+  },
+  {
+    "code": "DHOK-AWAN",
+    "name": ""
+  },
+  {
+    "code": "DHORO-NARO",
+    "name": ""
+  },
+  {
+    "code": "DIGRI",
+    "name": ""
+  },
+  {
+    "code": "DIJKOT",
+    "name": ""
+  },
+  {
+    "code": "DINAN-BASHNOIAN-WALA",
+    "name": ""
+  },
+  {
+    "code": "DINGA",
+    "name": ""
+  },
+  {
+    "code": "DIPALPUR",
+    "name": ""
+  },
+  {
+    "code": "DIPLO",
+    "name": ""
+  },
+  {
+    "code": "DOABA",
+    "name": ""
+  },
+  {
+    "code": "DOKRI",
+    "name": ""
+  },
+  {
+    "code": "DUKI",
+    "name": ""
+  },
+  {
+    "code": "DULLEWALA",
+    "name": ""
+  },
+  {
+    "code": "DUNGA-BUNGA",
+    "name": ""
+  },
+  {
+    "code": "DUNYAPUR",
+    "name": ""
+  },
+  {
+    "code": "EIDGHAH",
+    "name": ""
+  },
+  {
+    "code": "EMINABAD",
+    "name": ""
+  },
+  {
+    "code": "FAISALABAD",
+    "name": ""
+  },
+  {
+    "code": "FAQIRWALI",
+    "name": ""
+  },
+  {
+    "code": "FARUKA",
+    "name": ""
+  },
+  {
+    "code": "FAZILPUR",
+    "name": ""
+  },
+  {
+    "code": "FORT-ABBAS",
+    "name": ""
+  },
+  {
+    "code": "GADANI",
+    "name": ""
+  },
+  {
+    "code": "GAHKUCH",
+    "name": ""
+  },
+  {
+    "code": "GAHKUCH",
+    "name": ""
+  },
+  {
+    "code": "GAMBAT",
+    "name": ""
+  },
+  {
+    "code": "GANDAVA",
+    "name": ""
+  },
+  {
+    "code": "GARH-MAHARAJA",
+    "name": ""
+  },
+  {
+    "code": "GARHI-KHAIRO",
+    "name": ""
+  },
+  {
+    "code": "GARHIYASIN",
+    "name": ""
+  },
+  {
+    "code": "GHARO",
+    "name": ""
+  },
+  {
+    "code": "GHAUSPUR",
+    "name": ""
+  },
+  {
+    "code": "GHOTKI",
+    "name": ""
+  },
+  {
+    "code": "GILGIT",
+    "name": ""
+  },
+  {
+    "code": "GOJRA",
+    "name": ""
+  },
+  {
+    "code": "GOTH-GARELO",
+    "name": ""
+  },
+  {
+    "code": "GOTH-PHULJI",
+    "name": ""
+  },
+  {
+    "code": "GOTH-RADHAN",
+    "name": ""
+  },
+  {
+    "code": "GUJAR-KHAN",
+    "name": ""
+  },
+  {
+    "code": "GUJRANWALA",
+    "name": ""
+  },
+  {
+    "code": "GUJRAT",
+    "name": ""
+  },
+  {
+    "code": "GULISHAH-KACH",
+    "name": ""
+  },
+  {
+    "code": "GWADAR",
+    "name": ""
+  },
+  {
+    "code": "HADALI",
+    "name": ""
+  },
+  {
+    "code": "HAFIZABAD",
+    "name": ""
+  },
+  {
+    "code": "HALA",
+    "name": ""
+  },
+  {
+    "code": "HANGU",
+    "name": ""
+  },
+  {
+    "code": "HARIPUR",
+    "name": ""
+  },
+  {
+    "code": "HARNAI",
+    "name": ""
+  },
+  {
+    "code": "HARNOLI",
+    "name": ""
+  },
+  {
+    "code": "HARUNABAD",
+    "name": ""
+  },
+  {
+    "code": "HASILPUR",
+    "name": ""
+  },
+  {
+    "code": "HATTIAN-BALA",
+    "name": ""
+  },
+  {
+    "code": "HAVELI-LAKHA",
+    "name": ""
+  },
+  {
+    "code": "HAVELIAN",
+    "name": ""
+  },
+  {
+    "code": "HAZRO-CITY",
+    "name": ""
+  },
+  {
+    "code": "HINGORJA",
+    "name": ""
+  },
+  {
+    "code": "HUJRA-SHAH-MUQIM",
+    "name": ""
+  },
+  {
+    "code": "HYDERABAD",
+    "name": ""
+  },
+  {
+    "code": "ISLAMABAD",
+    "name": ""
+  },
+  {
+    "code": "ISLAMKOT",
+    "name": ""
+  },
+  {
+    "code": "JACOBABAD",
+    "name": ""
+  },
+  {
+    "code": "JAHANIAN-SHAH",
+    "name": ""
+  },
+  {
+    "code": "JALALPUR-JATTAN",
+    "name": ""
+  },
+  {
+    "code": "JALALPUR-PIRWALA",
+    "name": ""
+  },
+  {
+    "code": "JAM-SAHIB",
+    "name": ""
+  },
+  {
+    "code": "JAMPUR",
+    "name": ""
+  },
+  {
+    "code": "JAMSHORO",
+    "name": ""
+  },
+  {
+    "code": "JANDIALA-SHER-KHAN",
+    "name": ""
+  },
+  {
+    "code": "JAND",
+    "name": ""
+  },
+  {
+    "code": "JARANWALA",
+    "name": ""
+  },
+  {
+    "code": "JATI",
+    "name": ""
+  },
+  {
+    "code": "JATOI-SHIMALI",
+    "name": ""
+  },
+  {
+    "code": "JAUHARABAD",
+    "name": ""
+  },
+  {
+    "code": "JHANG-CITY",
+    "name": ""
+  },
+  {
+    "code": "JHANG-SADR",
+    "name": ""
+  },
+  {
+    "code": "JHAWARIAN",
+    "name": ""
+  },
+  {
+    "code": "JHELUM",
+    "name": ""
+  },
+  {
+    "code": "JHOL",
+    "name": ""
+  },
+  {
+    "code": "JIWANI",
+    "name": ""
+  },
+  {
+    "code": "JOHI",
+    "name": ""
+  },
+  {
+    "code": "KABIRWALA",
+    "name": ""
+  },
+  {
+    "code": "KADHAN",
+    "name": ""
+  },
+  {
+    "code": "KAHNA-NAU",
+    "name": ""
+  },
+  {
+    "code": "KAHROR-PAKKA",
+    "name": ""
+  },
+  {
+    "code": "KAHUTA",
+    "name": ""
+  },
+  {
+    "code": "KAKAD-WARI-DIR-UPPER",
+    "name": ""
+  },
+  {
+    "code": "KALABAGH",
+    "name": ""
+  },
+  {
+    "code": "KALASWALA",
+    "name": ""
+  },
+  {
+    "code": "KALAT",
+    "name": ""
+  },
+  {
+    "code": "KALEKE-MANDI",
+    "name": ""
+  },
+  {
+    "code": "KALLAR-KAHAR",
+    "name": ""
+  },
+  {
+    "code": "KALUR-KOT",
+    "name": ""
+  },
+  {
+    "code": "KAMALIA",
+    "name": ""
+  },
+  {
+    "code": "KAMAR-MUSHANI",
+    "name": ""
+  },
+  {
+    "code": "KAMBAR",
+    "name": ""
+  },
+  {
+    "code": "KAMOKE",
+    "name": ""
+  },
+  {
+    "code": "KAMRA",
+    "name": ""
+  },
+  {
+    "code": "KANDHKOT",
+    "name": ""
+  },
+  {
+    "code": "KANDIARI",
+    "name": ""
+  },
+  {
+    "code": "KANDIARO",
+    "name": ""
+  },
+  {
+    "code": "KANGANPUR",
+    "name": ""
+  },
+  {
+    "code": "KARACHI",
+    "name": ""
+  },
+  {
+    "code": "KARAK",
+    "name": ""
+  },
+  {
+    "code": "KARAUNDI",
+    "name": ""
+  },
+  {
+    "code": "KARIO-GHANWAR",
+    "name": ""
+  },
+  {
+    "code": "KAROR",
+    "name": ""
+  },
+  {
+    "code": "KASHMOR",
+    "name": ""
+  },
+  {
+    "code": "KASUR",
+    "name": ""
+  },
+  {
+    "code": "KESHUPUR",
+    "name": ""
+  },
+  {
+    "code": "KETI-BANDAR",
+    "name": ""
+  },
+  {
+    "code": "KHADAN-KHAK",
+    "name": ""
+  },
+  {
+    "code": "KHADRO",
+    "name": ""
+  },
+  {
+    "code": "KHAIRPUR-MIRS",
+    "name": ""
+  },
+  {
+    "code": "KHAIRPUR-NATHAN-SHAH",
+    "name": ""
+  },
+  {
+    "code": "KHAIRPUR-TAMEWAH",
+    "name": ""
+  },
+  {
+    "code": "KHAIRPUR",
+    "name": ""
+  },
+  {
+    "code": "KHALABAT",
+    "name": ""
+  },
+  {
+    "code": "KHANDOWA",
+    "name": ""
+  },
+  {
+    "code": "KHANEWAL",
+    "name": ""
+  },
+  {
+    "code": "KHANGAH-DOGRAN",
+    "name": ""
+  },
+  {
+    "code": "KHANGARH",
+    "name": ""
+  },
+  {
+    "code": "KHANPUR-MAHAR",
+    "name": ""
+  },
+  {
+    "code": "KHANPUR",
+    "name": ""
+  },
+  {
+    "code": "KHAPLU",
+    "name": ""
+  },
+  {
+    "code": "KHARAN",
+    "name": ""
+  },
+  {
+    "code": "KHARIAN",
+    "name": ""
+  },
+  {
+    "code": "KHEWRA",
+    "name": ""
+  },
+  {
+    "code": "KHURRIANWALA",
+    "name": ""
+  },
+  {
+    "code": "KHUSHAB",
+    "name": ""
+  },
+  {
+    "code": "KHUZDAR",
+    "name": ""
+  },
+  {
+    "code": "KOHAT",
+    "name": ""
+  },
+  {
+    "code": "KOHLU",
+    "name": ""
+  },
+  {
+    "code": "KOT-ADDU",
+    "name": ""
+  },
+  {
+    "code": "KOT-DIJI",
+    "name": ""
+  },
+  {
+    "code": "KOT-GHULAM-MUHAMMAD",
+    "name": ""
+  },
+  {
+    "code": "KOT-MALIK-BARKHURDAR",
+    "name": ""
+  },
+  {
+    "code": "KOT-MUMIN",
+    "name": ""
+  },
+  {
+    "code": "KOT-RADHA-KISHAN",
+    "name": ""
+  },
+  {
+    "code": "KOT-RAJKOUR",
+    "name": ""
+  },
+  {
+    "code": "KOT-SAMABA",
+    "name": ""
+  },
+  {
+    "code": "KOT-SULTAN",
+    "name": ""
+  },
+  {
+    "code": "KOTLI-LOHARAN",
+    "name": ""
+  },
+  {
+    "code": "KOTLI",
+    "name": ""
+  },
+  {
+    "code": "KOTRI",
+    "name": ""
+  },
+  {
+    "code": "KULACHI",
+    "name": ""
+  },
+  {
+    "code": "KUNDIAN",
+    "name": ""
+  },
+  {
+    "code": "KUNJAH",
+    "name": ""
+  },
+  {
+    "code": "KUNRI",
+    "name": ""
+  },
+  {
+    "code": "LACHI",
+    "name": ""
+  },
+  {
+    "code": "LADHEWALA-WARAICH",
+    "name": ""
+  },
+  {
+    "code": "LAHORE",
+    "name": ""
+  },
+  {
+    "code": "LAKHI",
+    "name": ""
+  },
+  {
+    "code": "LAKKI",
+    "name": ""
+  },
+  {
+    "code": "LALA-MUSA",
+    "name": ""
+  },
+  {
+    "code": "LALIAN",
+    "name": ""
+  },
+  {
+    "code": "LANDI-KOTAL",
+    "name": ""
+  },
+  {
+    "code": "LARKANA",
+    "name": ""
+  },
+  {
+    "code": "LAYYAH",
+    "name": ""
+  },
+  {
+    "code": "LILIANI",
+    "name": ""
+  },
+  {
+    "code": "LODHRAN",
+    "name": ""
+  },
+  {
+    "code": "LORALAI",
+    "name": ""
+  },
+  {
+    "code": "MACH",
+    "name": ""
+  },
+  {
+    "code": "MADEJI",
+    "name": ""
+  },
+  {
+    "code": "MAILSI",
+    "name": ""
+  },
+  {
+    "code": "MALAKAND",
+    "name": ""
+  },
+  {
+    "code": "MALAKWAL-CITY",
+    "name": ""
+  },
+  {
+    "code": "MALAKWAL",
+    "name": ""
+  },
+  {
+    "code": "MALIR-CANTONMENT",
+    "name": ""
+  },
+  {
+    "code": "MAMU-KANJAN",
+    "name": ""
+  },
+  {
+    "code": "MANANWALA",
+    "name": ""
+  },
+  {
+    "code": "MANDI-BAHAUDDIN",
+    "name": ""
+  },
+  {
+    "code": "MANGLA",
+    "name": ""
+  },
+  {
+    "code": "MANKERA",
+    "name": ""
+  },
+  {
+    "code": "MANSEHRA",
+    "name": ""
+  },
+  {
+    "code": "MARDAN",
+    "name": ""
+  },
+  {
+    "code": "MASTUNG",
+    "name": ""
+  },
+  {
+    "code": "MATIARI",
+    "name": ""
+  },
+  {
+    "code": "MATLI",
+    "name": ""
+  },
+  {
+    "code": "MEHAR",
+    "name": ""
+  },
+  {
+    "code": "MEHMAND-CHAK",
+    "name": ""
+  },
+  {
+    "code": "MEHRABPUR",
+    "name": ""
+  },
+  {
+    "code": "MIAN-CHANNUN",
+    "name": ""
+  },
+  {
+    "code": "MIANKE-MOR",
+    "name": ""
+  },
+  {
+    "code": "MIANWALI",
+    "name": ""
+  },
+  {
+    "code": "MINCHIANABAD",
+    "name": ""
+  },
+  {
+    "code": "MINGORA",
+    "name": ""
+  },
+  {
+    "code": "MIRAN-SHAH",
+    "name": ""
+  },
+  {
+    "code": "MIRO-KHAN",
+    "name": ""
+  },
+  {
+    "code": "MIRPUR-BHTORO",
+    "name": ""
+  },
+  {
+    "code": "MIRPUR-KHAS",
+    "name": ""
+  },
+  {
+    "code": "MIRPUR-MATHELO",
+    "name": ""
+  },
+  {
+    "code": "MIRPUR-SAKRO",
+    "name": ""
+  },
+  {
+    "code": "MIRWAH-GORCHANI",
+    "name": ""
+  },
+  {
+    "code": "MITHA-TIWANA",
+    "name": ""
+  },
+  {
+    "code": "MITHI",
+    "name": ""
+  },
+  {
+    "code": "MORO",
+    "name": ""
+  },
+  {
+    "code": "MOZA-SHAHWALA",
+    "name": ""
+  },
+  {
+    "code": "MUGHALABAD",
+    "name": ""
+  },
+  {
+    "code": "MULTAN",
+    "name": ""
+  },
+  {
+    "code": "MURIDKE",
+    "name": ""
+  },
+  {
+    "code": "MURREE",
+    "name": ""
+  },
+  {
+    "code": "MUSA-KHEL-BAZAR",
+    "name": ""
+  },
+  {
+    "code": "MUSTAFABAD",
+    "name": ""
+  },
+  {
+    "code": "MUZAFFARABAD",
+    "name": ""
+  },
+  {
+    "code": "MUZAFFARGARH",
+    "name": ""
+  },
+  {
+    "code": "NABISAR",
+    "name": ""
+  },
+  {
+    "code": "NAGIR",
+    "name": ""
+  },
+  {
+    "code": "NANKANA-SAHIB",
+    "name": ""
+  },
+  {
+    "code": "NARANG-MANDI",
+    "name": ""
+  },
+  {
+    "code": "NAROWAL",
+    "name": ""
+  },
+  {
+    "code": "NASIRABAD",
+    "name": ""
+  },
+  {
+    "code": "NAUDERO",
+    "name": ""
+  },
+  {
+    "code": "NAUKOT",
+    "name": ""
+  },
+  {
+    "code": "NAUSHAHRA-VIRKAN",
+    "name": ""
+  },
+  {
+    "code": "NAUSHAHRO-FIROZ",
+    "name": ""
+  },
+  {
+    "code": "NAWABSHAH",
+    "name": ""
+  },
+  {
+    "code": "NAZIR-TOWN",
+    "name": ""
+  },
+  {
+    "code": "NEW-BADAH",
+    "name": ""
+  },
+  {
+    "code": "NEW-MIRPUR",
+    "name": ""
+  },
+  {
+    "code": "NOORABAD",
+    "name": ""
+  },
+  {
+    "code": "NOORIABAD",
+    "name": ""
+  },
+  {
+    "code": "NOWSHERA-CANTONMENT",
+    "name": ""
+  },
+  {
+    "code": "NOWSHERA",
+    "name": ""
+  },
+  {
+    "code": "NUSHKI",
+    "name": ""
+  },
+  {
+    "code": "OKARA",
+    "name": ""
+  },
+  {
+    "code": "ORMARA",
+    "name": ""
+  },
+  {
+    "code": "PABBI",
+    "name": ""
+  },
+  {
+    "code": "PAD-IDAN",
+    "name": ""
+  },
+  {
+    "code": "PAHARPUR",
+    "name": ""
+  },
+  {
+    "code": "PAKPATTAN",
+    "name": ""
+  },
+  {
+    "code": "PALLANDRI",
+    "name": ""
+  },
+  {
+    "code": "PANJGUR",
+    "name": ""
+  },
+  {
+    "code": "PANO-AQIL",
+    "name": ""
+  },
+  {
+    "code": "PARACHINAR",
+    "name": ""
+  },
+  {
+    "code": "PASNI",
+    "name": ""
+  },
+  {
+    "code": "PASRUR",
+    "name": ""
+  },
+  {
+    "code": "PATAN",
+    "name": ""
+  },
+  {
+    "code": "PATTOKI",
+    "name": ""
+  },
+  {
+    "code": "PESHAWAR",
+    "name": ""
+  },
+  {
+    "code": "PHALIA",
+    "name": ""
+  },
+  {
+    "code": "PIND-DADAN-KHAN",
+    "name": ""
+  },
+  {
+    "code": "PINDI-BHATTIAN",
+    "name": ""
+  },
+  {
+    "code": "PINDI-GHEB",
+    "name": ""
+  },
+  {
+    "code": "PIR-JO-GOTH",
+    "name": ""
+  },
+  {
+    "code": "PIR-MAHAL",
+    "name": ""
+  },
+  {
+    "code": "PISHIN",
+    "name": ""
+  },
+  {
+    "code": "PITHORO",
+    "name": ""
+  },
+  {
+    "code": "QADIRPUR-RAN",
+    "name": ""
+  },
+  {
+    "code": "QILA-ABDULLAH",
+    "name": ""
+  },
+  {
+    "code": "QILA-SAIFULLAH",
+    "name": ""
+  },
+  {
+    "code": "QUETTA",
+    "name": ""
+  },
+  {
+    "code": "RAHIM-YAR-KHAN",
+    "name": ""
+  },
+  {
+    "code": "RAIWIND",
+    "name": ""
+  },
+  {
+    "code": "RAJA-JANG",
+    "name": ""
+  },
+  {
+    "code": "RAJANPUR",
+    "name": ""
+  },
+  {
+    "code": "RAJO-KHANANI",
+    "name": ""
+  },
+  {
+    "code": "RANIPUR",
+    "name": ""
+  },
+  {
+    "code": "RASULNAGAR",
+    "name": ""
+  },
+  {
+    "code": "RATODERO",
+    "name": ""
+  },
+  {
+    "code": "RAWALAKOT",
+    "name": ""
+  },
+  {
+    "code": "RAWALPINDI",
+    "name": ""
+  },
+  {
+    "code": "RENALA-KHURD",
+    "name": ""
+  },
+  {
+    "code": "RISALPUR-CANTONMENT",
+    "name": ""
+  },
+  {
+    "code": "ROHRI",
+    "name": ""
+  },
+  {
+    "code": "ROJHAN",
+    "name": ""
+  },
+  {
+    "code": "RUSTAM",
+    "name": ""
+  },
+  {
+    "code": "SADDIQABAD",
+    "name": ""
+  },
+  {
+    "code": "SAHIWAL",
+    "name": ""
+  },
+  {
+    "code": "SAHIWAL",
+    "name": ""
+  },
+  {
+    "code": "SAIDU-SHARIF",
+    "name": ""
+  },
+  {
+    "code": "SAKRAND",
+    "name": ""
+  },
+  {
+    "code": "SAMARO",
+    "name": ""
+  },
+  {
+    "code": "SAMBRIAL",
+    "name": ""
+  },
+  {
+    "code": "SANGHAR",
+    "name": ""
+  },
+  {
+    "code": "SANGLA-HILL",
+    "name": ""
+  },
+  {
+    "code": "SANJWAL",
+    "name": ""
+  },
+  {
+    "code": "SANN",
+    "name": ""
+  },
+  {
+    "code": "SARAI-ALAMGIR",
+    "name": ""
+  },
+  {
+    "code": "SARAI-NAURANG",
+    "name": ""
+  },
+  {
+    "code": "SARAI-SIDHU",
+    "name": ""
+  },
+  {
+    "code": "SARGODHA",
+    "name": ""
+  },
+  {
+    "code": "SEHWAN",
+    "name": ""
+  },
+  {
+    "code": "SETHARJA-OLD",
+    "name": ""
+  },
+  {
+    "code": "SHABQADAR",
+    "name": ""
+  },
+  {
+    "code": "SHAHDAD-KOT",
+    "name": ""
+  },
+  {
+    "code": "SHAHDADPUR",
+    "name": ""
+  },
+  {
+    "code": "SHAHKOT",
+    "name": ""
+  },
+  {
+    "code": "SHAHPUR-CHAKAR",
+    "name": ""
+  },
+  {
+    "code": "SHAHPUR",
+    "name": ""
+  },
+  {
+    "code": "SHAHR-SULTAN",
+    "name": ""
+  },
+  {
+    "code": "SHAKARGARH",
+    "name": ""
+  },
+  {
+    "code": "SHARQPUR-SHARIF",
+    "name": ""
+  },
+  {
+    "code": "SHEKHUPURA",
+    "name": ""
+  },
+  {
+    "code": "SHIGAR",
+    "name": ""
+  },
+  {
+    "code": "SHIKARPUR",
+    "name": ""
+  },
+  {
+    "code": "SHINGLI-BALA",
+    "name": ""
+  },
+  {
+    "code": "SHINPOKH",
+    "name": ""
+  },
+  {
+    "code": "SHORKOT",
+    "name": ""
+  },
+  {
+    "code": "SHUJAABAD",
+    "name": ""
+  },
+  {
+    "code": "SIALKOT",
+    "name": ""
+  },
+  {
+    "code": "SIBI",
+    "name": ""
+  },
+  {
+    "code": "SILLANWALI",
+    "name": ""
+  },
+  {
+    "code": "SINJHORO",
+    "name": ""
+  },
+  {
+    "code": "SITA-ROAD",
+    "name": ""
+  },
+  {
+    "code": "SKARDU",
+    "name": ""
+  },
+  {
+    "code": "SOBHODERO",
+    "name": ""
+  },
+  {
+    "code": "SODHRI",
+    "name": ""
+  },
+  {
+    "code": "SOHBATPUR",
+    "name": ""
+  },
+  {
+    "code": "SOOK-KALAN",
+    "name": ""
+  },
+  {
+    "code": "SUKHEKE-MANDI",
+    "name": ""
+  },
+  {
+    "code": "SUKKUR",
+    "name": ""
+  },
+  {
+    "code": "SURAB",
+    "name": ""
+  },
+  {
+    "code": "SURKHPUR",
+    "name": ""
+  },
+  {
+    "code": "SWABI",
+    "name": ""
+  },
+  {
+    "code": "TALAGANG",
+    "name": ""
+  },
+  {
+    "code": "TALAMBA",
+    "name": ""
+  },
+  {
+    "code": "TALHAR",
+    "name": ""
+  },
+  {
+    "code": "TANDLIANWALA",
+    "name": ""
+  },
+  {
+    "code": "TANDO-ADAM",
+    "name": ""
+  },
+  {
+    "code": "TANDO-ALLAHYAR",
+    "name": ""
+  },
+  {
+    "code": "TANDO-BAGO",
+    "name": ""
+  },
+  {
+    "code": "TANDO-JAM",
+    "name": ""
+  },
+  {
+    "code": "TANDO-MITHA-KHAN",
+    "name": ""
+  },
+  {
+    "code": "TANDO-MUHAMMAD-KHAN",
+    "name": ""
+  },
+  {
+    "code": "TANGI",
+    "name": ""
+  },
+  {
+    "code": "TANGWANI",
+    "name": ""
+  },
+  {
+    "code": "TANK",
+    "name": ""
+  },
+  {
+    "code": "TAUNSA",
+    "name": ""
+  },
+  {
+    "code": "THAL",
+    "name": ""
+  },
+  {
+    "code": "THARU-SHAH",
+    "name": ""
+  },
+  {
+    "code": "THATTA",
+    "name": ""
+  },
+  {
+    "code": "THUL",
+    "name": ""
+  },
+  {
+    "code": "TIMARGARA",
+    "name": ""
+  },
+  {
+    "code": "TOBA-TEK-SINGH",
+    "name": ""
+  },
+  {
+    "code": "TOLTI",
+    "name": ""
+  },
+  {
+    "code": "TOPI",
+    "name": ""
+  },
+  {
+    "code": "TORDHER",
+    "name": ""
+  },
+  {
+    "code": "TURBAT",
+    "name": ""
+  },
+  {
+    "code": "UBAURO",
+    "name": ""
+  },
+  {
+    "code": "UMARKOT",
+    "name": ""
+  },
+  {
+    "code": "UPPER-DIR",
+    "name": ""
+  },
+  {
+    "code": "USTA-MUHAMMAD",
+    "name": ""
+  },
+  {
+    "code": "UTHAL",
+    "name": ""
+  },
+  {
+    "code": "UTMANZAI",
+    "name": ""
+  },
+  {
+    "code": "VIHARI",
+    "name": ""
+  },
+  {
+    "code": "WANA",
+    "name": ""
+  },
+  {
+    "code": "WARAH",
+    "name": ""
+  },
+  {
+    "code": "WAZIRABAD",
+    "name": ""
+  },
+  {
+    "code": "YAZMAN",
+    "name": ""
+  },
+  {
+    "code": "ZAFARWAL",
+    "name": ""
+  },
+  {
+    "code": "ZAHIR-PIR",
+    "name": ""
+  },
+  {
+    "code": "ZAIDA",
+    "name": ""
+  },
+  {
+    "code": "ZHOB",
+    "name": ""
+  },
+  {
+    "code": "ZIARAT",
+    "name": ""
+  }
+]

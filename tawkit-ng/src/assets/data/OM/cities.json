@@ -1,0 +1,278 @@
+[
+  {
+    "code": "AL-ASKHARA",
+    "name": "أشخره"
+  },
+  {
+    "code": "AL-HALLANIYYAT",
+    "name": "الحلانيات"
+  },
+  {
+    "code": "AL-KHWAIR",
+    "name": "الخوير"
+  },
+  {
+    "code": "ALBRIMI",
+    "name": "البريمي"
+  },
+  {
+    "code": "ALJAMMAH",
+    "name": "الجمة"
+  },
+  {
+    "code": "ALJAZER",
+    "name": "الجازر"
+  },
+  {
+    "code": "ALRESTAG",
+    "name": "الرستاق"
+  },
+  {
+    "code": "AZKA",
+    "name": "أزكى"
+  },
+  {
+    "code": "Adam",
+    "name": "أدم"
+  },
+  {
+    "code": "AlHashman",
+    "name": "الحشمان"
+  },
+  {
+    "code": "Alawabi",
+    "name": "العوابي"
+  },
+  {
+    "code": "Albarimi",
+    "name": "البريمي"
+  },
+  {
+    "code": "Aldakm",
+    "name": "الدقم"
+  },
+  {
+    "code": "Alhamra",
+    "name": "الحمراء"
+  },
+  {
+    "code": "AlkabelEast",
+    "name": "القابل الشرقيه"
+  },
+  {
+    "code": "Alkamel",
+    "name": "الكامل"
+  },
+  {
+    "code": "Alkhabora",
+    "name": "الخابوره"
+  },
+  {
+    "code": "Almadibi",
+    "name": "المضيبي"
+  },
+  {
+    "code": "BARKA-Al Billa",
+    "name": "بركاء - البلة"
+  },
+  {
+    "code": "BARKA",
+    "name": "بركاء"
+  },
+  {
+    "code": "BIDBID",
+    "name": "بدبد"
+  },
+  {
+    "code": "Badia",
+    "name": "بدية"
+  },
+  {
+    "code": "Bahlaa",
+    "name": "بهلا"
+  },
+  {
+    "code": "Bakha",
+    "name": "بخاء"
+  },
+  {
+    "code": "DANAK",
+    "name": "ضنك"
+  },
+  {
+    "code": "DHALKUT",
+    "name": "ضلكوت"
+  },
+  {
+    "code": "EBRAA",
+    "name": "إبراء"
+  },
+  {
+    "code": "EBRY",
+    "name": "عبري"
+  },
+  {
+    "code": "Fahood",
+    "name": "فهود"
+  },
+  {
+    "code": "Haima",
+    "name": "هيما"
+  },
+  {
+    "code": "JEALAN_BOALI",
+    "name": "جعلان بوعلي"
+  },
+  {
+    "code": "JOAALAN_BOHASAN",
+    "name": "جعلان بو حسن"
+  },
+  {
+    "code": "LIWA",
+    "name": "لوى"
+  },
+  {
+    "code": "MAHDAH",
+    "name": "محضه"
+  },
+  {
+    "code": "MARMUL",
+    "name": "مرمول"
+  },
+  {
+    "code": "MASNAA",
+    "name": "مصنعة"
+  },
+  {
+    "code": "MIRBAT",
+    "name": "مرباط"
+  },
+  {
+    "code": "MUQSHIN",
+    "name": "مقشن"
+  },
+  {
+    "code": "MUSANDAM",
+    "name": "مسندم"
+  },
+  {
+    "code": "MUSCAT",
+    "name": "مسقط"
+  },
+  {
+    "code": "Madha",
+    "name": "مدحاء"
+  },
+  {
+    "code": "Mahwat",
+    "name": "محوت"
+  },
+  {
+    "code": "Manh",
+    "name": "منح"
+  },
+  {
+    "code": "Maseera",
+    "name": "مصيرة"
+  },
+  {
+    "code": "NIMR",
+    "name": "نمر"
+  },
+  {
+    "code": "Nakhl",
+    "name": "نخل"
+  },
+  {
+    "code": "Nizwa",
+    "name": "نزوى"
+  },
+  {
+    "code": "Qariat",
+    "name": "قريات"
+  },
+  {
+    "code": "QarnAlalam",
+    "name": "قرن العلم"
+  },
+  {
+    "code": "RAS-MADRAKAH",
+    "name": "راس مدركة"
+  },
+  {
+    "code": "RasAlhad",
+    "name": "رأس الحد"
+  },
+  {
+    "code": "SAHAR",
+    "name": "صحار"
+  },
+  {
+    "code": "SALALA",
+    "name": "صلاله"
+  },
+  {
+    "code": "SAMAD-ALSHAN",
+    "name": "سمد ألشان"
+  },
+  {
+    "code": "SIQ",
+    "name": "سيق"
+  },
+  {
+    "code": "SUHUM",
+    "name": "صحم"
+  },
+  {
+    "code": "SUR",
+    "name": "صور"
+  },
+  {
+    "code": "SWAIK",
+    "name": "سويق"
+  },
+  {
+    "code": "Sadah",
+    "name": "سدح"
+  },
+  {
+    "code": "Samael",
+    "name": "سمايل"
+  },
+  {
+    "code": "Sanaw",
+    "name": "سناو"
+  },
+  {
+    "code": "Sarab",
+    "name": "صراب"
+  },
+  {
+    "code": "Sarfit",
+    "name": "صرفيت"
+  },
+  {
+    "code": "Shanas",
+    "name": "شناص"
+  },
+  {
+    "code": "Taka",
+    "name": "طاقة"
+  },
+  {
+    "code": "Thamreet",
+    "name": "ثمريت"
+  },
+  {
+    "code": "Wadi-Hibi",
+    "name": "وادي حيبي"
+  },
+  {
+    "code": "WadiBaniKhaled",
+    "name": "وادي بني خالد"
+  },
+  {
+    "code": "Yanqul",
+    "name": "ينقل"
+  }
+]

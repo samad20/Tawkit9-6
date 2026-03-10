@@ -1,0 +1,2070 @@
+[
+  {
+    "code": "KAB_ACEH_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_BARAT_DAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_BESAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_JAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_SINGKIL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_TAMIANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_TENGGARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ACEH_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_AGAM",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ALOR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ASAHAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ASMAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BADUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BALANGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANDUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANDUNG_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGGAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGGAI_KEPULAUAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGGAI_LAUT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGKALAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGKA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGKA_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGKA_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANGLI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANJAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANJARNEGARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANTAENG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANTUL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANYUASIN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANYUMAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BANYUWANGI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BARITO_KUALA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BARITO_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BARITO_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BARITO_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BARRU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BATANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BATANGHARI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BATUBARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BEKASI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BELITUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BELITUNG_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BELU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENER_MERIAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENGKALIS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENGKAYANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENGKULU_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENGKULU_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BENGKULU_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BERAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BIAK_NUMFOR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BIMA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BINTAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BIREUEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BLITAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BLORA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOALEMO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOGOR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOJONEGORO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOLAANG_MONGONDOW",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOLAANG_MONGONDOW_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOLAANG_MONGONDOW_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOLAANG_MONGONDOW_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOMBANA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BONDOWOSO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BONE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BONE_BOLANGO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOVEN_DIGOEL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BOYOLALI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BREBES",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BULELENG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BULUKUMBA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BULUNGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUNGO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUOL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BURU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BURU_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUTON",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUTON_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUTON_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_BUTON_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_CIAMIS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_CIANJUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_CILACAP",
+    "name": "---"
+  },
+  {
+    "code": "KAB_CIREBON",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DAIRI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DEIYAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DELI_SERDANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DEMAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DHARMASRAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DOGIYAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DOMPU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_DONGGALA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_EMPAT_LAWANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ENDE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ENREKANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_FAKFAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_FLORES_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GARUT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GAYO_LUES",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GIANYAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GORONTALO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GORONTALO_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GOWA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GRESIK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GROBOGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GUNUNGKIDUL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_GUNUNG_MAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HALMAHERA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HALMAHERA_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HALMAHERA_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HALMAHERA_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HALMAHERA_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HULU_SUNGAI_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HULU_SUNGAI_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HULU_SUNGAI_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_HUMBANG_HASUNDUTAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_INDRAGIRI_HILIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_INDRAGIRI_HULU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_INDRAMAYU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_INTAN_JAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JAYAPURA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JAYAWIJAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JEMBER",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JEMBRANA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JENEPONTO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JEPARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_JOMBANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAIMANA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAMPAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAPUAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAPUAS_HULU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KARANGANYAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KARANGASEM",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KARAWANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KARIMUN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KARO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KATINGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KAYONG_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEBUMEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEDIRI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEEROM",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KENDAL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPAHIANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_ANAMBAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_ARU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_MENTAWAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_MERANTI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_SANGIHE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_SELAYAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_SERIBU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_SIAU_TAGULANDANG_BIARO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_SULA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_TALAUD",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KEPULAUAN_YAPEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KERINCI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KETAPANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KLATEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KLUNGKUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOLAKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOLAKA_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOLAKA_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KONAWE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KONAWE_KEPULAUAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KONAWE_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KONAWE_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOTABARU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOTAWARINGIN_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KOTAWARINGIN_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUANTAN_SINGINGI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUBU_RAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUDUS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KULON_PROGO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUNINGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUPANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUTAI_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUTAI_KARTANEGARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_KUTAI_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LABUHANBATU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LABUHANBATU_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LABUHANBATU_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAHAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMANDAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMONGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMPUNG_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMPUNG_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMPUNG_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMPUNG_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LAMPUNG_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LANDAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LANGKAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LANNY_JAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LEBAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LEBONG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LEMBATA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LIMA_PULUH_KOTA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LINGGA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LOMBOK_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LOMBOK_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LOMBOK_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LOMBOK_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LUMAJANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LUWU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LUWU_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_LUWU_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MADIUN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAGELANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAGETAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAHAKAM_ULU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAJALENGKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAJENE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALAKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALINAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALUKU_BARAT_DAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALUKU_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALUKU_TENGGARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MALUKU_TENGGARA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMASA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMBERAMO_RAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMBERAMO_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMUJU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMUJU_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAMUJU_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANDAILING_NATAL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANGGARAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANGGARAI_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANGGARAI_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANOKWARI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MANOKWARI_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAPPI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAROS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MAYBRAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MELAWI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MEMPAWAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MERANGIN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MERAUKE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MESUJI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MIMIKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MINAHASA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MINAHASA_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MINAHASA_TENGGARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MINAHASA_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MOJOKERTO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MOROWALI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MOROWALI_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUARA_ENIM",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUARO_JAMBI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUKOMUKO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUNA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUNA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MURUNG_RAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUSI_BANYUASIN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUSI_RAWAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_MUSI_RAWAS_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NABIRE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NAGAN_RAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NAGEKEO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NATUNA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NDUGA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NGADA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NGANJUK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NGAWI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NIAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NIAS_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NIAS_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NIAS_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_NUNUKAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_OGAN_ILIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_OGAN_KOMERING_ILIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_OGAN_KOMERING_ULU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_OGAN_KOMERING_ULU_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_OGAN_KOMERING_ULU_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PACITAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PADANG_LAWAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PADANG_LAWAS_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PADANG_PARIAMAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PAKPAK_BHARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PAMEKASAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PANDEGLANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PANGANDARAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PANGKAJENE_DAN_KEPULAUAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PANIAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PARIGI_MOUTONG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PASAMAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PASAMAN_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PASER",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PASURUAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PATI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PEGUNUNGAN_ARFAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PEGUNUNGAN_BINTANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PEKALONGAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PELALAWAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PEMALANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PENAJAM_PASER_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PENUKAL_ABAB_LEMATANG_ILIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PESAWARAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PESISIR_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PESISIR_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PIDIE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PIDIE_JAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PINRANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_POHUWATO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_POLEWALI_MANDAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PONOROGO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_POSO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PRINGSEWU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PROBOLINGGO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PULANG_PISAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PULAU_MOROTAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PULAU_TALIABU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PUNCAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PUNCAK_JAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PURBALINGGA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PURWAKARTA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_PURWOREJO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_RAJA_AMPAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_REJANG_LEBONG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_REMBANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ROKAN_HILIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ROKAN_HULU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_ROTE_NDAO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SABU_RAIJUA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SAMBAS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SAMOSIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SAMPANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SANGGAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SARMI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SAROLANGUN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SEKADAU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SELUMA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SEMARANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SERAM_BAGIAN_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SERAM_BAGIAN_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SERANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SERDANG_BEDAGAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SERUYAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIAK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIDENRENG_RAPPANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIDOARJO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIGI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIJUNJUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIKKA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIMALUNGUN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SIMEULUE",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SINJAI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SINTANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SITUBONDO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SLEMAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SOLOK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SOLOK_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SOPPENG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SORONG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SORONG_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SRAGEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUBANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUKABUMI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUKAMARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUKOHARJO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBAWA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBAWA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBA_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBA_BARAT_DAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBA_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMBA_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMEDANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUMENEP",
+    "name": "---"
+  },
+  {
+    "code": "KAB_SUPIORI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TABALONG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TABANAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAKALAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAMBRAUW",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANAH_BUMBU",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANAH_DATAR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANAH_LAUT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANA_TIDUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANA_TORAJA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANGERANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANGGAMUS",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANJUNG_JABUNG_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TANJUNG_JABUNG_TIMUR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAPANULI_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAPANULI_TENGAH",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAPANULI_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TAPIN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TASIKMALAYA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TEBO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TEGAL",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TELUK_BINTUNI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TELUK_WONDAMA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TEMANGGUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TIMOR_TENGAH_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TIMOR_TENGAH_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TOBA_SAMOSIR",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TOJO_UNA-UNA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TOLI-TOLI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TOLIKARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TORAJA_UTARA",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TRENGGALEK",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TUBAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TULANG_BAWANG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TULANG_BAWANG_BARAT",
+    "name": "---"
+  },
+  {
+    "code": "KAB_TULUNGAGUNG",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WAJO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WAKATOBI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WAROPEN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WAY_KANAN",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WONOGIRI",
+    "name": "---"
+  },
+  {
+    "code": "KAB_WONOSOBO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_YAHUKIMO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_YALIMO",
+    "name": "---"
+  },
+  {
+    "code": "KAB_YAPEN_WAROPEN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_AMBON",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BALIKPAPAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANDAR_LAMPUNG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANDA_ACEH",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANDUNG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANJAR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANJARBARU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BANJARMASIN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BATAM",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BATU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BAU-BAU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BEKASI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BENGKULU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BIMA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BINJAI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BITUNG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BLITAR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BOGOR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BONTANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_BUKITTINGGI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_CILEGON",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_CIMAHI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_CIREBON",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_DENPASAR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_DEPOK",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_DUMAI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_GORONTALO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_GUNUNGSITOLI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_JAKARTA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_JAMBI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_JAYAPURA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_KEDIRI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_KENDARI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_KOTAMOBAGU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_KUPANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_LANGSA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_LHOKSEUMAWE",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_LUBUKLINGGAU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MADIUN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MAGELANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MAKASSAR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MALANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MANADO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MATARAM",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MEDAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_METRO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_MOJOKERTO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PADANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PADANGPANJANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PADANGSIDEMPUAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PAGAR_ALAM",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PALANGKARAYA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PALEMBANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PALOPO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PALU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PANGKAL_PINANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PAREPARE",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PARIAMAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PASURUAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PAYAKUMBUH",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PEKALONGAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PEKANBARU",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PEMATANGSIANTAR",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PONTIANAK",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PRABUMULIH",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_PROBOLINGGO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SABANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SALATIGA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SAMARINDA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SAWAHLUNTO",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SEMARANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SERANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SIBOLGA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SINGKAWANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SOFIFI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SOLOK",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SORONG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SUBULUSSALAM",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SUKABUMI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SUNGAI_PENUH",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SURABAYA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_SURAKARTA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TANGERANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TANGERANG_SELATAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TANJUNGBALAI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TANJUNG_PINANG",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TARAKAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TASIKMALAYA",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TEBING_TINGGI",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TEGAL",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TERNATE",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TIDORE_KEPULAUAN",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TOMOHON",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_TUAL",
+    "name": "---"
+  },
+  {
+    "code": "KOTA_YOGYAKARTA",
+    "name": "---"
+  },
+  {
+    "code": "PEKAJANG_KAB_LINGGA",
+    "name": "---"
+  },
+  {
+    "code": "PULAU_LAUT_KAB_NATUNA",
+    "name": "---"
+  },
+  {
+    "code": "PULAU_MIDAI_KAB_NATUNA",
+    "name": "---"
+  },
+  {
+    "code": "PULAU_SERASAN_KAB_NATUNA",
+    "name": "---"
+  },
+  {
+    "code": "PULAU_TAMBELAN_KAB_BINTAN",
+    "name": "---"
+  }
+]

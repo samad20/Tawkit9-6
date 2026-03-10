@@ -1,0 +1,826 @@
+[
+  {
+    "code": "Abadan_",
+    "name": ""
+  },
+  {
+    "code": "Abadeh_",
+    "name": ""
+  },
+  {
+    "code": "Abdanan_",
+    "name": ""
+  },
+  {
+    "code": "Abhar_",
+    "name": ""
+  },
+  {
+    "code": "Abrisham_",
+    "name": ""
+  },
+  {
+    "code": "Abyek_",
+    "name": ""
+  },
+  {
+    "code": "Aghajari_",
+    "name": ""
+  },
+  {
+    "code": "Ahar_",
+    "name": ""
+  },
+  {
+    "code": "Ahvaz_",
+    "name": ""
+  },
+  {
+    "code": "Ajab-Shir_",
+    "name": ""
+  },
+  {
+    "code": "Akbarabad_",
+    "name": ""
+  },
+  {
+    "code": "Aleshtar_",
+    "name": ""
+  },
+  {
+    "code": "Aligudarz_",
+    "name": ""
+  },
+  {
+    "code": "Alvand_",
+    "name": ""
+  },
+  {
+    "code": "Alvand_",
+    "name": ""
+  },
+  {
+    "code": "Amol_",
+    "name": ""
+  },
+  {
+    "code": "Arak_",
+    "name": ""
+  },
+  {
+    "code": "Ardabil_",
+    "name": ""
+  },
+  {
+    "code": "Ardakan_",
+    "name": ""
+  },
+  {
+    "code": "Ardestan_",
+    "name": ""
+  },
+  {
+    "code": "Asadabad_",
+    "name": ""
+  },
+  {
+    "code": "Astaneh-Ye-Ashrafiyeh_",
+    "name": ""
+  },
+  {
+    "code": "Astara_",
+    "name": ""
+  },
+  {
+    "code": "Azadshahr_",
+    "name": ""
+  },
+  {
+    "code": "Azadshahr_",
+    "name": ""
+  },
+  {
+    "code": "Azna_",
+    "name": ""
+  },
+  {
+    "code": "Babol_",
+    "name": ""
+  },
+  {
+    "code": "Babolsar_",
+    "name": ""
+  },
+  {
+    "code": "Bafq_",
+    "name": ""
+  },
+  {
+    "code": "Bahar_",
+    "name": ""
+  },
+  {
+    "code": "Bam_",
+    "name": ""
+  },
+  {
+    "code": "Bandar-Abbas_",
+    "name": ""
+  },
+  {
+    "code": "Bandar-E-Anzali_",
+    "name": ""
+  },
+  {
+    "code": "Bandar-E-Genaveh_",
+    "name": ""
+  },
+  {
+    "code": "Bandar-E-Lengeh_",
+    "name": ""
+  },
+  {
+    "code": "Baneh_",
+    "name": ""
+  },
+  {
+    "code": "Bardaskan_",
+    "name": ""
+  },
+  {
+    "code": "Bardsir_",
+    "name": ""
+  },
+  {
+    "code": "Behbahan_",
+    "name": ""
+  },
+  {
+    "code": "Behshahr_",
+    "name": ""
+  },
+  {
+    "code": "Bijar_",
+    "name": ""
+  },
+  {
+    "code": "Birjand_",
+    "name": ""
+  },
+  {
+    "code": "Bojnurd_",
+    "name": ""
+  },
+  {
+    "code": "Bonab_",
+    "name": ""
+  },
+  {
+    "code": "Borazjan_",
+    "name": ""
+  },
+  {
+    "code": "Borujen_",
+    "name": ""
+  },
+  {
+    "code": "Borujerd_",
+    "name": ""
+  },
+  {
+    "code": "Bukan_",
+    "name": ""
+  },
+  {
+    "code": "Bushehr_",
+    "name": ""
+  },
+  {
+    "code": "Chabahar_",
+    "name": ""
+  },
+  {
+    "code": "Chalus_",
+    "name": ""
+  },
+  {
+    "code": "Chenaran_",
+    "name": ""
+  },
+  {
+    "code": "Damavand_",
+    "name": ""
+  },
+  {
+    "code": "Damghan_",
+    "name": ""
+  },
+  {
+    "code": "Darab_",
+    "name": ""
+  },
+  {
+    "code": "Darreh-Shahr_",
+    "name": ""
+  },
+  {
+    "code": "Dehdasht_",
+    "name": ""
+  },
+  {
+    "code": "Dehloran_",
+    "name": ""
+  },
+  {
+    "code": "Delijan_",
+    "name": ""
+  },
+  {
+    "code": "Dogonbadan_",
+    "name": ""
+  },
+  {
+    "code": "Dorcheh-Piaz_",
+    "name": ""
+  },
+  {
+    "code": "Dowlatabad_",
+    "name": ""
+  },
+  {
+    "code": "Eqbaliyeh_",
+    "name": ""
+  },
+  {
+    "code": "Esfarayen_",
+    "name": ""
+  },
+  {
+    "code": "EWAZ",
+    "name": ""
+  },
+  {
+    "code": "Falavarjan_",
+    "name": ""
+  },
+  {
+    "code": "Farrokh-Shahr_",
+    "name": ""
+  },
+  {
+    "code": "Farsan_",
+    "name": ""
+  },
+  {
+    "code": "Fasa_",
+    "name": ""
+  },
+  {
+    "code": "Fereydun-Kenar_",
+    "name": ""
+  },
+  {
+    "code": "Firuzabad_",
+    "name": ""
+  },
+  {
+    "code": "Fuman_",
+    "name": ""
+  },
+  {
+    "code": "GERASH",
+    "name": ""
+  },
+  {
+    "code": "Gerash_",
+    "name": ""
+  },
+  {
+    "code": "Golpayegan_",
+    "name": ""
+  },
+  {
+    "code": "Gonabad_",
+    "name": ""
+  },
+  {
+    "code": "Gonbad-E-Kavus_",
+    "name": ""
+  },
+  {
+    "code": "Gorgan_",
+    "name": ""
+  },
+  {
+    "code": "Hamadan_",
+    "name": ""
+  },
+  {
+    "code": "Harsin_",
+    "name": ""
+  },
+  {
+    "code": "Hashtpar_",
+    "name": ""
+  },
+  {
+    "code": "Hashtrud_",
+    "name": ""
+  },
+  {
+    "code": "Ilam_",
+    "name": ""
+  },
+  {
+    "code": "Iranshahr_",
+    "name": ""
+  },
+  {
+    "code": "Isfahan_",
+    "name": ""
+  },
+  {
+    "code": "Istgah-E-Rah-Ahan-E-Garmsar_",
+    "name": ""
+  },
+  {
+    "code": "Javanrud_",
+    "name": ""
+  },
+  {
+    "code": "Juybar_",
+    "name": ""
+  },
+  {
+    "code": "Kahriz_",
+    "name": ""
+  },
+  {
+    "code": "Kalaleh_",
+    "name": ""
+  },
+  {
+    "code": "Kamyaran_",
+    "name": ""
+  },
+  {
+    "code": "Kangavar_",
+    "name": ""
+  },
+  {
+    "code": "Karaj_",
+    "name": ""
+  },
+  {
+    "code": "Kashmar_",
+    "name": ""
+  },
+  {
+    "code": "Kazerun_",
+    "name": ""
+  },
+  {
+    "code": "Kelishad-Va-Sudarjan_",
+    "name": ""
+  },
+  {
+    "code": "Kerman_",
+    "name": ""
+  },
+  {
+    "code": "Kermanshah_",
+    "name": ""
+  },
+  {
+    "code": "Khalkhal_",
+    "name": ""
+  },
+  {
+    "code": "Khash_",
+    "name": ""
+  },
+  {
+    "code": "Khomeyn_",
+    "name": ""
+  },
+  {
+    "code": "Khomeyni-Shahr_",
+    "name": ""
+  },
+  {
+    "code": "KHONJ",
+    "name": ""
+  },
+  {
+    "code": "Khorramabad_",
+    "name": ""
+  },
+  {
+    "code": "Khorramdarreh_",
+    "name": ""
+  },
+  {
+    "code": "Khorramshahr_",
+    "name": ""
+  },
+  {
+    "code": "Khowy_",
+    "name": ""
+  },
+  {
+    "code": "Khvansar_",
+    "name": ""
+  },
+  {
+    "code": "Kish_",
+    "name": ""
+  },
+  {
+    "code": "Kuhdasht_",
+    "name": ""
+  },
+  {
+    "code": "Langarud_",
+    "name": ""
+  },
+  {
+    "code": "Mahabad_",
+    "name": ""
+  },
+  {
+    "code": "Mahdishahr_",
+    "name": ""
+  },
+  {
+    "code": "Mahriz_",
+    "name": ""
+  },
+  {
+    "code": "Malard_",
+    "name": ""
+  },
+  {
+    "code": "Malayer_",
+    "name": ""
+  },
+  {
+    "code": "Manjil_",
+    "name": ""
+  },
+  {
+    "code": "Marand_",
+    "name": ""
+  },
+  {
+    "code": "Marivan_",
+    "name": ""
+  },
+  {
+    "code": "Marvdasht_",
+    "name": ""
+  },
+  {
+    "code": "Mashhad_",
+    "name": ""
+  },
+  {
+    "code": "Masjed-Soleyman_",
+    "name": ""
+  },
+  {
+    "code": "Meybod_",
+    "name": ""
+  },
+  {
+    "code": "Miandoab_",
+    "name": ""
+  },
+  {
+    "code": "Minab_",
+    "name": ""
+  },
+  {
+    "code": "Mohr_",
+    "name": ""
+  },
+  {
+    "code": "Nahavand_",
+    "name": ""
+  },
+  {
+    "code": "Najafabad_",
+    "name": ""
+  },
+  {
+    "code": "Naqadeh_",
+    "name": ""
+  },
+  {
+    "code": "Nazarabad_",
+    "name": ""
+  },
+  {
+    "code": "Neka_",
+    "name": ""
+  },
+  {
+    "code": "Neyriz_",
+    "name": ""
+  },
+  {
+    "code": "Neyshabur_",
+    "name": ""
+  },
+  {
+    "code": "Nikshahr_",
+    "name": ""
+  },
+  {
+    "code": "Nowshahr_",
+    "name": ""
+  },
+  {
+    "code": "Nurabad_",
+    "name": ""
+  },
+  {
+    "code": "Nurabad_",
+    "name": ""
+  },
+  {
+    "code": "Omidiyeh_",
+    "name": ""
+  },
+  {
+    "code": "Orumiyeh_",
+    "name": ""
+  },
+  {
+    "code": "Oshnaviyeh_",
+    "name": ""
+  },
+  {
+    "code": "Padegan-E-Manjil_",
+    "name": ""
+  },
+  {
+    "code": "Parsabad_",
+    "name": ""
+  },
+  {
+    "code": "Pasargad_",
+    "name": ""
+  },
+  {
+    "code": "Pasragad-Branch_",
+    "name": ""
+  },
+  {
+    "code": "Paveh_",
+    "name": ""
+  },
+  {
+    "code": "Piranshahr_",
+    "name": ""
+  },
+  {
+    "code": "Pishva_",
+    "name": ""
+  },
+  {
+    "code": "Qaen_",
+    "name": ""
+  },
+  {
+    "code": "Qahderijan_",
+    "name": ""
+  },
+  {
+    "code": "Qarah-Zia-Od-Din_",
+    "name": ""
+  },
+  {
+    "code": "Qarchak_",
+    "name": ""
+  },
+  {
+    "code": "Qasr-E-Qand_",
+    "name": ""
+  },
+  {
+    "code": "Qazvin_",
+    "name": ""
+  },
+  {
+    "code": "Qeshm_",
+    "name": ""
+  },
+  {
+    "code": "Qom_",
+    "name": ""
+  },
+  {
+    "code": "Qorveh_",
+    "name": ""
+  },
+  {
+    "code": "Quchan_",
+    "name": ""
+  },
+  {
+    "code": "Rafsanjan_",
+    "name": ""
+  },
+  {
+    "code": "Ramhormoz_",
+    "name": ""
+  },
+  {
+    "code": "Ramshir_",
+    "name": ""
+  },
+  {
+    "code": "Rasht_",
+    "name": ""
+  },
+  {
+    "code": "Ravar_",
+    "name": ""
+  },
+  {
+    "code": "Rehnan_",
+    "name": ""
+  },
+  {
+    "code": "Robat-Karim_",
+    "name": ""
+  },
+  {
+    "code": "Rudsar_",
+    "name": ""
+  },
+  {
+    "code": "Sabzevar_",
+    "name": ""
+  },
+  {
+    "code": "Salmas_",
+    "name": ""
+  },
+  {
+    "code": "Sanandaj_",
+    "name": ""
+  },
+  {
+    "code": "Saqqez_",
+    "name": ""
+  },
+  {
+    "code": "Sarakhs_",
+    "name": ""
+  },
+  {
+    "code": "Sari_",
+    "name": ""
+  },
+  {
+    "code": "Sarpol-E-Zahab_",
+    "name": ""
+  },
+  {
+    "code": "Saveh_",
+    "name": ""
+  },
+  {
+    "code": "Semirom_",
+    "name": ""
+  },
+  {
+    "code": "Semnan_",
+    "name": ""
+  },
+  {
+    "code": "Shadegan_",
+    "name": ""
+  },
+  {
+    "code": "Shahin-Dezh_",
+    "name": ""
+  },
+  {
+    "code": "Shahr-E-Babak_",
+    "name": ""
+  },
+  {
+    "code": "Shahr-E-Kord_",
+    "name": ""
+  },
+  {
+    "code": "Shahre-Jadide-Andisheh_",
+    "name": ""
+  },
+  {
+    "code": "Shahriar_",
+    "name": ""
+  },
+  {
+    "code": "Shahrud_",
+    "name": ""
+  },
+  {
+    "code": "Shiraz_",
+    "name": ""
+  },
+  {
+    "code": "Shirvan_",
+    "name": ""
+  },
+  {
+    "code": "Shush_",
+    "name": ""
+  },
+  {
+    "code": "Shushtar_",
+    "name": ""
+  },
+  {
+    "code": "Sirjan_",
+    "name": ""
+  },
+  {
+    "code": "Sonqor_",
+    "name": ""
+  },
+  {
+    "code": "Susangerd_",
+    "name": ""
+  },
+  {
+    "code": "Tabas_",
+    "name": ""
+  },
+  {
+    "code": "Tabriz_",
+    "name": ""
+  },
+  {
+    "code": "Taft_",
+    "name": ""
+  },
+  {
+    "code": "Takab_",
+    "name": ""
+  },
+  {
+    "code": "Takestan_",
+    "name": ""
+  },
+  {
+    "code": "Taybad_",
+    "name": ""
+  },
+  {
+    "code": "Tehran_",
+    "name": ""
+  },
+  {
+    "code": "Tonekabon_",
+    "name": ""
+  },
+  {
+    "code": "Torbat-E-Heydariyeh_",
+    "name": ""
+  },
+  {
+    "code": "Torbat-E-Jam_",
+    "name": ""
+  },
+  {
+    "code": "Varamin_",
+    "name": ""
+  },
+  {
+    "code": "Yasuj_",
+    "name": ""
+  },
+  {
+    "code": "Yazd_",
+    "name": ""
+  },
+  {
+    "code": "Zabol_",
+    "name": ""
+  },
+  {
+    "code": "Zahedan_",
+    "name": ""
+  },
+  {
+    "code": "Zanjan_",
+    "name": ""
+  },
+  {
+    "code": "Zarand_",
+    "name": ""
+  }
+]
